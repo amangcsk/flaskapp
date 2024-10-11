@@ -1,0 +1,2051 @@
+# apple - Pronunciation: /ˈæp.əl/ 🔊 - Meaning: 사과, 애플(회사) - Example: The apple is red and juicy. - Example: An apple a day keeps the doctor away.
+
+# book - Pronunciation: /bʊk/ 🔊 - Meaning: 책, 예약하다 - Example: I love reading books. - Example: Can you book a table for dinner?
+
+# cat - Pronunciation: /kæt/ 🔊 - Meaning: 고양이 - Example: The cat is sleeping on the sofa. - Example: Cats are independent animals.
+
+# dog - Pronunciation: /dɒɡ/ 🔊 - Meaning: 개 - Example: The dog is wagging its tail. - Example: Dogs are often called man's best friend.
+
+# eat - Pronunciation: /iːt/ 🔊 - Meaning: 먹다 - Example: What do you like to eat? - Example: Let's eat out tonight.
+
+# friend - Pronunciation: /frend/ 🔊 - Meaning: 친구 - Example: She's my best friend. - Example: It's important to have good friends.
+
+# go - Pronunciation: /ɡəʊ/ 🔊 - Meaning: 가다 - Example: I go to school every day. - Example: Let's go to the park.
+
+# happy - Pronunciation: /ˈhæp.i/ 🔊 - Meaning: 행복한, 즐거운 - Example: She looks very happy today. - Example: We're happy with the results.
+
+# ice - Pronunciation: /aɪs/ 🔊 - Meaning: 얼음 - Example: Would you like some ice in your drink? - Example: Be careful, the road is covered with ice.
+
+# jump - Pronunciation: /dʒʌmp/ 🔊 - Meaning: 뛰다 - Example: The children love to jump on the trampoline. - Example: Can you jump over that fence?
+
+# kind - Pronunciation: /kaɪnd/ 🔊 - Meaning: 친절한, 종류 - Example: It's important to be kind to others. - Example: What kind of music do you like?
+
+# love - Pronunciation: /lʌv/ 🔊 - Meaning: 사랑, 사랑하다 - Example: I love my family. - Example: She loves to dance.
+
+# money - Pronunciation: /ˈmʌn.i/ 🔊 - Meaning: 돈 - Example: Save your money for the future. - Example: Money can't buy happiness.
+
+# new - Pronunciation: /njuː/ 🔊 - Meaning: 새로운 - Example: I bought a new car. - Example: Have you heard the new song?
+
+# open - Pronunciation: /ˈəʊ.pən/ 🔊 - Meaning: 열다, 열린 - Example: Please open the window. - Example: The shop is open until 9 PM.
+
+# play - Pronunciation: /pleɪ/ 🔊 - Meaning: 놀다, 연주하다 - Example: The children are playing in the garden. - Example: Can you play the piano?
+
+# quick - Pronunciation: /kwɪk/ 🔊 - Meaning: 빠른 - Example: She's very quick at solving problems. - Example: We need a quick solution.
+
+# run - Pronunciation: /rʌn/ 🔊 - Meaning: 달리다, 운영하다 - Example: I run every morning. - Example: They run a successful business.
+
+# smile - Pronunciation: /smaɪl/ 🔊 - Meaning: 미소, 웃다 - Example: His smile brightened up the room. - Example: Smile for the camera!
+
+# time - Pronunciation: /taɪm/ 🔊 - Meaning: 시간 - Example: What time is it? - Example: Time flies when you're having fun.
+
+# use - Pronunciation: /juːz/ 🔊 - Meaning: 사용하다 - Example: How do you use this app? - Example: Use a spoon to eat the soup.
+
+# voice - Pronunciation: /vɔɪs/ 🔊 - Meaning: 목소리 - Example: She has a beautiful voice. - Example: Lower your voice, please.
+
+# water - Pronunciation: /ˈwɔː.tər/ 🔊 - Meaning: 물 - Example: Drink plenty of water every day. - Example: The flowers need water.
+
+# x-ray - Pronunciation: /ˈeks.reɪ/ 🔊 - Meaning: 엑스레이 - Example: The doctor took an x-ray of my arm. - Example: X-rays can show broken bones.
+
+# young - Pronunciation: /jʌŋ/ 🔊 - Meaning: 젊은 - Example: They have two young children. - Example: She looks young for her age.
+
+# zoo - Pronunciation: /zuː/ 🔊 - Meaning: 동물원 - Example: We saw lions at the zoo. - Example: The zoo is home to many endangered species.
+
+# air - Pronunciation: /eər/ 🔊 - Meaning: 공기 - Example: The air is fresh in the mountains. - Example: Open the window to let in some air.
+
+# big - Pronunciation: /bɪɡ/ 🔊 - Meaning: 큰 - Example: They live in a big house. - Example: That's a big responsibility.
+
+# cold - Pronunciation: /kəʊld/ 🔊 - Meaning: 추운, 감기 - Example: It's very cold outside. - Example: I caught a cold last week.
+
+# day - Pronunciation: /deɪ/ 🔊 - Meaning: 날, 하루 - Example: Have a nice day! - Example: I work five days a week.
+
+# early - Pronunciation: /ˈɜː.li/ 🔊 - Meaning: 이른, 일찍 - Example: I wake up early every morning. - Example: The early bird catches the worm.
+
+# food - Pronunciation: /fuːd/ 🔊 - Meaning: 음식 - Example: I love Italian food. - Example: Don't waste food.
+
+# good - Pronunciation: /ɡʊd/ 🔊 - Meaning: 좋은 - Example: That's a good idea. - Example: Have a good time!
+
+# help - Pronunciation: /help/ 🔊 - Meaning: 돕다, 도움 - Example: Can you help me with this? - Example: Thank you for your help.
+
+# important - Pronunciation: /ɪmˈpɔː.tənt/ 🔊 - Meaning: 중요한 - Example: This is an important meeting. - Example: Health is important.
+
+# job - Pronunciation: /dʒɒb/ 🔊 - Meaning: 직업, 일 - Example: She has a new job. - Example: It's a difficult job, but someone has to do it.
+
+# key - Pronunciation: /kiː/ 🔊 - Meaning: 열쇠, 중요한 - Example: Don't forget your house key. - Example: Confidence is the key to success.
+
+# learn - Pronunciation: /lɜːn/ 🔊 - Meaning: 배우다 - Example: I want to learn a new language. - Example: You learn something new every day.
+
+# make - Pronunciation: /meɪk/ 🔊 - Meaning: 만들다 - Example: Can you make dinner tonight? - Example: Let's make a plan.
+
+# night - Pronunciation: /naɪt/ 🔊 - Meaning: 밤 - Example: I couldn't sleep last night. - Example: We're going out tonight.
+
+# old - Pronunciation: /əʊld/ 🔊 - Meaning: 늙은, 오래된 - Example: My grandfather is very old. - Example: They live in an old house.
+
+# people - Pronunciation: /ˈpiː.pəl/ 🔊 - Meaning: 사람들 - Example: There are many people in the city. - Example: People should help each other.
+
+# question - Pronunciation: /ˈkwes.tʃən/ 🔊 - Meaning: 질문 - Example: Do you have any questions? - Example: That's a good question.
+
+# read - Pronunciation: /riːd/ 🔊 - Meaning: 읽다 - Example: I like to read books. - Example: Can you read this for me?
+
+# school - Pronunciation: /skuːl/ 🔊 - Meaning: 학교 - Example: The children go to school every day. - Example: What time does school start?
+
+# talk - Pronunciation: /tɔːk/ 🔊 - Meaning: 말하다 - Example: We need to talk. - Example: She talks very fast.
+
+# understand - Pronunciation: /ˌʌn.dəˈstænd/ 🔊 - Meaning: 이해하다 - Example: Do you understand the question? - Example: I don't understand why this happened.
+
+# very - Pronunciation: /ˈver.i/ 🔊 - Meaning: 매우 - Example: The movie was very good. - Example: I'm very tired today.
+
+# work - Pronunciation: /wɜːk/ 🔊 - Meaning: 일하다, 작동하다 - Example: I work in an office. - Example: Does this machine work?
+
+# year - Pronunciation: /jɪər/ 🔊 - Meaning: 년 - Example: Happy New Year! - Example: I've known her for many years.
+
+# zero - Pronunciation: /ˈzɪə.rəʊ/ 🔊 - Meaning: 영, 제로 - Example: The temperature dropped to zero. - Example: We should aim for zero waste.
+
+# ability - Pronunciation: /əˈbɪl.ə.ti/ 🔊 - Meaning: 능력 - Example: She has the ability to learn quickly. - Example: This job requires the ability to work under pressure.
+
+# brave - Pronunciation: /breɪv/ 🔊 - Meaning: 용감한 - Example: The brave firefighter saved the child. - Example: It's brave of you to speak in public.
+
+# change - Pronunciation: /tʃeɪndʒ/ 🔊 - Meaning: 변화, 바꾸다 - Example: Change is a part of life. - Example: Can you change a $20 bill?
+
+# dream - Pronunciation: /driːm/ 🔊 - Meaning: 꿈 - Example: I had a strange dream last night. - Example: It's her dream to become a doctor.
+
+# enough - Pronunciation: /ɪˈnʌf/ 🔊 - Meaning: 충분한 - Example: Do we have enough food for everyone? - Example: That's enough work for today.
+
+# family - Pronunciation: /ˈfæm.əl.i/ 🔊 - Meaning: 가족 - Example: Family is important to me. - Example: We're having a family reunion next month.
+
+# great - Pronunciation: /ɡreɪt/ 🔊 - Meaning: 훌륭한, великий - Example: That's a great idea! - Example: Alexander the Great was a famous conqueror.
+
+# health - Pronunciation: /helθ/ 🔊 - Meaning: 건강 - Example: Good health is priceless. - Example: Regular exercise is important for your health.
+
+# idea - Pronunciation: /aɪˈdɪə/ 🔊 - Meaning: 생각, 아이디어 - Example: That's an interesting idea. - Example: Do you have any ideas for the project?
+
+# journey - Pronunciation: /ˈdʒɜː.ni/ 🔊 - Meaning: 여행 - Example: Life is a journey. - Example: The journey to the mountain took three days.
+
+# knowledge - Pronunciation: /ˈnɒl.ɪdʒ/ 🔊 - Meaning: 지식 - Example: Knowledge is power. - Example: He has a wide knowledge of history.
+
+# laugh - Pronunciation: /lɑːf/ 🔊 - Meaning: 웃다 - Example: Her joke made everyone laugh. - Example: Laughter is the best medicine.
+
+# market - Pronunciation: /ˈmɑː.kɪt/ 🔊 - Meaning: 시장 - Example: Let's go to the farmer's market. - Example: The stock market is unpredictable.
+
+# nature - Pronunciation: /ˈneɪ.tʃər/ 🔊 - Meaning: 자연 - Example: I love spending time in nature. - Example: Nature can be both beautiful and dangerous.
+
+# option - Pronunciation: /ˈɒp.ʃən/ 🔊 - Meaning: 선택권, 옵션 - Example: You have two options. - Example: What are our options in this situation?
+
+# perfect - Pronunciation: /ˈpɜː.fekt/ 🔊 - Meaning: 완벽한 - Example: Nobody's perfect. - Example: That's the perfect solution to our problem.
+
+# quality - Pronunciation: /ˈkwɒl.ə.ti/ 🔊 - Meaning: 품질 - Example: This store sells high-quality products. - Example: Quality is more important than quantity.
+
+# reason - Pronunciation: /ˈriː.zən/ 🔊 - Meaning: 이유 - Example: What's the reason for your decision? - Example: There must be a reason for his behavior.
+
+# success - Pronunciation: /səkˈses/ 🔊 - Meaning: 성공 - Example: Hard work is the key to success. - Example: The project was a great success.
+
+# try - Pronunciation: /traɪ/ 🔊 - Meaning: 시도하다 - Example: If at first you don't succeed, try again. - Example: Can I try on this shirt?
+
+# unique - Pronunciation: /juˈniːk/ 🔊 - Meaning: 독특한 - Example: Every snowflake is unique. - Example: She has a unique style of painting.
+
+# value - Pronunciation: /ˈvæl.juː/ 🔊 - Meaning: 가치 - Example: This necklace has great sentimental value. - Example: We should value our time.
+
+# world - Pronunciation: /wɜːld/ 🔊 - Meaning: 세계 - Example: The world is changing rapidly. - Example: She wants to travel around the world.
+
+# xylophone - Pronunciation: /ˈzaɪ.lə.fəʊn/ 🔊 - Meaning: 실로폰 - Example: The xylophone is a percussion instrument. - Example: She plays the xylophone in the school band.
+
+# always - Pronunciation: /ˈɔːl.weɪz/ 🔊 - Meaning: 항상 - Example: He's always late for meetings. - Example: Always tell the truth.
+
+# because - Pronunciation: /bɪˈkɒz/ 🔊 - Meaning: ~때문에 - Example: I'm tired because I didn't sleep well. - Example: Because of the rain, the picnic was cancelled.
+
+# careful - Pronunciation: /ˈkeə.fəl/ 🔊 - Meaning: 조심스러운 - Example: Be careful when you cross the street. - Example: We need to be careful with our spending.
+
+# different - Pronunciation: /ˈdɪf.ər.ənt/ 🔊 - Meaning: 다른 - Example: Everyone is different. - Example: This tastes different from what I expected.
+
+# example - Pronunciation: /ɪɡˈzɑːm.pəl/ 🔊 - Meaning: 예시 - Example: Can you give me an example? - Example: Lead by example.
+
+# future - Pronunciation: /ˈfjuː.tʃər/ 🔊 - Meaning: 미래 - Example: What are your plans for the future? - Example: The future of technology is exciting.
+
+# game - Pronunciation: /ɡeɪm/ 🔊 - Meaning: 게임 - Example: Let's play a game. - Example: Life is not a game.
+
+# happen - Pronunciation: /ˈhæp.ən/ 🔊 - Meaning: 일어나다 - Example: Accidents happen. - Example: What will happen next?
+
+# information - Pronunciation: /ˌɪn.fəˈmeɪ.ʃən/ 🔊 - Meaning: 정보 - Example: Can you give me more information? - Example: The internet is a great source of information.
+
+# join - Pronunciation: /dʒɔɪn/ 🔊 - Meaning: 참여하다, 합류하다 - Example: Would you like to join us for dinner? - Example: She joined the company last year.
+
+# keep - Pronunciation: /kiːp/ 🔊 - Meaning: 유지하다, 보관하다 - Example: Keep up the good work! - Example: Where do you keep your keys?
+
+# language - Pronunciation: /ˈlæŋ.ɡwɪdʒ/ 🔊 - Meaning: 언어 - Example: How many languages do you speak? - Example: Body language is important in communication.
+
+# maybe - Pronunciation: /ˈmeɪ.bi/ 🔊 - Meaning: 아마도 - Example: Maybe we'll go to the beach tomorrow. - Example: Maybe you're right.
+
+# never - Pronunciation: /ˈnev.ər/ 🔊 - Meaning: 절대 ~ 않다 - Example: Never give up on your dreams. - Example: I've never been to Africa.
+
+# often - Pronunciation: /ˈɒf.ən/ 🔊 - Meaning: 자주 - Example: How often do you exercise? - Example: I often think about the future.
+
+# problem - Pronunciation: /ˈprɒb.ləm/ 🔊 - Meaning: 문제 - Example: What seems to be the problem? - Example: Every problem has a solution.
+
+# quiet - Pronunciation: /kwaɪət/ 🔊 - Meaning: 조용한 - Example: Please be quiet in the library. - Example: I enjoy quiet moments in nature.
+
+# right - Pronunciation: /raɪt/ 🔊 - Meaning: 맞는, 오른쪽 - Example: You're right about that. - Example: Turn right at the next corner.
+
+# similar - Pronunciation: /ˈsɪm.ɪ.lər/ 🔊 - Meaning: 비슷한 - Example: The two sisters look very similar. - Example: Our opinions are similar on this issue.
+
+# together - Pronunciation: /təˈɡeð.ər/ 🔊 - Meaning: 함께 - Example: Let's work together on this project. - Example: We've been together for five years.
+
+# until - Pronunciation: /ənˈtɪl/ 🔊 - Meaning: ~까지 - Example: The shop is open until 9 PM. - Example: Wait until I get back.
+
+# view - Pronunciation: /vjuː/ 🔊 - Meaning: 보다, 견해 - Example: The view from the top of the mountain is beautiful. - Example: What's your view on this matter?
+
+# whole - Pronunciation: /həʊl/ 🔊 - Meaning: 전체의 - Example: I spent the whole day cleaning. - Example: Look at the whole picture, not just the details.
+
+# yes - Pronunciation: /jes/ 🔊 - Meaning: 예 - Example: Yes, I agree with you. - Example: Did you finish your homework? Yes, I did.
+
+# zone - Pronunciation: /zəʊn/ 🔊 - Meaning: 구역 - Example: This is a no-parking zone. - Example: We're entering a different time zone.
+
+# achieve - Pronunciation: /əˈtʃiːv/ 🔊 - Meaning: 달성하다 - Example: She worked hard to achieve her goals. - Example: We need to achieve a balance between work and life.
+
+# believe - Pronunciation: /bɪˈliːv/ 🔊 - Meaning: 믿다 - Example: I believe in you. - Example: Do you believe in ghosts?
+
+# create - Pronunciation: /kriˈeɪt/ 🔊 - Meaning: 창조하다 - Example: Artists create beautiful works. - Example: We need to create more job opportunities.
+
+# difficult - Pronunciation: /ˈdɪf.ɪ.kəlt/ 🔊 - Meaning: 어려운 - Example: Learning a new language can be difficult. - Example: We're facing a difficult situation.
+
+# energy - Pronunciation: /ˈen.ə.dʒi/ 🔊 - Meaning: 에너지 - Example: Solar energy is becoming more popular. - Example: I don't have the energy to go out tonight.
+
+# famous - Pronunciation: /ˈfeɪ.məs/ 🔊 - Meaning: 유명한 - Example: She became famous overnight. - Example: Paris is famous for its beautiful architecture.
+
+# grow - Pronunciation: /ɡrəʊ/ 🔊 - Meaning: 자라다, 성장하다 - Example: Children grow up so fast. - Example: We grow vegetables in our garden.
+
+# honest - Pronunciation: /ˈɒn.ɪst/ 🔊 - Meaning: 정직한 - Example: It's important to be honest in relationships. - Example: To be honest, I don't like that idea.
+
+# imagine - Pronunciation: /ɪˈmædʒ.ɪn/ 🔊 - Meaning: 상상하다 - Example: Imagine a world without pollution. - Example: I can't imagine life without the internet.
+
+# judge - Pronunciation: /dʒʌdʒ/ 🔊 - Meaning: 판단하다, 판사 - Example: Don't judge a book by its cover. - Example: The judge will make a decision tomorrow.
+
+# kind - Pronunciation: /kaɪnd/ 🔊 - Meaning: 친절한, 종류 - Example: It's important to be kind to others. - Example: What kind of music do you like?
+
+# learn - Pronunciation: /lɜːn/ 🔊 - Meaning: 배우다 - Example: You're never too old to learn. - Example: I want to learn how to play the guitar.
+
+# measure - Pronunciation: /ˈmeʒ.ər/ 🔊 - Meaning: 측정하다 - Example: We need to measure the room before buying furniture. - Example: These are desperate measures for desperate times.
+
+# necessary - Pronunciation: /ˈnes.ə.ser.i/ 🔊 - Meaning: 필요한 - Example: Is it really necessary to work on weekends? - Example: A passport is necessary for international travel.
+
+# opportunity - Pronunciation: /ˌɒp.əˈtjuː.nə.ti/ 🔊 - Meaning: 기회 - Example: This job is a great opportunity. - Example: We should seize every opportunity to learn.
+
+# possible - Pronunciation: /ˈpɒs.ə.bəl/ 🔊 - Meaning: 가능한 - Example: Is it possible to finish this by tomorrow? - Example: Anything is possible if you believe in yourself.
+
+# quality - Pronunciation: /ˈkwɒl.ə.ti/ 🔊 - Meaning: 품질 - Example: This store sells high-quality products. - Example: Quality is more important than quantity.
+
+# receive - Pronunciation: /rɪˈsiːv/ 🔊 - Meaning: 받다 - Example: Did you receive my email? - Example: We received a warm welcome at the hotel.
+
+# share - Pronunciation: /ʃeər/ 🔊 - Meaning: 공유하다 - Example: It's nice to share good news. - Example: Can we share the cost of the gift?
+
+# travel - Pronunciation: /ˈtræv.əl/ 🔊 - Meaning: 여행하다 - Example: I love to travel to new places. - Example: Travel broadens the mind.
+
+# understand - Pronunciation: /ˌʌn.dəˈstænd/ 🔊 - Meaning: 이해하다 - Example: I don't understand this math problem. - Example: It's important to understand different cultures.
+
+# value - Pronunciation: /ˈvæl.juː/ 🔊 - Meaning: 가치 - Example: This painting has great value. - Example: We should value our friendships.
+
+# wonder - Pronunciation: /ˈwʌn.dər/ 🔊 - Meaning: 궁금해하다, 경이 - Example: I wonder what the future holds. - Example: The pyramids are one of the wonders of the world.
+
+# xray - Pronunciation: /ˈeks.reɪ/ 🔊 - Meaning: 엑스레이 - Example: The doctor took an xray of my arm. - Example: Xrays can help diagnose bone fractures.
+
+# young - Pronunciation: /jʌŋ/ 🔊 - Meaning: 젊은 - Example: She looks young for her age. - Example: The company wants to hire young talent.
+
+# zero - Pronunciation: /ˈzɪə.rəʊ/ 🔊 - Meaning: 영, 제로 - Example: The temperature dropped to zero. - Example: We should aim for zero waste.
+
+# active - Pronunciation: /ˈæk.tɪv/ 🔊 - Meaning: 활동적인 - Example: She leads an active lifestyle. - Example: The volcano is still active.
+
+# balance - Pronunciation: /ˈbæl.əns/ 🔊 - Meaning: 균형 - Example: It's important to maintain a work-life balance. - Example: The gymnast has excellent balance.
+
+# challenge - Pronunciation: /ˈtʃæl.ɪndʒ/ 🔊 - Meaning: 도전 - Example: Learning a new language is a big challenge. - Example: I like to challenge myself.
+
+# decision - Pronunciation: /dɪˈsɪʒ.ən/ 🔊 - Meaning: 결정 - Example: Making important decisions can be stressful. - Example: What led you to this decision?
+
+# education - Pronunciation: /ˌed.jʊˈkeɪ.ʃən/ 🔊 - Meaning: 교육 - Example: Education is the key to success. - Example: She values education highly.
+
+# freedom - Pronunciation: /ˈfriː.dəm/ 🔊 - Meaning: 자유 - Example: Freedom of speech is a fundamental right. - Example: The bird was released to freedom.
+
+# government - Pronunciation: /ˈɡʌv.ən.mənt/ 🔊 - Meaning: 정부 - Example: The government announced new policies. - Example: We need a transparent government.
+
+# history - Pronunciation: /ˈhɪs.tər.i/ 🔊 - Meaning: 역사 - Example: I'm fascinated by ancient history. - Example: We should learn from history.
+
+# important - Pronunciation: /ɪmˈpɔː.tənt/ 🔊 - Meaning: 중요한 - Example: This is an important meeting. - Example: Family is important to me.
+
+# journey - Pronunciation: /ˈdʒɜː.ni/ 🔊 - Meaning: 여정 - Example: Life is a journey, not a destination. - Example: The journey to the mountain took three days.
+
+# knowledge - Pronunciation: /ˈnɒl.ɪdʒ/ 🔊 - Meaning: 지식 - Example: Knowledge is power. - Example: She has a wide knowledge of art history.
+
+# leadership - Pronunciation: /ˈliː.də.ʃɪp/ 🔊 - Meaning: 리더십 - Example: Good leadership is crucial for success. - Example: He showed strong leadership during the crisis.
+
+# memory - Pronunciation: /ˈmem.ər.i/ 🔊 - Meaning: 기억 - Example: I have fond memories of my childhood. - Example: Elephants have excellent memory.
+
+# nature - Pronunciation: /ˈneɪ.tʃər/ 🔊 - Meaning: 자연 - Example: We should protect nature. - Example: I love spending time in nature.
+
+# option - Pronunciation: /ˈɒp.ʃən/ 🔊 - Meaning: 선택권 - Example: You have several options to choose from. - Example: Keeping quiet is not an option.
+
+# progress - Pronunciation: /ˈprəʊ.ɡres/ 🔊 - Meaning: 진전 - Example: We're making good progress on the project. - Example: Slow progress is better than no progress.
+
+# question - Pronunciation: /ˈkwes.tʃən/ 🔊 - Meaning: 질문 - Example: Don't be afraid to ask questions. - Example: That's a good question.
+
+# respect - Pronunciation: /rɪˈspekt/ 🔊 - Meaning: 존중 - Example: We should respect other people's opinions. - Example: She has earned my respect.
+
+# success - Pronunciation: /səkˈses/ 🔊 - Meaning: 성공 - Example: Hard work is the key to success. - Example: Her latest book was a great success.
+
+# technology - Pronunciation: /tekˈnɒl.ə.dʒi/ 🔊 - Meaning: 기술 - Example: Technology is advancing rapidly. - Example: We rely heavily on technology in our daily lives.
+
+# unique - Pronunciation: /juˈniːk/ 🔊 - Meaning: 독특한 - Example: Every person is unique. - Example: This is a unique opportunity.
+
+# vision - Pronunciation: /ˈvɪʒ.ən/ 🔊 - Meaning: 시력, 비전 - Example: The company has a clear vision for the future. - Example: Regular eye check-ups are important for good vision.
+
+# world - Pronunciation: /wɜːld/ 🔊 - Meaning: 세계 - Example: We live in a rapidly changing world. - Example: She wants to travel around the world.
+
+# zone - Pronunciation: /zəʊn/ 🔊 - Meaning: 구역 - Example: This is a no-parking zone. - Example: We're entering a different time zone.
+
+# ability - Pronunciation: /əˈbɪl.ə.ti/ 🔊 - Meaning: 능력 - Example: He has the ability to learn quickly. - Example: We need to improve our problem-solving abilities.
+
+# business - Pronunciation: /ˈbɪz.nɪs/ 🔊 - Meaning: 사업 - Example: She started her own business last year. - Example: It's not personal, it's just business.
+
+# culture - Pronunciation: /ˈkʌl.tʃər/ 🔊 - Meaning: 문화 - Example: It's important to respect different cultures. - Example: The company has a strong work culture.
+
+# develop - Pronunciation: /dɪˈvel.əp/ 🔊 - Meaning: 발전시키다 - Example: We need to develop new skills. - Example: The city has plans to develop the waterfront area.
+
+# environment - Pronunciation: /ɪnˈvaɪ.rən.mənt/ 🔊 - Meaning: 환경 - Example: We should protect the environment. - Example: A positive work environment boosts productivity.
+
+# financial - Pronunciation: /faɪˈnæn.ʃəl/ 🔊 - Meaning: 재정적인 - Example: He's having financial difficulties. - Example: We need to make a sound financial plan.
+
+# global - Pronunciation: /ˈɡləʊ.bəl/ 🔊 - Meaning: 세계적인 - Example: Climate change is a global issue. - Example: The company has a global presence.
+
+# health - Pronunciation: /helθ/ 🔊 - Meaning: 건강 - Example: Health is more important than wealth. - Example: Regular exercise is good for your health.
+
+# improve - Pronunciation: /ɪmˈpruːv/ 🔊 - Meaning: 향상시키다 - Example: We need to improve our customer service. - Example: Practice will help you improve your skills.
+
+# justice - Pronunciation: /ˈdʒʌs.tɪs/ 🔊 - Meaning: 정의 - Example: The court system aims to deliver justice. - Example: Social justice is an important issue.
+
+# knowledge - Pronunciation: /ˈnɒl.ɪdʒ/ 🔊 - Meaning: 지식 - Example: Knowledge is power. - Example: He has a broad knowledge of world history.
+
+# language - Pronunciation: /ˈlæŋ.ɡwɪdʒ/ 🔊 - Meaning: 언어 - Example: English is a global language. - Example: Body language can communicate a lot.
+
+# management - Pronunciation: /ˈmæn.ɪdʒ.mənt/ 🔊 - Meaning: 경영 - Example: Good time management is crucial. - Example: The company needs better management.
+
+# network - Pronunciation: /ˈnet.wɜːk/ 🔊 - Meaning: 네트워크 - Example: Social networks have changed how we communicate. - Example: Networking is important for career growth.
+
+# opportunity - Pronunciation: /ˌɒp.əˈtjuː.nə.ti/ 🔊 - Meaning: 기회 - Example: This job is a great opportunity. - Example: We should seize every opportunity to learn.
+
+# policy - Pronunciation: /ˈpɒl.ə.si/ 🔊 - Meaning: 정책 - Example: The company has a strict no-smoking policy. - Example: We need to review our privacy policy.
+
+# quality - Pronunciation: /ˈkwɒl.ə.ti/ 🔊 - Meaning: 품질 - Example: We pride ourselves on the quality of our products. - Example: Quality is more important than quantity.
+
+# research - Pronunciation: /rɪˈsɜːtʃ/ 🔊 - Meaning: 연구 - Example: The company invests heavily in research. - Example: I need to do more research on this topic.
+
+# society - Pronunciation: /səˈsaɪ.ə.ti/ 🔊 - Meaning: 사회 - Example: Technology has transformed our society. - Example: We live in a multicultural society.
+
+# technology - Pronunciation: /tekˈnɒl.ə.dʒi/ 🔊 - Meaning: 기술 - Example: Technology is advancing rapidly. - Example: We rely heavily on technology in our daily lives.
+
+# understand - Pronunciation: /ˌʌn.dəˈstænd/ 🔊 - Meaning: 이해하다 - Example: It's important to understand different perspectives. - Example: I don't understand why this happened.
+
+# various - Pronunciation: /ˈveə.ri.əs/ 🔊 - Meaning: 다양한 - Example: The store sells various types of cheese. - Example: We considered various options before making a decision.
+
+# world - Pronunciation: /wɜːld/ 🔊 - Meaning: 세계 - Example: The world is becoming more interconnected. - Example: She dreams of traveling around the world.
+
+# experience - Pronunciation: /ɪkˈspɪə.ri.əns/ 🔊 - Meaning: 경험 - Example: Travel broadens your experience. - Example: She has years of experience in marketing.
+
+# young - Pronunciation: /jʌŋ/ 🔊 - Meaning: 젊은 - Example: The company wants to attract young talent. - Example: She's young at heart.
+
+# available - Pronunciation: /əˈveɪ.lə.bəl/ 🔊 - Meaning: 이용 가능한 - Example: Is this product still available? - Example: I'm not available on weekends.
+
+# beautiful - Pronunciation: /ˈbjuː.tɪ.fəl/ 🔊 - Meaning: 아름다운 - Example: It's a beautiful day today. - Example: She has a beautiful singing voice.
+
+# career - Pronunciation: /kəˈrɪər/ 🔊 - Meaning: 직업, 경력 - Example: He's focused on building his career. - Example: She made a mid-life career change.
+
+# democracy - Pronunciation: /dɪˈmɒk.rə.si/ 🔊 - Meaning: 민주주의 - Example: Democracy is based on the will of the people. - Example: Free elections are essential to democracy.
+
+# economic - Pronunciation: /ˌiː.kəˈnɒm.ɪk/ 🔊 - Meaning: 경제적인 - Example: The country is facing economic challenges. - Example: Economic growth has slowed down.
+
+# future - Pronunciation: /ˈfjuː.tʃər/ 🔊 - Meaning: 미래 - Example: It's hard to predict the future. - Example: We need to plan for the future.
+
+# goal - Pronunciation: /ɡəʊl/ 🔊 - Meaning: 목표 - Example: Setting clear goals is important. - Example: What are your long-term goals?
+
+# human - Pronunciation: /ˈhjuː.mən/ 🔊 - Meaning: 인간의 - Example: Human rights should be protected. - Example: It's only human to make mistakes.
+
+# information - Pronunciation: /ˌɪn.fəˈmeɪ.ʃən/ 🔊 - Meaning: 정보 - Example: We need more information to make a decision. - Example: The internet is a vast source of information.
+
+# journey - Pronunciation: /ˈdʒɜː.ni/ 🔊 - Meaning: 여행 - Example: Life is a journey, not a destination. - Example: The journey to success is often challenging.
+
+# knowledge - Pronunciation: /ˈnɒl.ɪdʒ/ 🔊 - Meaning: 지식 - Example: Knowledge is power. - Example: She has in-depth knowledge of the subject.
+
+# learn - Pronunciation: /lɜːn/ 🔊 - Meaning: 배우다 - Example: It's never too late to learn something new. - Example: We learn from our mistakes.
+
+# method - Pronunciation: /ˈmeθ.əd/ 🔊 - Meaning: 방법 - Example: What's the best method to learn a language? - Example: We need to find a more efficient method.
+
+# natural - Pronunciation: /ˈnætʃ.ər.əl/ 🔊 - Meaning: 자연적인 - Example: I prefer natural fabrics like cotton. - Example: It's natural to feel nervous before a presentation.
+
+# organize - Pronunciation: /ˈɔː.ɡən.aɪz/ 🔊 - Meaning: 조직하다 - Example: We need to organize our time better. - Example: She's organizing a conference next month.
+
+# people - Pronunciation: /ˈpiː.pəl/ 🔊 - Meaning: 사람들 - Example: People should help each other. - Example: The city is full of interesting people.
+
+# quality - Pronunciation: /ˈkwɒl.ə.ti/ 🔊 - Meaning: 품질 - Example: We focus on quality, not quantity. - Example: The quality of life has improved.
+
+# realize - Pronunciation: /ˈrɪə.laɪz/ 🔊 - Meaning: 깨닫다 - Example: I didn't realize how late it was. - Example: She realized her mistake too late.
+
+# solution - Pronunciation: /səˈluː.ʃən/ 🔊 - Meaning: 해결책 - Example: We need to find a solution to this problem. - Example: There's no easy solution to poverty.
+
+# team - Pronunciation: /tiːm/ 🔊 - Meaning: 팀 - Example: Teamwork is essential for success. - Example: Our team won the championship.
+
+# unique - Pronunciation: /juˈniːk/ 🔊 - Meaning: 독특한 - Example: Every snowflake is unique. - Example: She has a unique style of painting.
+
+# value - Pronunciation: /ˈvæl.juː/ 🔊 - Meaning: 가치 - Example: This painting has great value. - Example: We should value our friendships.
+
+# world - Pronunciation: /wɜːld/ 🔊 - Meaning: 세계 - Example: The world is changing rapidly. - Example: She wants to make the world a better place.
+
+# xray - Pronunciation: /ˈeks.reɪ/ 🔊 - Meaning: 엑스레이 - Example: The doctor took an xray of my chest. - Example: Xrays can detect various medical conditions.
+
+# zone - Pronunciation: /zəʊn/ 🔊 - Meaning: 구역 - Example: This is a no-parking zone. - Example: The country is divided into different time zones.
+
+# accept - Pronunciation: /əkˈsept/ 🔊 - Meaning: 받아들이다 - Example: We must accept the consequences of our actions. - Example: Do you accept credit cards?
+
+# believe - Pronunciation: /bɪˈliːv/ 🔊 - Meaning: 믿다 - Example: I believe in you. - Example: Do you believe in ghosts?
+
+# change - Pronunciation: /tʃeɪndʒ/ 🔊 - Meaning: 변화, 바꾸다 - Example: Change is inevitable. - Example: Can you change a $20 bill?
+
+# decide - Pronunciation: /dɪˈsaɪd/ 🔊 - Meaning: 결정하다 - Example: We need to decide quickly. - Example: Have you decided what to order?
+
+# education - Pronunciation: /ˌed.jʊˈkeɪ.ʃən/ 🔊 - Meaning: 교육 - Example: Education is the key to success. - Example: She values education highly.
+
+# find - Pronunciation: /faɪnd/ 🔊 - Meaning: 찾다 - Example: Can you help me find my keys? - Example: We need to find a solution to this problem.
+
+# government - Pronunciation: /ˈɡʌv.ən.mənt/ 🔊 - Meaning: 정부 - Example: The government announced new policies. - Example: We need a transparent government.
+
+# history - Pronunciation: /ˈhɪs.tər.i/ 🔊 - Meaning: 역사 - Example: I'm fascinated by ancient history. - Example: We should learn from history.
+
+# important - Pronunciation: /ɪmˈpɔː.tənt/ 🔊 - Meaning: 중요한 - Example: This is an important meeting. - Example: Your health is important.
+
+# job - Pronunciation: /dʒɒb/ 🔊 - Meaning: 직업, 일 - Example: She got a new job. - Example: It's a tough job, but someone has to do it.
+
+# know - Pronunciation: /nəʊ/ 🔊 - Meaning: 알다 - Example: I don't know the answer. - Example: Do you know where the library is?
+
+# learn - Pronunciation: /lɜːn/ 🔊 - Meaning: 배우다 - Example: It's never too late to learn. - Example: I want to learn how to play the guitar.
+
+# money - Pronunciation: /ˈmʌn.i/ 🔊 - Meaning: 돈 - Example: Money doesn't grow on trees. - Example: How much money do you need?
+
+# nature - Pronunciation: /ˈneɪ.tʃər/ 🔊 - Meaning: 자연 - Example: I love being in nature. - Example: It's in her nature to be kind.
+
+# open - Pronunciation: /ˈəʊ.pən/ 🔊 - Meaning: 열다, 열린 - Example: Can you open the window? - Example: The store is open until 9 PM.
+
+# people - Pronunciation: /ˈpiː.pəl/ 🔊 - Meaning: 사람들 - Example: People should help each other. - Example: There are many people at the party.
+
+# question - Pronunciation: /ˈkwes.tʃən/ 🔊 - Meaning: 질문 - Example: Do you have any questions? - Example: That's a good question.
+
+# read - Pronunciation: /riːd/ 🔊 - Meaning: 읽다 - Example: I love to read books. - Example: Can you read this for me?
+
+# science - Pronunciation: /ˈsaɪ.əns/ 🔊 - Meaning: 과학 - Example: I'm interested in science. - Example: Science has changed our lives.
+
+# time - Pronunciation: /taɪm/ 🔊 - Meaning: 시간 - Example: Time flies when you're having fun. - Example: What time is it?
+
+# understand - Pronunciation: /ˌʌn.dəˈstænd/ 🔊 - Meaning: 이해하다 - Example: I don't understand this concept. - Example: Do you understand me?
+
+# view - Pronunciation: /vjuː/ 🔊 - Meaning: 보다, 견해 - Example: What's your view on this matter? - Example: The view from the top is breathtaking.
+
+# work - Pronunciation: /wɜːk/ 🔊 - Meaning: 일하다, 작동하다 - Example: I work in a bank. - Example: Does this machine work?
+
+# young - Pronunciation: /jʌŋ/ 🔊 - Meaning: 젊은 - Example: She's too young to drive. - Example: I feel young at heart.
+
+# zero - Pronunciation: /ˈzɪə.rəʊ/ 🔊 - Meaning: 영, 제로 - Example: The temperature dropped to zero. - Example: We should aim for zero waste.
+
+# ability - Pronunciation: /əˈbɪl.ə.ti/ 🔊 - Meaning: 능력 - Example: He has the ability to learn quickly. - Example: What's your greatest ability?
+
+# book - Pronunciation: /bʊk/ 🔊 - Meaning: 책, 예약하다 - Example: I'm reading a good book. - Example: Can you book a table for dinner?
+
+# culture - Pronunciation: /ˈkʌl.tʃər/ 🔊 - Meaning: 문화 - Example: We should respect different cultures. - Example: What's the work culture like there?
+
+# develop - Pronunciation: /dɪˈvel.əp/ 🔊 - Meaning: 발전시키다 - Example: We need to develop new skills. - Example: How did you develop this idea?
+
+# experience - Pronunciation: /ɪkˈspɪə.ri.əns/ 🔊 - Meaning: 경험 - Example: Experience is the best teacher. - Example: Do you have any work experience?
+
+# future - Pronunciation: /ˈfjuː.tʃər/ 🔊 - Meaning: 미래 - Example: What are your plans for the future? - Example: The future of technology is exciting.
+
+# game - Pronunciation: /ɡeɪm/ 🔊 - Meaning: 게임 - Example: Let's play a game. - Example: Life is not a game.
+
+# health - Pronunciation: /helθ/ 🔊 - Meaning: 건강 - Example: Health is wealth. - Example: How's your health these days?
+
+# information - Pronunciation: /ˌɪn.fəˈmeɪ.ʃən/ 🔊 - Meaning: 정보 - Example: I need more information. - Example: Can you give me some information about this?
+
+# journey - Pronunciation: /ˈdʒɜː.ni/ 🔊 - Meaning: 여행 - Example: Life is a journey. - Example: How was your journey?
+
+# knowledge - Pronunciation: /ˈnɒl.ɪdʒ/ 🔊 - Meaning: 지식 - Example: Knowledge is power. - Example: He has a wide knowledge of history.
+
+# language - Pronunciation: /ˈlæŋ.ɡwɪdʒ/ 🔊 - Meaning: 언어 - Example: How many languages do you speak? - Example: Body language is important.
+
+# method - Pronunciation: /ˈmeθ.əd/ 🔊 - Meaning: 방법 - Example: What's the best method to learn a language? - Example: We need a new method.
+
+# number - Pronunciation: /ˈnʌm.bər/ 🔊 - Meaning: 숫자 - Example: What's your phone number? - Example: A large number of people attended.
+
+# option - Pronunciation: /ˈɒp.ʃən/ 🔊 - Meaning: 선택권 - Example: You have two options. - Example: What are our options?
+
+# person - Pronunciation: /ˈpɜː.sən/ 🔊 - Meaning: 사람 - Example: She's a kind person. - Example: Who was that person?
+
+# quality - Pronunciation: /ˈkwɒl.ə.ti/ 🔊 - Meaning: 품질 - Example: We focus on quality, not quantity. - Example: The air quality is poor today.
+
+# research - Pronunciation: /rɪˈsɜːtʃ/ 🔊 - Meaning: 연구 - Example: We need to do more research. - Example: His research is groundbreaking.
+
+# system - Pronunciation: /ˈsɪs.təm/ 🔊 - Meaning: 시스템 - Example: The system is down. - Example: We need a better system.
+
+# technology - Pronunciation: /tekˈnɒl.ə.dʒi/ 🔊 - Meaning: 기술 - Example: Technology is changing rapidly. - Example: What's your favorite piece of technology?
+
+# use - Pronunciation: /juːz/ 🔊 - Meaning: 사용하다 - Example: How do you use this app? - Example: Can I use your phone?
+
+# value - Pronunciation: /ˈvæl.juː/ 🔊 - Meaning: 가치 - Example: What do you value most in life? - Example: This painting has great value.
+
+# world - Pronunciation: /wɜːld/ 🔊 - Meaning: 세계 - Example: It's a small world. - Example: She wants to travel the world.
+
+# xray - Pronunciation: /ˈeks.reɪ/ 🔊 - Meaning: 엑스레이 - Example: I need to get an xray of my arm. - Example: The xray showed a fracture.
+
+# year - Pronunciation: /jɪər/ 🔊 - Meaning: 년 - Example: Happy New Year! - Example: How many years have you lived here?
+
+# achieve - Pronunciation: /əˈtʃiːv/ 🔊 - Meaning: 달성하다 - Example: She achieved her goal. - Example: What do you want to achieve?
+
+# believe - Pronunciation: /bɪˈliːv/ 🔊 - Meaning: 믿다 - Example: I believe in you. - Example: Do you believe in ghosts?
+
+# change - Pronunciation: /tʃeɪndʒ/ 🔊 - Meaning: 변화, 바꾸다 - Example: Change is inevitable. - Example: Can you change a $20 bill?
+
+# different - Pronunciation: /ˈdɪf.ər.ənt/ 🔊 - Meaning: 다른 - Example: We have different opinions. - Example: Try something different.
+
+# environment - Pronunciation: /ɪnˈvaɪ.rən.mənt/ 🔊 - Meaning: 환경 - Example: We must protect the environment. - Example: What's your work environment like?
+
+# financial - Pronunciation: /faɪˈnæn.ʃəl/ 🔊 - Meaning: 재정적인 - Example: He's having financial difficulties. - Example: We need financial advice.
+
+# great - Pronunciation: /ɡreɪt/ 🔊 - Meaning: 훌륭한 - Example: That's a great idea! - Example: How was your trip? It was great!
+
+# happen - Pronunciation: /ˈhæp.ən/ 🔊 - Meaning: 일어나다 - Example: Accidents happen. - Example: What will happen next?
+
+# idea - Pronunciation: /aɪˈdɪə/ 🔊 - Meaning: 생각, 아이디어 - Example: That's an interesting idea. - Example: Do you have any ideas?
+
+# join - Pronunciation: /dʒɔɪn/ 🔊 - Meaning: 참여하다, 합류하다 - Example: Would you like to join us? - Example: Can I join your team?
+
+# keep - Pronunciation: /kiːp/ 🔊 - Meaning: 유지하다, 보관하다 - Example: Keep up the good work! - Example: Where do you keep your keys?
+
+# learn - Pronunciation: /lɜːn/ 🔊 - Meaning: 배우다 - Example: You're never too old to learn. - Example: What did you learn today?
+
+# manage - Pronunciation: /ˈmæn.ɪdʒ/ 🔊 - Meaning: 관리하다 - Example: How do you manage your time? - Example: She manages a large team.
+
+# never - Pronunciation: /ˈnev.ər/ 🔊 - Meaning: 절대 ~ 않다 - Example: Never give up. - Example: I've never been to Paris.
+
+# opportunity - Pronunciation: /ˌɒp.əˈtjuː.nə.ti/ 🔊 - Meaning: 기회 - Example: This is a great opportunity. - Example: Don't miss this opportunity.
+
+# possible - Pronunciation: /ˈpɒs.ə.bəl/ 🔊 - Meaning: 가능한 - Example: Is it possible to finish this today? - Example: Anything is possible.
+
+# quality - Pronunciation: /ˈkwɒl.ə.ti/ 🔊 - Meaning: 품질 - Example: We focus on quality. - Example: The quality of life here is good.
+
+# relationship - Pronunciation: /rɪˈleɪ.ʃən.ʃɪp/ 🔊 - Meaning: 관계 - Example: They have a good relationship. - Example: How's your relationship with your boss?
+
+# society - Pronunciation: /səˈsaɪ.ə.ti/ 🔊 - Meaning: 사회 - Example: We live in a multicultural society. - Example: How does technology affect society?
+
+# try - Pronunciation: /traɪ/ 🔊 - Meaning: 시도하다 - Example: Try your best. - Example: Can I try on this shirt?
+
+# understand - Pronunciation: /ˌʌn.dəˈstænd/ 🔊 - Meaning: 이해하다 - Example: I don't understand. - Example: Do you understand the question?
+
+# various - Pronunciation: /ˈveə.ri.əs/ 🔊 - Meaning: 다양한 - Example: We offer various services. - Example: There are various ways to solve this.
+
+# work - Pronunciation: /wɜːk/ 🔊 - Meaning: 일하다, 작동하다 - Example: I work from home. - Example: Does this machine work?
+
+# xray - Pronunciation: /ˈeks.reɪ/ 🔊 - Meaning: 엑스레이 - Example: I need an xray of my chest. - Example: The xray machine is broken.
+
+# young - Pronunciation: /jʌŋ/ 🔊 - Meaning: 젊은 - Example: She looks young for her age. - Example: I feel young at heart.
+
+# zone - Pronunciation: /zəʊn/ 🔊 - Meaning: 구역 - Example: This is a no-parking zone. - Example: What time zone are you in?
+
+# accept - Pronunciation: /əkˈsept/ 🔊 - Meaning: 받아들이다 - Example: I accept your apology. - Example: Do you accept credit cards?
+
+# business - Pronunciation: /ˈbɪz.nɪs/ 🔊 - Meaning: 사업 - Example: How's business? - Example: It's not personal, it's just business.
+
+# change - Pronunciation: /tʃeɪndʒ/ 🔊 - Meaning: 변화, 바꾸다 - Example: Change is good. - Example: Can you change a $50 bill?
+
+# develop - Pronunciation: /dɪˈvel.əp/ 🔊 - Meaning: 발전시키다 - Example: We need to develop new skills. - Example: The company is developing a new product.
+
+# enough - Pronunciation: /ɪˈnʌf/ 🔊 - Meaning: 충분한 - Example: Do we have enough time? - Example: That's enough work for today.
+
+# famous - Pronunciation: /ˈfeɪ.məs/ 🔊 - Meaning: 유명한 - Example: She became famous overnight. - Example: Paris is famous for its cuisine.
+
+# goal - Pronunciation: /ɡəʊl/ 🔊 - Meaning: 목표 - Example: What's your main goal this year? - Example: He scored the winning goal.
+
+# health - Pronunciation: /helθ/ 🔊 - Meaning: 건강 - Example: Health is more important than wealth. - Example: How's your health these days?
+
+# improve - Pronunciation: /ɪmˈpruːv/ 🔊 - Meaning: 향상시키다 - Example: We need to improve our service. - Example: Her English has improved a lot.
+
+# justice - Pronunciation: /ˈdʒʌs.tɪs/ 🔊 - Meaning: 정의 - Example: We must fight for justice. - Example: Justice was served in the end.
+
+# knowledge - Pronunciation: /ˈnɒl.ɪdʒ/ 🔊 - Meaning: 지식 - Example: Knowledge is power. - Example: He has a wide knowledge of wines.
+
+# learn - Pronunciation: /lɜːn/ 🔊 - Meaning: 배우다 - Example: I want to learn a new language. - Example: What did you learn from this experience?
+
+# money - Pronunciation: /ˈmʌn.i/ 🔊 - Meaning: 돈 - Example: Money doesn't grow on trees. - Example: How much money do we need?
+
+# necessary - Pronunciation: /ˈnes.ə.ser.i/ 🔊 - Meaning: 필요한 - Example: Is this step really necessary? - Example: It's necessary to book in advance.
+
+# opinion - Pronunciation: /əˈpɪn.jən/ 🔊 - Meaning: 의견 - Example: What's your opinion on this? - Example: Everyone is entitled to their own opinion.
+
+# people - Pronunciation: /ˈpiː.pəl/ 🔊 - Meaning: 사람들 - Example: People should help each other. - Example: There are too many people here.
+
+# question - Pronunciation: /ˈkwes.tʃən/ 🔊 - Meaning: 질문 - Example: Do you have any questions? - Example: That's a difficult question to answer.
+
+# reason - Pronunciation: /ˈriː.zən/ 🔊 - Meaning: 이유 - Example: What's the reason for this decision? - Example: There must be a reason for his behavior.
+
+# success - Pronunciation: /səkˈses/ 🔊 - Meaning: 성공 - Example: Hard work is the key to success. - Example: The project was a great success.
+
+# try - Pronunciation: /traɪ/ 🔊 - Meaning: 시도하다 - Example: Try your best. - Example: Let's try this restaurant.
+
+# understand - Pronunciation: /ˌʌn.dəˈstænd/ 🔊 - Meaning: 이해하다 - Example: I don't understand this concept. - Example: Do you understand what I mean?
+
+# value - Pronunciation: /ˈvæl.juː/ 🔊 - Meaning: 가치 - Example: What do you value most in life? - Example: This painting has great value.
+
+# world - Pronunciation: /wɜːld/ 🔊 - Meaning: 세계 - Example: It's a small world. - Example: She wants to travel around the world.
+
+# xray - Pronunciation: /ˈeks.reɪ/ 🔊 - Meaning: 엑스레이 - Example: The doctor took an xray of my arm. - Example: Xrays can detect various medical conditions.
+
+# ability - Pronunciation: /əˈbɪl.ə.ti/ 🔊 - Meaning: 능력 - Example: She has the ability to learn quickly. - Example: What's your greatest ability?
+
+# become - Pronunciation: /bɪˈkʌm/ 🔊 - Meaning: ~가 되다 - Example: What do you want to become when you grow up? - Example: It has become difficult to find a job.
+
+# call - Pronunciation: /kɔːl/ 🔊 - Meaning: 전화하다, 부르다 - Example: I'll call you later. - Example: What do you call this in English?
+
+# discuss - Pronunciation: /dɪˈskʌs/ 🔊 - Meaning: 논의하다 - Example: Let's discuss this matter further. - Example: We need to discuss our plans.
+
+# entire - Pronunciation: /ɪnˈtaɪər/ 🔊 - Meaning: 전체의 - Example: I read the entire book in one day. - Example: The entire team worked on the project.
+
+# focus - Pronunciation: /ˈfəʊ.kəs/ 🔊 - Meaning: 집중하다 - Example: You need to focus on your studies. - Example: The camera won't focus properly.
+
+# grow - Pronunciation: /ɡrəʊ/ 🔊 - Meaning: 자라다, 성장하다 - Example: Children grow up so fast. - Example: We grow vegetables in our garden.
+
+# happen - Pronunciation: /ˈhæp.ən/ 🔊 - Meaning: 일어나다 - Example: Accidents happen. - Example: What will happen next?
+
+# individual - Pronunciation: /ˌɪn.dɪˈvɪdʒ.u.əl/ 🔊 - Meaning: 개인의, 개인 - Example: Everyone has individual needs. - Example: The police want to question each individual.
+
+# knowledge - Pronunciation: /ˈnɒl.ɪdʒ/ 🔊 - Meaning: 지식 - Example: Knowledge is power. - Example: He has a wide knowledge of history.
+
+# learn - Pronunciation: /lɜːn/ 🔊 - Meaning: 배우다 - Example: It's never too late to learn. - Example: What did you learn today?
+
+# mention - Pronunciation: /ˈmen.ʃən/ 🔊 - Meaning: 언급하다 - Example: Don't mention this to anyone. - Example: She mentioned that she might be late.
+
+# nice - Pronunciation: /naɪs/ 🔊 - Meaning: 좋은, 친절한 - Example: That's a nice dress. - Example: It was nice of you to help.
+
+# operate - Pronunciation: /ˈɒp.ər.eɪt/ 🔊 - Meaning: 작동하다, 수술하다 - Example: How does this machine operate? - Example: The doctor will operate tomorrow.
+
+# provide - Pronunciation: /prəˈvaɪd/ 🔊 - Meaning: 제공하다 - Example: The hotel provides free Wi-Fi. - Example: Can you provide more details?
+
+# quality - Pronunciation: /ˈkwɒl.ə.ti/ 🔊 - Meaning: 품질 - Example: We focus on quality, not quantity. - Example: The air quality is poor today.
+
+# rather - Pronunciation: /ˈrɑː.ðər/ 🔊 - Meaning: 차라리, 오히려 - Example: I'd rather stay at home. - Example: It's cold, or rather, freezing.
+
+# specific - Pronunciation: /spəˈsɪf.ɪk/ 🔊 - Meaning: 구체적인 - Example: Can you be more specific? - Example: We need specific instructions.
+
+# travel - Pronunciation: /ˈtræv.əl/ 🔊 - Meaning: 여행하다 - Example: I love to travel. - Example: How do you like to travel?
+
+# usual - Pronunciation: /ˈjuː.ʒu.əl/ 🔊 - Meaning: 평소의, 보통의 - Example: Is this your usual routine? - Example: The traffic is worse than usual.
+
+# visit - Pronunciation: /ˈvɪz.ɪt/ 🔊 - Meaning: 방문하다 - Example: I plan to visit Paris next year. - Example: How often do you visit your parents?
+
+# wait - Pronunciation: /weɪt/ 🔊 - Meaning: 기다리다 - Example: Please wait here. - Example: I can't wait to see you.
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: Xenophobia has no place in our society. - Example: We must fight against xenophobia.
+
+# young - Pronunciation: /jʌŋ/ 🔊 - Meaning: 젊은 - Example: She's too young to drive. - Example: I feel young at heart.
+
+# zero - Pronunciation: /ˈzɪə.rəʊ/ 🔊 - Meaning: 영, 제로 - Example: The temperature dropped to zero. - Example: We should aim for zero waste.
+
+# abandon - Pronunciation: /əˈbæn.dən/ 🔊 - Meaning: 포기하다, 버리다 - Example: Don't abandon hope. - Example: They had to abandon their car in the snow.
+
+# brief - Pronunciation: /briːf/ 🔊 - Meaning: 짧은, 간단한 - Example: Keep your speech brief. - Example: Can you give me a brief summary?
+
+# camera - Pronunciation: /ˈkæm.ər.ə/ 🔊 - Meaning: 카메라 - Example: I need a new camera. - Example: Smile for the camera!
+
+# describe - Pronunciation: /dɪˈskraɪb/ 🔊 - Meaning: 설명하다 - Example: Can you describe what happened? - Example: How would you describe yourself?
+
+# exact - Pronunciation: /ɪɡˈzækt/ 🔊 - Meaning: 정확한 - Example: What's the exact time? - Example: We need the exact measurements.
+
+# famous - Pronunciation: /ˈfeɪ.məs/ 🔊 - Meaning: 유명한 - Example: She became famous overnight. - Example: Paris is famous for its cuisine.
+
+# generate - Pronunciation: /ˈdʒen.ər.eɪt/ 🔊 - Meaning: 생성하다 - Example: Solar panels generate electricity. - Example: We need to generate more sales.
+
+# happen - Pronunciation: /ˈhæp.ən/ 🔊 - Meaning: 일어나다 - Example: These things happen. - Example: What will happen next?
+
+# image - Pronunciation: /ˈɪm.ɪdʒ/ 🔊 - Meaning: 이미지, 영상 - Example: The company wants to improve its image. - Example: Can you send me that image?
+
+# join - Pronunciation: /dʒɔɪn/ 🔊 - Meaning: 가입하다, 합류하다 - Example: Would you like to join our team? - Example: Let's join the party.
+
+# key - Pronunciation: /kiː/ 🔊 - Meaning: 열쇠, 중요한 - Example: Don't forget your keys. - Example: Confidence is key to success.
+
+# level - Pronunciation: /ˈlev.əl/ 🔊 - Meaning: 수준, 단계 - Example: What's your English level? - Example: We need to level the playing field.
+
+# mean - Pronunciation: /miːn/ 🔊 - Meaning: 의미하다, 못된 - Example: What do you mean? - Example: Don't be mean to your sister.
+
+# nervous - Pronunciation: /ˈnɜː.vəs/ 🔊 - Meaning: 긴장한, 불안한 - Example: I feel nervous before exams. - Example: Don't be nervous, you'll do great.
+
+# option - Pronunciation: /ˈɒp.ʃən/ 🔊 - Meaning: 선택권, 옵션 - Example: What are our options? - Example: That's not an option.
+
+# perhaps - Pronunciation: /pəˈhæps/ 🔊 - Meaning: 아마도 - Example: Perhaps we should wait. - Example: Perhaps you're right.
+
+# quiet - Pronunciation: /kwaɪət/ 🔊 - Meaning: 조용한 - Example: Please be quiet in the library. - Example: I enjoy quiet moments.
+
+# rather - Pronunciation: /ˈrɑː.ðər/ 🔊 - Meaning: 차라리, 오히려 - Example: I'd rather stay home. - Example: It's cold, or rather, freezing.
+
+# specific - Pronunciation: /spəˈsɪf.ɪk/ 🔊 - Meaning: 구체적인 - Example: Can you be more specific? - Example: We need specific instructions.
+
+# teacher - Pronunciation: /ˈtiː.tʃər/ 🔊 - Meaning: 교사 - Example: She's a great teacher. - Example: I want to become a teacher.
+
+# unique - Pronunciation: /juˈniːk/ 🔊 - Meaning: 독특한 - Example: Everyone is unique. - Example: That's a unique approach.
+
+# variety - Pronunciation: /vəˈraɪ.ə.ti/ 🔊 - Meaning: 다양성 - Example: We offer a variety of products. - Example: Variety is the spice of life.
+
+# wonder - Pronunciation: /ˈwʌn.dər/ 🔊 - Meaning: 궁금해하다, 경이 - Example: I wonder what will happen. - Example: The pyramids are a wonder of the world.
+
+# xylophone - Pronunciation: /ˈzaɪ.lə.fəʊn/ 🔊 - Meaning: 실로폰 - Example: She plays the xylophone beautifully. - Example: The xylophone is a percussion instrument.
+
+# yield - Pronunciation: /jiːld/ 🔊 - Meaning: 산출하다, 양보하다 - Example: This farm yields a good crop. - Example: You must yield to oncoming traffic.
+
+# ability - Pronunciation: /əˈbɪl.ə.ti/ 🔊 - Meaning: 능력 - Example: He has the ability to learn quickly. - Example: What's your greatest ability?
+
+# believe - Pronunciation: /bɪˈliːv/ 🔊 - Meaning: 믿다 - Example: I believe in you. - Example: Do you believe in ghosts?
+
+# calculate - Pronunciation: /ˈkæl.kjʊ.leɪt/ 🔊 - Meaning: 계산하다 - Example: Let me calculate the total cost. - Example: We need to calculate the risks.
+
+# describe - Pronunciation: /dɪˈskraɪb/ 🔊 - Meaning: 설명하다 - Example: Can you describe what happened? - Example: How would you describe yourself?
+
+# efficient - Pronunciation: /ɪˈfɪʃ.ənt/ 🔊 - Meaning: 효율적인 - Example: This is a very efficient method. - Example: We need to be more efficient with our time.
+
+# familiar - Pronunciation: /fəˈmɪl.i.ər/ 🔊 - Meaning: 익숙한 - Example: This place looks familiar. - Example: I'm not familiar with that author.
+
+# generate - Pronunciation: /ˈdʒen.ər.eɪt/ 🔊 - Meaning: 생성하다 - Example: Solar panels generate electricity. - Example: We need to generate more sales.
+
+# highlight - Pronunciation: /ˈhaɪ.laɪt/ 🔊 - Meaning: 강조하다 - Example: Please highlight the important points. - Example: What was the highlight of your trip?
+
+# imagine - Pronunciation: /ɪˈmædʒ.ɪn/ 🔊 - Meaning: 상상하다 - Example: Imagine a world without war. - Example: I can't imagine life without the internet.
+
+# journey - Pronunciation: /ˈdʒɜː.ni/ 🔊 - Meaning: 여행 - Example: Life is a journey. - Example: How was your journey?
+
+# knowledge - Pronunciation: /ˈnɒl.ɪdʒ/ 🔊 - Meaning: 지식 - Example: Knowledge is power. - Example: He has a wide knowledge of history.
+
+# learn - Pronunciation: /lɜːn/ 🔊 - Meaning: 배우다 - Example: It's never too late to learn. - Example: What did you learn today?
+
+# measure - Pronunciation: /ˈmeʒ.ər/ 🔊 - Meaning: 측정하다 - Example: We need to measure the room. - Example: How do you measure success?
+
+# necessary - Pronunciation: /ˈnes.ə.ser.i/ 🔊 - Meaning: 필요한 - Example: Is this step really necessary? - Example: It's necessary to book in advance.
+
+# observe - Pronunciation: /əbˈzɜːv/ 🔊 - Meaning: 관찰하다 - Example: Scientists observe animal behavior. - Example: Please observe the rules.
+
+# participate - Pronunciation: /pɑːˈtɪs.ɪ.peɪt/ 🔊 - Meaning: 참여하다 - Example: Everyone is encouraged to participate. - Example: Will you participate in the event?
+
+# quality - Pronunciation: /ˈkwɒl.ə.ti/ 🔊 - Meaning: 품질 - Example: We focus on quality, not quantity. - Example: The air quality is poor today.
+
+# recommend - Pronunciation: /ˌrek.əˈmend/ 🔊 - Meaning: 추천하다 - Example: I highly recommend this book. - Example: What would you recommend?
+
+# significant - Pronunciation: /sɪɡˈnɪf.ɪ.kənt/ 🔊 - Meaning: 중요한, 상당한 - Example: This is a significant discovery. - Example: There's been a significant improvement.
+
+# technology - Pronunciation: /tekˈnɒl.ə.dʒi/ 🔊 - Meaning: 기술 - Example: Technology is changing rapidly. - Example: How does this new technology work?
+
+# understand - Pronunciation: /ˌʌn.dəˈstænd/ 🔊 - Meaning: 이해하다 - Example: I don't understand this concept. - Example: Do you understand what I mean?
+
+# various - Pronunciation: /ˈveə.ri.əs/ 🔊 - Meaning: 다양한 - Example: We offer various services. - Example: There are various ways to solve this.
+
+# wonder - Pronunciation: /ˈwʌn.dər/ 🔊 - Meaning: 궁금해하다, 경이 - Example: I wonder what will happen. - Example: The pyramids are a wonder of the world.
+
+# xylophone - Pronunciation: /ˈzaɪ.lə.fəʊn/ 🔊 - Meaning: 실로폰 - Example: She plays the xylophone beautifully. - Example: The xylophone is a percussion instrument.
+
+# yield - Pronunciation: /jiːld/ 🔊 - Meaning: 산출하다, 양보하다 - Example: This farm yields a good crop. - Example: You must yield to oncoming traffic.
+
+# zero - Pronunciation: /ˈzɪə.rəʊ/ 🔊 - Meaning: 영, 제로 - Example: The temperature dropped to zero. - Example: We should aim for zero waste.
+
+# abstract - Pronunciation: /ˈæb.strækt/ 🔊 - Meaning: 추상적인, 개요 - Example: This painting is quite abstract. - Example: Can you give me an abstract of the report?
+
+# analyze - Pronunciation: /ˈæn.əl.aɪz/ 🔊 - Meaning: 분석하다 - Example: We need to analyze the data carefully. - Example: Let's analyze the situation before making a decision.
+
+# capability - Pronunciation: /ˌkeɪ.pəˈbɪl.ə.ti/ 🔊 - Meaning: 능력, 역량 - Example: The new software has impressive capabilities. - Example: We're expanding our production capabilities.
+
+# diverse - Pronunciation: /daɪˈvɜːs/ 🔊 - Meaning: 다양한 - Example: We have a diverse workforce. - Example: The city has a diverse culture.
+
+# enhance - Pronunciation: /ɪnˈhɑːns/ 🔊 - Meaning: 향상시키다 - Example: This feature will enhance user experience. - Example: How can we enhance our performance?
+
+# framework - Pronunciation: /ˈfreɪm.wɜːk/ 🔊 - Meaning: 틀, 구조 - Example: We need a new framework for this project. - Example: The government has established a legal framework.
+
+# generate - Pronunciation: /ˈdʒen.ər.eɪt/ 🔊 - Meaning: 생성하다 - Example: This will generate a lot of interest. - Example: How can we generate more income?
+
+# hierarchy - Pronunciation: /ˈhaɪ.ə.rɑː.ki/ 🔊 - Meaning: 계층 구조 - Example: There's a clear hierarchy in this organization. - Example: We need to understand the social hierarchy.
+
+# implement - Pronunciation: /ˈɪm.plɪ.ment/ 🔊 - Meaning: 실행하다 - Example: We'll implement the new system next month. - Example: How will this policy be implemented?
+
+# jurisdiction - Pronunciation: /ˌdʒʊə.rɪsˈdɪk.ʃən/ 🔊 - Meaning: 관할권 - Example: This case is outside our jurisdiction. - Example: The court has jurisdiction over this matter.
+
+# knowledge - Pronunciation: /ˈnɒl.ɪdʒ/ 🔊 - Meaning: 지식 - Example: He has a vast knowledge of history. - Example: Knowledge is power.
+
+# leverage - Pronunciation: /ˈliː.vər.ɪdʒ/ 🔊 - Meaning: 지렛대, 영향력 - Example: We need to leverage our resources effectively. - Example: How can we leverage this situation to our advantage?
+
+# mechanism - Pronunciation: /ˈmek.ə.nɪ.zəm/ 🔊 - Meaning: 기계 장치, 메커니즘 - Example: What's the mechanism behind this? - Example: We need a better mechanism for handling complaints.
+
+# nominal - Pronunciation: /ˈnɒm.ɪ.nəl/ 🔊 - Meaning: 명목상의 - Example: There's only a nominal fee for the service. - Example: He's the nominal head of the company.
+
+# optimize - Pronunciation: /ˈɒp.tɪ.maɪz/ 🔊 - Meaning: 최적화하다 - Example: We need to optimize our website for mobile users. - Example: How can we optimize our production process?
+
+# paradigm - Pronunciation: /ˈpær.ə.daɪm/ 🔊 - Meaning: 패러다임 - Example: This discovery represents a paradigm shift. - Example: We need a new paradigm for understanding this.
+
+# quantify - Pronunciation: /ˈkwɒn.tɪ.faɪ/ 🔊 - Meaning: 정량화하다 - Example: It's difficult to quantify the benefits. - Example: We need to quantify the risks involved.
+
+# robust - Pronunciation: /rəʊˈbʌst/ 🔊 - Meaning: 강건한, 튼튼한 - Example: We need a more robust system. - Example: The economy is showing robust growth.
+
+# strategy - Pronunciation: /ˈstræt.ə.dʒi/ 🔊 - Meaning: 전략 - Example: What's our strategy for entering this market? - Example: We need a new marketing strategy.
+
+# theory - Pronunciation: /ˈθɪə.ri/ 🔊 - Meaning: 이론 - Example: This is just a theory, not a fact. - Example: What's your theory about what happened?
+
+# utilize - Pronunciation: /ˈjuː.təl.aɪz/ 🔊 - Meaning: 활용하다 - Example: We need to utilize our resources more efficiently. - Example: How can we best utilize your skills?
+
+# valid - Pronunciation: /ˈvæl.ɪd/ 🔊 - Meaning: 유효한 - Example: Is this ticket still valid? - Example: That's a valid point.
+
+# workflow - Pronunciation: /ˈwɜːk.fləʊ/ 🔊 - Meaning: 작업 흐름 - Example: We need to improve our workflow. - Example: What's the typical workflow for this process?
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: We must fight against xenophobia. - Example: Xenophobia has no place in our society.
+
+# yield - Pronunciation: /jiːld/ 🔊 - Meaning: 산출하다, 양보하다 - Example: This investment should yield good returns. - Example: You must yield to oncoming traffic.
+
+# zeal - Pronunciation: /ziːl/ 🔊 - Meaning: 열정 - Example: He approaches his work with great zeal. - Example: Her zeal for the project is admirable.
+
+# aggregate - Pronunciation: /ˈæɡ.rɪ.ɡət/ 🔊 - Meaning: 집합의, 합계 - Example: We need to look at the aggregate data. - Example: What's the aggregate amount of our sales?
+
+# benchmark - Pronunciation: /ˈbentʃ.mɑːk/ 🔊 - Meaning: 기준, 비교 기준 - Example: This company sets the benchmark for quality. - Example: We use last year's figures as a benchmark.
+
+# cohesive - Pronunciation: /kəʊˈhiː.sɪv/ 🔊 - Meaning: 응집력 있는 - Example: We need a more cohesive team. - Example: The argument lacks cohesive structure.
+
+# demographic - Pronunciation: /ˌdem.əˈɡræf.ɪk/ 🔊 - Meaning: 인구통계학적 - Example: What's our target demographic? - Example: The demographic trends are changing.
+
+# empirical - Pronunciation: /ɪmˈpɪr.ɪ.kəl/ 🔊 - Meaning: 경험적인 - Example: We need empirical evidence to support this theory. - Example: This conclusion is based on empirical data.
+
+# facilitate - Pronunciation: /fəˈsɪl.ɪ.teɪt/ 🔊 - Meaning: 촉진하다 - Example: This software will facilitate communication. - Example: How can we facilitate this process?
+
+# global - Pronunciation: /ˈɡləʊ.bəl/ 🔊 - Meaning: 전 세계적인 - Example: We're expanding into the global market. - Example: Climate change is a global issue.
+
+# hypothesis - Pronunciation: /haɪˈpɒθ.ə.sɪs/ 🔊 - Meaning: 가설 - Example: We need to test this hypothesis. - Example: What's your hypothesis about what happened?
+
+# implement - Pronunciation: /ˈɪm.plɪ.ment/ 🔊 - Meaning: 실행하다 - Example: We'll implement the new system next month. - Example: How will this policy be implemented?
+
+# jurisdiction - Pronunciation: /ˌdʒʊə.rɪsˈdɪk.ʃən/ 🔊 - Meaning: 관할권 - Example: This case is outside our jurisdiction. - Example: The court has jurisdiction over this matter.
+
+# key - Pronunciation: /kiː/ 🔊 - Meaning: 열쇠, 핵심적인 - Example: Communication is key in any relationship. - Example: What's the key to success?
+
+# leverage - Pronunciation: /ˈliː.vər.ɪdʒ/ 🔊 - Meaning: 지렛대, 영향력 - Example: We need to leverage our resources effectively. - Example: How can we leverage this situation to our advantage?
+
+# mitigate - Pronunciation: /ˈmɪt.ɪ.ɡeɪt/ 🔊 - Meaning: 완화하다 - Example: We need to mitigate the risks. - Example: How can we mitigate the impact of this decision?
+
+# notion - Pronunciation: /ˈnəʊ.ʃən/ 🔊 - Meaning: 개념, 관념 - Example: I disagree with the notion that money brings happiness. - Example: Where did you get that notion?
+
+# optimize - Pronunciation: /ˈɒp.tɪ.maɪz/ 🔊 - Meaning: 최적화하다 - Example: We need to optimize our website for mobile users. - Example: How can we optimize our production process?
+
+# paradigm - Pronunciation: /ˈpær.ə.daɪm/ 🔊 - Meaning: 패러다임 - Example: This discovery represents a paradigm shift. - Example: We need a new paradigm for understanding this.
+
+# qualitative - Pronunciation: /ˈkwɒl.ɪ.tə.tɪv/ 🔊 - Meaning: 질적인 - Example: We need both quantitative and qualitative data. - Example: This is a qualitative analysis of the situation.
+
+# rationale - Pronunciation: /ˌræʃ.əˈnɑːl/ 🔊 - Meaning: 근거, 이유 - Example: What's the rationale behind this decision? - Example: Can you explain your rationale?
+
+# strategic - Pronunciation: /strəˈtiː.dʒɪk/ 🔊 - Meaning: 전략적인 - Example: This is a strategic decision. - Example: We need to think about this from a strategic perspective.
+
+# threshold - Pronunciation: /ˈθreʃ.həʊld/ 🔊 - Meaning: 문지방, 한계점 - Example: We've reached the threshold of what's possible. - Example: The pain threshold varies from person to person.
+
+# utilize - Pronunciation: /ˈjuː.təl.aɪz/ 🔊 - Meaning: 활용하다 - Example: We need to utilize our resources more efficiently. - Example: How can we best utilize your skills?
+
+# viable - Pronunciation: /ˈvaɪ.ə.bəl/ 🔊 - Meaning: 실행 가능한 - Example: Is this a viable option? - Example: We need a viable alternative.
+
+# workflow - Pronunciation: /ˈwɜːk.fləʊ/ 🔊 - Meaning: 작업 흐름 - Example: We need to improve our workflow. - Example: What's the typical workflow for this process?
+
+# yield - Pronunciation: /jiːld/ 🔊 - Meaning: 산출하다, 양보하다 - Example: This investment should yield good returns. - Example: You must yield to oncoming traffic.
+
+# adapt - Pronunciation: /əˈdæpt/ 🔊 - Meaning: 적응하다 - Example: We must adapt to the changing market. - Example: How quickly can you adapt to new situations?
+
+# bureaucracy - Pronunciation: /bjʊəˈrɒk.rə.si/ 🔊 - Meaning: 관료주의 - Example: Bureaucracy often slows down progress. - Example: We need to cut through the bureaucracy.
+
+# consensus - Pronunciation: /kənˈsen.səs/ 🔊 - Meaning: 합의 - Example: We need to reach a consensus on this issue. - Example: There's a growing consensus among scientists.
+
+# dilemma - Pronunciation: /dɪˈlem.ə/ 🔊 - Meaning: 딜레마 - Example: We're faced with a moral dilemma. - Example: He's in a dilemma about which job to take.
+
+# elaborate - Pronunciation: /ɪˈlæb.ər.ət/ 🔊 - Meaning: 정교한, 상세히 설명하다 - Example: Can you elaborate on that point? - Example: The palace has elaborate decorations.
+
+# feasible - Pronunciation: /ˈfiː.zə.bəl/ 🔊 - Meaning: 실행 가능한 - Example: Is this plan financially feasible? - Example: We need to determine if the project is feasible.
+
+# generic - Pronunciation: /dʒəˈner.ɪk/ 🔊 - Meaning: 일반적인 - Example: I prefer to buy generic medicines. - Example: These are just generic guidelines.
+
+# holistic - Pronunciation: /həʊˈlɪs.tɪk/ 🔊 - Meaning: 전체론적인 - Example: We need a holistic approach to healthcare. - Example: The company takes a holistic view of customer service.
+
+# imperative - Pronunciation: /ɪmˈper.ə.tɪv/ 🔊 - Meaning: 필수적인 - Example: It's imperative that we act now. - Example: Safety is imperative in this industry.
+
+# juxtapose - Pronunciation: /ˈdʒʌk.stə.pəʊz/ 🔊 - Meaning: 병치하다 - Example: The article juxtaposes different viewpoints. - Example: The artist likes to juxtapose old and new elements.
+
+# kudos - Pronunciation: /ˈkjuː.dɒs/ 🔊 - Meaning: 칭찬 - Example: Kudos to the team for their hard work. - Example: She's earned some kudos for her recent project.
+
+# logistics - Pronunciation: /ləˈdʒɪs.tɪks/ 🔊 - Meaning: 물류 - Example: We need to work out the logistics of the event. - Example: Logistics is a crucial part of our business.
+
+# metaphor - Pronunciation: /ˈmet.ə.fɔːr/ 🔊 - Meaning: 은유 - Example: He used a metaphor to explain the concept. - Example: Life is a journey is a common metaphor.
+
+# nuance - Pronunciation: /ˈnjuː.ɑːns/ 🔊 - Meaning: 뉘앙스 - Example: There are subtle nuances in the language. - Example: You need to understand the nuances of the situation.
+
+# obsolete - Pronunciation: /ˈɒb.sə.liːt/ 🔊 - Meaning: 구식의 - Example: This technology is becoming obsolete. - Example: We need to update our obsolete systems.
+
+# paradigm - Pronunciation: /ˈpær.ə.daɪm/ 🔊 - Meaning: 패러다임 - Example: This represents a paradigm shift in thinking. - Example: We need a new paradigm for understanding this.
+
+# quantify - Pronunciation: /ˈkwɒn.tɪ.faɪ/ 🔊 - Meaning: 정량화하다 - Example: It's hard to quantify the benefits of exercise. - Example: We need to quantify the risks involved.
+
+# rhetoric - Pronunciation: /ˈret.ər.ɪk/ 🔊 - Meaning: 수사학 - Example: His speech was full of empty rhetoric. - Example: We need less rhetoric and more action.
+
+# synthesize - Pronunciation: /ˈsɪn.θə.saɪz/ 🔊 - Meaning: 종합하다 - Example: Can you synthesize the main points of the report? - Example: We need to synthesize information from various sources.
+
+# tacit - Pronunciation: /ˈtæs.ɪt/ 🔊 - Meaning: 암묵적인 - Example: There was a tacit agreement between them. - Example: The boss gave his tacit approval.
+
+# ubiquitous - Pronunciation: /juːˈbɪk.wɪ.təs/ 🔊 - Meaning: 어디에나 있는 - Example: Smartphones have become ubiquitous. - Example: Coffee shops are ubiquitous in this city.
+
+# vague - Pronunciation: /veɪɡ/ 🔊 - Meaning: 모호한 - Example: His answer was vague and unsatisfying. - Example: The instructions are too vague to follow.
+
+# waive - Pronunciation: /weɪv/ 🔊 - Meaning: 포기하다 - Example: The company agreed to waive the fee. - Example: He waived his right to an attorney.
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: We must combat xenophobia in our society. - Example: Xenophobia often stems from fear and ignorance.
+
+# yield - Pronunciation: /jiːld/ 🔊 - Meaning: 산출하다, 양보하다 - Example: This investment should yield good returns. - Example: You must yield to oncoming traffic.
+
+# zealous - Pronunciation: /ˈzel.əs/ 🔊 - Meaning: 열성적인 - Example: He's a zealous supporter of the cause. - Example: She's zealous about protecting the environment.
+
+# aggregate - Pronunciation: /ˈæɡ.rɪ.ɡət/ 🔊 - Meaning: 집합의, 합계 - Example: We need to look at the aggregate data. - Example: What's the aggregate amount of our sales?
+
+# benevolent - Pronunciation: /bəˈnev.əl.ənt/ 🔊 - Meaning: 자비로운 - Example: He's known for his benevolent nature. - Example: The company made a benevolent donation to the charity.
+
+# cognition - Pronunciation: /kɒɡˈnɪʃ.ən/ 🔊 - Meaning: 인지 - Example: The study focuses on human cognition. - Example: Stress can affect cognition.
+
+# dichotomy - Pronunciation: /daɪˈkɒt.ə.mi/ 🔊 - Meaning: 이분법 - Example: There's a false dichotomy between science and art. - Example: We need to move beyond this simple dichotomy.
+
+# empirical - Pronunciation: /ɪmˈpɪr.ɪ.kəl/ 🔊 - Meaning: 경험적인 - Example: We need empirical evidence to support this theory. - Example: This conclusion is based on empirical data.
+
+# facetious - Pronunciation: /fəˈsiː.ʃəs/ 🔊 - Meaning: 우스갯소리의 - Example: His facetious comment was not appreciated. - Example: Don't be facetious; this is a serious matter.
+
+# gregarious - Pronunciation: /ɡrɪˈɡeə.ri.əs/ 🔊 - Meaning: 사교적인 - Example: She has a gregarious personality. - Example: Dolphins are known to be gregarious animals.
+
+# hegemony - Pronunciation: /hɪˈdʒem.ə.ni/ 🔊 - Meaning: 패권 - Example: The country seeks to maintain its economic hegemony. - Example: They challenge the cultural hegemony of Hollywood.
+
+# idiosyncrasy - Pronunciation: /ˌɪd.i.əˈsɪŋ.krə.si/ 🔊 - Meaning: 특이성 - Example: Everyone has their own idiosyncrasies. - Example: One of his idiosyncrasies is always wearing mismatched socks.
+
+# juxtaposition - Pronunciation: /ˌdʒʌk.stə.pəˈzɪʃ.ən/ 🔊 - Meaning: 병치 - Example: The juxtaposition of old and new buildings is striking. - Example: Her work is known for its clever juxtaposition of images.
+
+# kinetic - Pronunciation: /kɪˈnet.ɪk/ 🔊 - Meaning: 운동의 - Example: The sculpture has kinetic elements. - Example: Kinetic energy is energy of motion.
+
+# loquacious - Pronunciation: /ləˈkweɪ.ʃəs/ 🔊 - Meaning: 수다스러운 - Example: He's known for being loquacious at parties. - Example: The loquacious speaker went on for hours.
+
+# melancholy - Pronunciation: /ˈmel.əŋ.kəl.i/ 🔊 - Meaning: 우울한 - Example: The music has a melancholy tone. - Example: She felt a sense of melancholy as she packed her belongings.
+
+# nomenclature - Pronunciation: /nəˈmeŋ.klə.tʃər/ 🔊 - Meaning: 명명법 - Example: Scientific nomenclature can be confusing. - Example: We need to standardize our nomenclature.
+
+# ostentatious - Pronunciation: /ˌɒs.tenˈteɪ.ʃəs/ 🔊 - Meaning: 과시하는 - Example: His ostentatious displays of wealth were off-putting. - Example: The decor was a bit too ostentatious for my taste.
+
+# paradigm - Pronunciation: /ˈpær.ə.daɪm/ 🔊 - Meaning: 패러다임 - Example: This represents a paradigm shift in thinking. - Example: We need a new paradigm for understanding this.
+
+# quintessential - Pronunciation: /ˌkwɪn.tɪˈsen.ʃəl/ 🔊 - Meaning: 전형적인 - Example: This is the quintessential New York experience. - Example: He's the quintessential English gentleman.
+
+# reciprocal - Pronunciation: /rɪˈsɪp.rə.kəl/ 🔊 - Meaning: 상호의 - Example: We have a reciprocal agreement with that company. - Example: Love should be reciprocal.
+
+# surreptitious - Pronunciation: /ˌsʌr.əpˈtɪʃ.əs/ 🔊 - Meaning: 몰래하는 - Example: He took a surreptitious glance at his phone. - Example: There were surreptitious dealings going on.
+
+# tautology - Pronunciation: /tɔːˈtɒl.ə.dʒi/ 🔊 - Meaning: 동어반복 - Example: "Free gift" is a common tautology. - Example: He's prone to tautology in his writing.
+
+# ubiquitous - Pronunciation: /juːˈbɪk.wɪ.təs/ 🔊 - Meaning: 어디에나 있는 - Example: Smartphones have become ubiquitous. - Example: Coffee shops are ubiquitous in this city.
+
+# vicarious - Pronunciation: /vɪˈkeə.ri.əs/ 🔊 - Meaning: 대리의 - Example: He gets vicarious pleasure from his son's success. - Example: Reading allows for vicarious experiences.
+
+# wanton - Pronunciation: /ˈwɒn.tən/ 🔊 - Meaning: 무분별한 - Example: The report criticized the wanton destruction of the forest. - Example: He was known for his wanton behavior.
+
+# zeitgeist - Pronunciation: /ˈzaɪt.ɡaɪst/ 🔊 - Meaning: 시대정신 - Example: The artist captured the zeitgeist of the 1960s. - Example: Social media reflects the current zeitgeist.
+
+# abate - Pronunciation: /əˈbeɪt/ 🔊 - Meaning: 감소하다 - Example: The storm finally began to abate. - Example: We hope the inflation rate will abate soon.
+
+# benign - Pronunciation: /bɪˈnaɪn/ 🔊 - Meaning: 양성의, 온화한 - Example: Fortunately, the tumor was benign. - Example: He has a benign personality.
+
+# cacophony - Pronunciation: /kəˈkɒf.ə.ni/ 🔊 - Meaning: 불협화음 - Example: The cacophony of the city was overwhelming. - Example: There was a cacophony of voices in the crowded room.
+
+# dearth - Pronunciation: /dɜːθ/ 🔊 - Meaning: 부족 - Example: There's a dearth of good jobs in this area. - Example: We're facing a dearth of resources.
+
+# ephemeral - Pronunciation: /ɪˈfem.ər.əl/ 🔊 - Meaning: 덧없는, 일시적인 - Example: Fame can be ephemeral. - Example: Social media trends are often ephemeral.
+
+# frugal - Pronunciation: /ˈfruː.ɡəl/ 🔊 - Meaning: 검소한 - Example: He leads a frugal lifestyle. - Example: Being frugal can help you save money.
+
+# gregarious - Pronunciation: /ɡrɪˈɡeə.ri.əs/ 🔊 - Meaning: 사교적인 - Example: She has a gregarious personality. - Example: Dolphins are known to be gregarious animals.
+
+# harbinger - Pronunciation: /ˈhɑː.bɪn.dʒər/ 🔊 - Meaning: 전조 - Example: The robin is often seen as a harbinger of spring. - Example: His arrival was a harbinger of change.
+
+# impetuous - Pronunciation: /ɪmˈpet.ju.əs/ 🔊 - Meaning: 성급한 - Example: His impetuous decision led to problems. - Example: She regretted her impetuous words.
+
+# juxtapose - Pronunciation: /ˈdʒʌk.stə.pəʊz/ 🔊 - Meaning: 병치하다 - Example: The author juxtaposes two contrasting ideas. - Example: The exhibit juxtaposes ancient and modern art.
+
+# kinetic - Pronunciation: /kɪˈnet.ɪk/ 🔊 - Meaning: 운동의 - Example: The sculpture has kinetic elements. - Example: Kinetic energy is energy of motion.
+
+# lethargic - Pronunciation: /ləˈθɑː.dʒɪk/ 🔊 - Meaning: 무기력한 - Example: The heat made everyone feel lethargic. - Example: He's been lethargic since his illness.
+
+# meticulous - Pronunciation: /məˈtɪk.jʊ.ləs/ 🔊 - Meaning: 꼼꼼한 - Example: She's very meticulous in her work. - Example: He paid meticulous attention to detail.
+
+# nefarious - Pronunciation: /nɪˈfeə.ri.əs/ 🔊 - Meaning: 악랄한 - Example: They uncovered a nefarious plot. - Example: He was involved in nefarious activities.
+
+# obfuscate - Pronunciation: /ˈɒb.fʌs.keɪt/ 🔊 - Meaning: 혼란스럽게 하다 - Example: The politician tried to obfuscate the issue. - Example: Don't obfuscate the facts.
+
+# panacea - Pronunciation: /ˌpæn.əˈsiː.ə/ 🔊 - Meaning: 만병통치약 - Example: There's no panacea for all our problems. - Example: Technology is not a panacea for educational issues.
+
+# quixotic - Pronunciation: /kwɪkˈsɒt.ɪk/ 🔊 - Meaning: 비현실적인 - Example: His plan seemed quixotic to most people. - Example: She had a quixotic vision of changing the world.
+
+# rebuke - Pronunciation: /rɪˈbjuːk/ 🔊 - Meaning: 叱责 - Example: He was rebuked for his behavior. - Example: The teacher gave him a stern rebuke.
+
+# serendipity - Pronunciation: /ˌser.ənˈdɪp.ə.ti/ 🔊 - Meaning: 우연한 발견 - Example: Their meeting was pure serendipity. - Example: Many scientific discoveries happen by serendipity.
+
+# taciturn - Pronunciation: /ˈtæs.ɪ.tɜːn/ 🔊 - Meaning: 과묵한 - Example: He's known for being taciturn in meetings. - Example: Her taciturn nature made it hard to get to know her.
+
+# ubiquitous - Pronunciation: /juːˈbɪk.wɪ.təs/ 🔊 - Meaning: 어디에나 있는 - Example: Smartphones have become ubiquitous. - Example: Coffee shops are ubiquitous in this city.
+
+# vacillate - Pronunciation: /ˈvæs.ɪ.leɪt/ 🔊 - Meaning: 망설이다 - Example: He vacillated between two job offers. - Example: Don't vacillate; make a decision.
+
+# wane - Pronunciation: /weɪn/ 🔊 - Meaning: 쇠퇴하다 - Example: His popularity began to wane. - Example: Interest in the project is waning.
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: We must combat xenophobia in our society. - Example: Xenophobia often stems from fear and ignorance.
+
+# yield - Pronunciation: /jiːld/ 🔊 - Meaning: 산출하다, 양보하다 - Example: This investment should yield good returns. - Example: You must yield to oncoming traffic.
+
+# zeal - Pronunciation: /ziːl/ 🔊 - Meaning: 열정 - Example: He approached the project with great zeal. - Example: Her zeal for her work is admirable.
+
+# amalgamate - Pronunciation: /əˈmæl.ɡə.meɪt/ 🔊 - Meaning: 합병하다 - Example: The two companies plan to amalgamate. - Example: We need to amalgamate these different ideas.
+
+# belligerent - Pronunciation: /bəˈlɪdʒ.ər.ənt/ 🔊 - Meaning: 호전적인 - Example: He became belligerent after a few drinks. - Example: The country adopted a belligerent stance.
+
+# clandestine - Pronunciation: /klænˈdes.tɪn/ 🔊 - Meaning: 비밀의 - Example: They held clandestine meetings. - Example: The operation was carried out in a clandestine manner.
+
+# dichotomy - Pronunciation: /daɪˈkɒt.ə.mi/ 🔊 - Meaning: 이분법 - Example: There's a false dichotomy between science and art. - Example: We need to move beyond this simple dichotomy.
+
+# egregious - Pronunciation: /ɪˈɡriː.dʒəs/ 🔊 - Meaning: 극악무도한 - Example: That was an egregious error. - Example: His behavior was truly egregious.
+
+# fallacious - Pronunciation: /fəˈleɪ.ʃəs/ 🔊 - Meaning: 오류가 있는 - Example: His argument is based on fallacious reasoning. - Example: Be careful of fallacious conclusions.
+
+# garrulous - Pronunciation: /ˈɡær.ə.ləs/ 🔊 - Meaning: 수다스러운 - Example: The garrulous old man talked for hours. - Example: She's known for her garrulous nature.
+
+# hegemony - Pronunciation: /hɪˈdʒem.ə.ni/ 🔊 - Meaning: 패권 - Example: The country seeks to maintain its economic hegemony. - Example: They challenge the cultural hegemony of Hollywood.
+
+# iconoclast - Pronunciation: /aɪˈkɒn.ə.klæst/ 🔊 - Meaning: 우상 파괴자 - Example: He's known as an iconoclast in the art world. - Example: She's an iconoclast who challenges traditional thinking.
+
+# jeopardize - Pronunciation: /ˈdʒep.ə.daɪz/ 🔊 - Meaning: 위태롭게 하다 - Example: Don't jeopardize your future for short-term gains. - Example: His actions could jeopardize the entire project.
+
+# kowtow - Pronunciation: /ˌkaʊˈtaʊ/ 🔊 - Meaning: 굴복하다 - Example: He refused to kowtow to their demands. - Example: Don't kowtow to pressure from others.
+
+# loquacious - Pronunciation: /ləˈkweɪ.ʃəs/ 🔊 - Meaning: 수다스러운 - Example: The loquacious guest dominated the conversation. - Example: She's known for being loquacious at parties.
+
+# mellifluous - Pronunciation: /məˈlɪf.lu.əs/ 🔊 - Meaning: 달콤한, 부드러운 - Example: She has a mellifluous voice. - Example: His mellifluous words charmed the audience.
+
+# nebulous - Pronunciation: /ˈneb.jʊ.ləs/ 🔊 - Meaning: 모호한 - Example: The plan is still rather nebulous. - Example: His explanation was nebulous and confusing.
+
+# obsequious - Pronunciation: /əbˈsiː.kwi.əs/ 🔊 - Meaning: 아첨하는 - Example: He disliked the waiter's obsequious manner. - Example: Don't be obsequious; speak your mind.
+
+# pernicious - Pronunciation: /pəˈnɪʃ.əs/ 🔊 - Meaning: 유해한 - Example: Smoking has a pernicious effect on health. - Example: The pernicious rumor spread quickly.
+
+# quagmire - Pronunciation: /ˈkwæɡ.maɪər/ 🔊 - Meaning: 곤경 - Example: The project has become a legal quagmire. - Example: We're stuck in a quagmire of bureaucracy.
+
+# recalcitrant - Pronunciation: /rɪˈkæl.sɪ.trənt/ 🔊 - Meaning: 반항적인 - Example: The recalcitrant student refused to do his homework. - Example: He's known for his recalcitrant attitude.
+
+# sycophant - Pronunciation: /ˈsɪk.ə.fənt/ 🔊 - Meaning: 아첨꾼 - Example: He's surrounded by sycophants who agree with everything he says. - Example: Don't be a sycophant; have your own opinions.
+
+# temerity - Pronunciation: /təˈmer.ə.ti/ 🔊 - Meaning: 무모함 - Example: He had the temerity to question the boss's decision. - Example: I admire your temerity in standing up to them.
+
+# ubiquitous - Pronunciation: /juːˈbɪk.wɪ.təs/ 🔊 - Meaning: 어디에나 있는 - Example: Smartphones have become ubiquitous. - Example: Coffee shops are ubiquitous in this city.
+
+# vacuous - Pronunciation: /ˈvæk.ju.əs/ 🔊 - Meaning: 공허한 - Example: His speech was full of vacuous promises. - Example: She gave a vacuous smile.
+
+# wanton - Pronunciation: /ˈwɒn.tən/ 🔊 - Meaning: 무분별한 - Example: The report criticized the wanton destruction of the forest. - Example: He was known for his wanton behavior.
+
+# zeitgeist - Pronunciation: /ˈzaɪt.ɡaɪst/ 🔊 - Meaning: 시대정신 - Example: The artist captured the zeitgeist of the 1960s. - Example: Social media reflects the current zeitgeist.
+
+# abeyance - Pronunciation: /əˈbeɪ.əns/ 🔊 - Meaning: 중지 상태 - Example: The project is in abeyance until further notice. - Example: The law has been held in abeyance for years.
+
+# byzantine - Pronunciation: /ˈbɪz.ən.taɪn/ 🔊 - Meaning: 복잡한 - Example: The tax code is byzantine and difficult to understand. - Example: He created a byzantine plot for his novel.
+
+# cogent - Pronunciation: /ˈkəʊ.dʒənt/ 🔊 - Meaning: 설득력 있는 - Example: She presented a cogent argument. - Example: His reasons for the decision were cogent and well-thought-out.
+
+# debunk - Pronunciation: /diːˈbʌŋk/ 🔊 - Meaning: 폭로하다 - Example: The article attempts to debunk common myths about diet. - Example: Scientists worked to debunk the fraudulent claims.
+
+# emulate - Pronunciation: /ˈem.jʊ.leɪt/ 🔊 - Meaning: 모방하다 - Example: Young players often try to emulate their sports heroes. - Example: The company is trying to emulate the success of its competitors.
+
+# fathom - Pronunciation: /ˈfæð.əm/ 🔊 - Meaning: 이해하다 - Example: I can't fathom why he would do such a thing. - Example: It's difficult to fathom the depths of the ocean.
+
+# glib - Pronunciation: /ɡlɪb/ 🔊 - Meaning: 경솔한 - Example: Don't be fooled by his glib promises. - Example: He gave a glib answer without really considering the question.
+
+# hackneyed - Pronunciation: /ˈhæk.nid/ 🔊 - Meaning: 진부한 - Example: The speech was full of hackneyed phrases. - Example: Avoid using hackneyed expressions in your writing.
+
+# inculcate - Pronunciation: /ˈɪn.kʌl.keɪt/ 🔊 - Meaning: 주입시키다 - Example: Parents try to inculcate good values in their children. - Example: The school aims to inculcate a love of learning.
+
+# jaded - Pronunciation: /ˈdʒeɪ.dɪd/ 🔊 - Meaning: 厌倦的 - Example: He had become jaded after years in the same job. - Example: Her jaded attitude was evident in her cynical comments.
+
+# kindle - Pronunciation: /ˈkɪn.dəl/ 🔊 - Meaning: 불붙이다 - Example: The speech kindled a spark of hope in the audience. - Example: Reading can kindle a lifelong love of learning.
+
+# laudable - Pronunciation: /ˈlɔː.də.bəl/ 🔊 - Meaning: 칭찬할 만한 - Example: Her efforts to raise money for charity were laudable. - Example: The company's commitment to sustainability is laudable.
+
+# magnanimous - Pronunciation: /mæɡˈnæn.ɪ.məs/ 🔊 - Meaning: 관대한 - Example: It was magnanimous of her to forgive him. - Example: The winner gave a magnanimous speech, praising his opponents.
+
+# nonchalant - Pronunciation: /ˌnɒn.ʃəˈlɑːnt/ 🔊 - Meaning: 무관심한 - Example: He remained nonchalant despite the pressure. - Example: She answered the difficult questions with a nonchalant air.
+
+# obdurate - Pronunciation: /ˈɒb.djʊ.rət/ 🔊 - Meaning: 완고한 - Example: He remained obdurate in his refusal. - Example: The obdurate criminal showed no remorse.
+
+# parsimonious - Pronunciation: /ˌpɑː.sɪˈməʊ.ni.əs/ 🔊 - Meaning: 극도로 절약하는 - Example: He's known for being parsimonious with his money. - Example: The company's parsimonious approach to spending helped it survive the recession.
+
+# quintessential - Pronunciation: /ˌkwɪn.tɪˈsen.ʃəl/ 🔊 - Meaning: 전형적인 - Example: This is the quintessential New York experience. - Example: He's the quintessential English gentleman.
+
+# recondite - Pronunciation: /ˈrek.ən.daɪt/ 🔊 - Meaning: 난해한 - Example: The professor's lecture was too recondite for most students. - Example: He has a vast knowledge of recondite subjects.
+
+# sagacious - Pronunciation: /səˈɡeɪ.ʃəs/ 🔊 - Meaning: 현명한 - Example: Her sagacious advice helped me make the right decision. - Example: The sagacious leader foresaw the economic crisis.
+
+# truncate - Pronunciation: /trʌŋˈkeɪt/ 🔊 - Meaning: 자르다 - Example: The article was truncated to fit the available space. - Example: The system will truncate any usernames longer than 20 characters.
+
+# unequivocal - Pronunciation: /ˌʌn.ɪˈkwɪv.ə.kəl/ 🔊 - Meaning: 명백한 - Example: The evidence against him was unequivocal. - Example: She gave an unequivocal answer to the question.
+
+# vacillate - Pronunciation: /ˈvæs.ɪ.leɪt/ 🔊 - Meaning: 망설이다 - Example: He vacillated between two job offers. - Example: Don't vacillate; make a decision.
+
+# waggish - Pronunciation: /ˈwæɡ.ɪʃ/ 🔊 - Meaning: 익살스러운 - Example: His waggish comments lightened the mood. - Example: She has a waggish sense of humor.
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: We must combat xenophobia in our society. - Example: Xenophobia often stems from fear and ignorance.
+
+# yeoman - Pronunciation: /ˈjəʊ.mən/ 🔊 - Meaning: 자작농 - Example: He did yeoman's work in organizing the event. - Example: The yeoman farmers played a crucial role in the economy.
+
+# zealot - Pronunciation: /ˈzel.ət/ 🔊 - Meaning: 열성분자 - Example: He's a zealot when it comes to environmental issues. - Example: The party was taken over by zealots.
+
+# abstruse - Pronunciation: /æbˈstruːs/ 🔊 - Meaning: 난해한 - Example: The philosopher's writings are often abstruse. - Example: The theory is too abstruse for the average reader.
+
+# bellicose - Pronunciation: /ˈbel.ɪ.kəʊs/ 🔊 - Meaning: 호전적인 - Example: The country's bellicose attitude alarmed its neighbors. - Example: He's known for his bellicose rhetoric.
+
+# capricious - Pronunciation: /kəˈprɪʃ.əs/ 🔊 - Meaning: 변덕스러운 - Example: Her capricious nature made her difficult to work with. - Example: The weather has been capricious lately.
+
+# diatribe - Pronunciation: /ˈdaɪ.ə.traɪb/ 🔊 - Meaning: 독설 - Example: His speech devolved into a diatribe against his opponents. - Example: She launched into a diatribe about the poor service.
+
+# ephemeral - Pronunciation: /ɪˈfem.ər.əl/ 🔊 - Meaning: 덧없는 - Example: Fame can be ephemeral. - Example: Social media trends are often ephemeral.
+
+# facetious - Pronunciation: /fəˈsiː.ʃəs/ 🔊 - Meaning: 우스갯소리의 - Example: His facetious comment was not appreciated. - Example: Don't be facetious; this is a serious matter.
+
+# garrulous - Pronunciation: /ˈɡær.ə.ləs/ 🔊 - Meaning: 수다스러운 - Example: The garrulous old man talked for hours. - Example: She's known for her garrulous nature.
+
+# harangue - Pronunciation: /həˈræŋ/ 🔊 - Meaning: 설교 - Example: The politician delivered a lengthy harangue. - Example: He harangued the team for their poor performance.
+
+# iconoclast - Pronunciation: /aɪˈkɒn.ə.klæst/ 🔊 - Meaning: 우상 파괴자 - Example: He's known as an iconoclast in the art world. - Example: She's an iconoclast who challenges traditional thinking.
+
+# juxtapose - Pronunciation: /ˈdʒʌk.stə.pəʊz/ 🔊 - Meaning: 병치하다 - Example: The author juxtaposes two contrasting ideas. - Example: The exhibit juxtaposes ancient and modern art.
+
+# kowtow - Pronunciation: /ˌkaʊˈtaʊ/ 🔊 - Meaning: 굴복하다 - Example: He refused to kowtow to their demands. - Example: Don't kowtow to pressure from others.
+
+# loquacious - Pronunciation: /ləˈkweɪ.ʃəs/ 🔊 - Meaning: 수다스러운 - Example: The loquacious guest dominated the conversation. - Example: She's known for being loquacious at parties.
+
+# mellifluous - Pronunciation: /məˈlɪf.lu.əs/ 🔊 - Meaning: 달콤한, 부드러운 - Example: She has a mellifluous voice. - Example: His mellifluous words charmed the audience.
+
+# nugatory - Pronunciation: /ˈnjuː.ɡə.tər.i/ 🔊 - Meaning: 하찮은 - Example: His objections were nugatory and easily dismissed. - Example: The contract contained several nugatory clauses.
+
+# obfuscate - Pronunciation: /ˈɒb.fʌs.keɪt/ 🔊 - Meaning: 혼란스럽게 하다 - Example: The politician tried to obfuscate the issue. - Example: Don't obfuscate the facts.
+
+# perfidious - Pronunciation: /pəˈfɪd.i.əs/ 🔊 - Meaning: 배신적인 - Example: His perfidious behavior destroyed their friendship. - Example: She was shocked by his perfidious actions.
+
+# quixotic - Pronunciation: /kwɪkˈsɒt.ɪk/ 🔊 - Meaning: 비현실적인 - Example: His plan seemed quixotic to most people. - Example: She had a quixotic vision of changing the world.
+
+# recalcitrant - Pronunciation: /rɪˈkæl.sɪ.trənt/ 🔊 - Meaning: 반항적인 - Example: The recalcitrant student refused to do his homework. - Example: He's known for his recalcitrant attitude.
+
+# sycophant - Pronunciation: /ˈsɪk.ə.fənt/ 🔊 - Meaning: 아첨꾼 - Example: He's surrounded by sycophants who agree with everything he says. - Example: Don't be a sycophant; have your own opinions.
+
+# truculent - Pronunciation: /ˈtrʌk.jʊ.lənt/ 🔊 - Meaning: 호전적인 - Example: His truculent behavior is causing problems at work. - Example: The truculent child refused to cooperate.
+
+# ubiquitous - Pronunciation: /juːˈbɪk.wɪ.təs/ 🔊 - Meaning: 어디에나 있는 - Example: Smartphones have become ubiquitous. - Example: Coffee shops are ubiquitous in this city.
+
+# verisimilitude - Pronunciation: /ˌver.ɪ.sɪˈmɪl.ɪ.tjuːd/ 🔊 - Meaning: 진실성 - Example: The novel has a strong sense of verisimilitude. - Example: The film's attention to detail gives it verisimilitude.
+
+# weltanschauung - Pronunciation: /ˈvelt.ən.ʃaʊ.ʊŋ/ 🔊 - Meaning: 세계관 - Example: His weltanschauung was shaped by his experiences in the war. - Example: Their different weltanschauungen led to frequent disagreements.
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: We must combat xenophobia in our society. - Example: Xenophobia often stems from fear and ignorance.
+
+# abrogate - Pronunciation: /ˈæb.rə.ɡeɪt/ 🔊 - Meaning: 폐지하다 - Example: The new law abrogates the old regulations. - Example: The government decided to abrogate the treaty.
+
+# burgeon - Pronunciation: /ˈbɜː.dʒən/ 🔊 - Meaning: 급성장하다 - Example: The tech industry continues to burgeon. - Example: His interest in music began to burgeon at an early age.
+
+# circumlocution - Pronunciation: /ˌsɜː.kəm.ləˈkjuː.ʃən/ 🔊 - Meaning: 완곡한 표현 - Example: He used circumlocution to avoid giving a direct answer. - Example: Her writing is full of unnecessary circumlocution.
+
+# desiccate - Pronunciation: /ˈdes.ɪ.keɪt/ 🔊 - Meaning: 건조시키다 - Example: The heat will desiccate the grapes into raisins. - Example: The plants were completely desiccated by the drought.
+
+# enervate - Pronunciation: /ˈen.ə.veɪt/ 🔊 - Meaning: 약화시키다 - Example: The hot weather seemed to enervate everyone. - Example: Constant criticism can enervate a person's confidence.
+
+# fecund - Pronunciation: /ˈfiː.kənd/ 🔊 - Meaning: 다산의, 비옥한 - Example: The valley's fecund soil produces abundant crops. - Example: She has a fecund imagination, always full of new ideas.
+
+# gainsay - Pronunciation: /ˌɡeɪnˈseɪ/ 🔊 - Meaning: 부인하다 - Example: No one could gainsay the importance of his discovery. - Example: I won't attempt to gainsay your expertise in this field.
+
+# hagiography - Pronunciation: /ˌhæɡ.iˈɒɡ.rə.fi/ 🔊 - Meaning: 성인전 - Example: The book was more hagiography than objective biography. - Example: Medieval literature includes many examples of hagiography.
+
+# imbroglio - Pronunciation: /ɪmˈbrəʊ.li.əʊ/ 🔊 - Meaning: 복잡한 상황 - Example: The political imbroglio seemed impossible to resolve. - Example: He found himself in an imbroglio of legal complications.
+
+# jejune - Pronunciation: /dʒɪˈdʒuːn/ 🔊 - Meaning: 건조한, 지루한 - Example: The critic dismissed the work as jejune and unimaginative. - Example: His jejune remarks added nothing to the discussion.
+
+# kismet - Pronunciation: /ˈkɪz.met/ 🔊 - Meaning: 운명 - Example: She believed their meeting was kismet. - Example: He accepted his fate as kismet.
+
+# laconic - Pronunciation: /ləˈkɒn.ɪk/ 🔊 - Meaning: 간결한 - Example: His laconic reply gave nothing away. - Example: She's known for her laconic wit.
+
+# meretricious - Pronunciation: /ˌmer.ɪˈtrɪʃ.əs/ 🔊 - Meaning: 겉만 그럴듯한 - Example: The building's meretricious facade hid its structural problems. - Example: He was not fooled by her meretricious charm.
+
+# nugatory - Pronunciation: /ˈnjuː.ɡə.tər.i/ 🔊 - Meaning: 하찮은 - Example: His objections were nugatory and easily dismissed. - Example: The contract contained several nugatory clauses.
+
+# obfuscate - Pronunciation: /ˈɒb.fʌs.keɪt/ 🔊 - Meaning: 혼란스럽게 하다 - Example: The politician tried to obfuscate the issue. - Example: Don't obfuscate the facts; speak clearly.
+
+# palliate - Pronunciation: /ˈpæl.i.eɪt/ 🔊 - Meaning: 완화하다 - Example: The medicine can palliate the symptoms but not cure the disease. - Example: Nothing could palliate his grief at the loss of his wife.
+
+# quiescent - Pronunciation: /kwiˈes.ənt/ 🔊 - Meaning: 조용한, 활동하지 않는 - Example: The volcano has been quiescent for centuries. - Example: The economy remained quiescent despite attempts to stimulate it.
+
+# recondite - Pronunciation: /ˈrek.ən.daɪt/ 🔊 - Meaning: 난해한 - Example: His lectures on quantum physics were too recondite for most students. - Example: She has a vast knowledge of recondite subjects.
+
+# sanguine - Pronunciation: /ˈsæŋ.ɡwɪn/ 🔊 - Meaning: 낙관적인 - Example: He remained sanguine about his chances of success. - Example: Despite the setbacks, she maintained a sanguine outlook.
+
+# tergiversate - Pronunciation: /ˈtɜː.dʒɪ.və.seɪt/ 🔊 - Meaning: 변절하다, 회피하다 - Example: The politician was accused of tergiversating on the issue. - Example: He tergiversated when asked direct questions about his involvement.
+
+# ubiquitous - Pronunciation: /juːˈbɪk.wɪ.təs/ 🔊 - Meaning: 어디에나 있는 - Example: Smartphones have become ubiquitous in modern society. - Example: Coffee shops are ubiquitous in this city.
+
+# vituperate - Pronunciation: /vɪˈtjuː.pər.eɪt/ 🔊 - Meaning: 욕설하다 - Example: He vituperated against his opponents in a scathing speech. - Example: She was known to vituperate anyone who disagreed with her.
+
+# wanton - Pronunciation: /ˈwɒn.tən/ 🔊 - Meaning: 방탕한, 무분별한 - Example: The report criticized the wanton destruction of the forest. - Example: He was known for his wanton behavior in his youth.
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: We must combat xenophobia in our society. - Example: Xenophobia often stems from fear and ignorance.
+
+# yoke - Pronunciation: /jəʊk/ 🔊 - Meaning: 멍에, 속박 - Example: The oxen were fitted with a yoke. - Example: Many felt the yoke of oppression under the regime.
+
+# zealot - Pronunciation: /ˈzel.ət/ 🔊 - Meaning: 열성분자 - Example: He's a zealot when it comes to environmental issues. - Example: The party was taken over by zealots.
+
+# abeyance - Pronunciation: /əˈbeɪ.əns/ 🔊 - Meaning: 중지 상태 - Example: The project is in abeyance until further notice. - Example: The law has been held in abeyance for years.
+
+# bucolic - Pronunciation: /bjuːˈkɒl.ɪk/ 🔊 - Meaning: 전원의 - Example: He dreamed of living a bucolic life in the countryside. - Example: The painting depicted a bucolic scene of shepherds and sheep.
+
+# cavil - Pronunciation: /ˈkæv.əl/ 🔊 - Meaning: 트집잡다 - Example: He's always ready to cavil at the smallest mistake. - Example: Don't cavil; focus on the main issues.
+
+# denouement - Pronunciation: /ˌdeɪ.nuːˈmɒ̃/ 🔊 - Meaning: 결말 - Example: The denouement of the play was unexpected. - Example: The novel's denouement tied up all the loose ends.
+
+# ephemeral - Pronunciation: /ɪˈfem.ər.əl/ 🔊 - Meaning: 덧없는, 일시적인 - Example: Fame can be ephemeral. - Example: Social media trends are often ephemeral.
+
+# feckless - Pronunciation: /ˈfek.ləs/ 🔊 - Meaning: 무책임한 - Example: His feckless attitude towards work cost him his job. - Example: She criticized the government's feckless approach to the crisis.
+
+# galvanize - Pronunciation: /ˈɡæl.və.naɪz/ 🔊 - Meaning: 자극하다, 활성화하다 - Example: The speech galvanized the crowd into action. - Example: The crisis galvanized the community to work together.
+
+# harangue - Pronunciation: /həˈræŋ/ 🔊 - Meaning: 설교 - Example: The politician delivered a lengthy harangue. - Example: He harangued the team for their poor performance.
+
+# imbue - Pronunciation: /ɪmˈbjuː/ 🔊 - Meaning: 물들이다, 스며들게 하다 - Example: The story is imbued with a sense of nostalgia. - Example: Her writing is imbued with wit and humor.
+
+# jettison - Pronunciation: /ˈdʒet.ɪ.sən/ 🔊 - Meaning: 버리다 - Example: The airplane had to jettison fuel before making an emergency landing. - Example: The company decided to jettison the unprofitable division.
+
+# knavery - Pronunciation: /ˈneɪ.vər.i/ 🔊 - Meaning: 부정행위 - Example: His knavery was finally exposed. - Example: The politician was accused of knavery and corruption.
+
+# limpid - Pronunciation: /ˈlɪm.pɪd/ 🔊 - Meaning: 맑은, 투명한 - Example: The limpid waters of the mountain stream were inviting. - Example: Her writing style is limpid and easy to understand.
+
+# mellifluous - Pronunciation: /məˈlɪf.lu.əs/ 🔊 - Meaning: 달콤한, 부드러운 - Example: She has a mellifluous voice. - Example: His mellifluous words charmed the audience.
+
+# nefarious - Pronunciation: /nɪˈfeə.ri.əs/ 🔊 - Meaning: 악랄한 - Example: They uncovered a nefarious plot to overthrow the government. - Example: He was involved in nefarious activities.
+
+# obdurate - Pronunciation: /ˈɒb.djʊ.rət/ 🔊 - Meaning: 완고한 - Example: He remained obdurate in his refusal. - Example: The obdurate criminal showed no remorse.
+
+# pellucid - Pronunciation: /pəˈluː.sɪd/ 🔊 - Meaning: 투명한, 명료한 - Example: The pellucid waters revealed the coral reef below. - Example: Her pellucid explanation made the complex topic easy to understand.
+
+# quixotic - Pronunciation: /kwɪkˈsɒt.ɪk/ 🔊 - Meaning: 비현실적인 - Example: His quixotic quest for perfection was admirable but impractical. - Example: She had a quixotic vision of changing the world.
+
+# recalcitrant - Pronunciation: /rɪˈkæl.sɪ.trənt/ 🔊 - Meaning: 반항적인 - Example: The recalcitrant student refused to follow the rules. - Example: He's known for his recalcitrant attitude towards authority.
+
+# saturnine - Pronunciation: /ˈsæt.ən.aɪn/ 🔊 - Meaning: 침울한 - Example: His saturnine demeanor made people uncomfortable. - Example: The actor specialized in playing saturnine characters.
+
+# truculent - Pronunciation: /ˈtrʌk.jʊ.lənt/ 🔊 - Meaning: 호전적인 - Example: His truculent behavior is causing problems at work. - Example: The truculent child refused to cooperate with the teacher.
+
+# unctuous - Pronunciation: /ˈʌŋk.tʃu.əs/ 🔊 - Meaning: 기름진, 아첨하는 - Example: The salesman's unctuous manner was off-putting. - Example: He gave an unctuous speech praising his boss.
+
+# virago - Pronunciation: /vɪˈrɑː.ɡəʊ/ 🔊 - Meaning: 悍婦 - Example: The politician was described as a virago by her opponents. - Example: In literature, the character of the virago challenges traditional gender roles.
+
+# winsome - Pronunciation: /ˈwɪn.səm/ 🔊 - Meaning: 매력적인 - Example: Her winsome smile charmed everyone. - Example: The winsome puppy quickly found a new home.
+
+# yeoman - Pronunciation: /ˈjəʊ.mən/ 🔊 - Meaning: 자작농 - Example: He did yeoman's work in organizing the event. - Example: The yeoman farmers played a crucial role in medieval society.
+
+# abscond - Pronunciation: /əbˈskɒnd/ 🔊 - Meaning: 도망가다 - Example: The employee absconded with the company's funds. - Example: The suspect absconded before the police arrived.
+
+# bellicose - Pronunciation: /ˈbel.ɪ.kəʊs/ 🔊 - Meaning: 호전적인 - Example: The country's bellicose attitude alarmed its neighbors. - Example: He's known for his bellicose rhetoric.
+
+# celerity - Pronunciation: /səˈler.ə.ti/ 🔊 - Meaning: 신속 - Example: The matter was handled with celerity. - Example: The celerity of the response impressed everyone.
+
+# deleterious - Pronunciation: /ˌdel.ɪˈtɪə.ri.əs/ 🔊 - Meaning: 해로운 - Example: Smoking has a deleterious effect on health. - Example: The policy had a deleterious impact on small businesses.
+
+# effervescent - Pronunciation: /ˌef.əˈves.ənt/ 🔊 - Meaning: 거품이 이는, 활발한 - Example: She has an effervescent personality. - Example: The effervescent drink tickled her nose.
+
+# filibuster - Pronunciation: /ˈfɪl.ɪ.bʌs.tər/ 🔊 - Meaning: 의사진행방해 - Example: The senator used a filibuster to block the bill. - Example: The opposition party threatened to filibuster the legislation.
+
+# gossamer - Pronunciation: /ˈɡɒs.ə.mər/ 🔊 - Meaning: 거미줄, 극히 얇은 것 - Example: The bride wore a gossamer veil. - Example: His argument was as weak as gossamer.
+
+# humdrum - Pronunciation: /ˈhʌm.drʌm/ 🔊 - Meaning: 단조로운 - Example: He was tired of his humdrum job. - Example: The humdrum routine of daily life bored her.
+
+# inveterate - Pronunciation: /ɪnˈvet.ər.ət/ 🔊 - Meaning: 뿌리 깊은 - Example: He's an inveterate liar. - Example: She's an inveterate traveler, always planning her next trip.
+
+# juggernaut - Pronunciation: /ˈdʒʌɡ.ə.nɔːt/ 🔊 - Meaning: 강력한 힘 - Example: The company has become a juggernaut in the tech industry. - Example: The political campaign was an unstoppable juggernaut.
+
+# kowtow - Pronunciation: /ˌkaʊˈtaʊ/ 🔊 - Meaning: 굴복하다 - Example: He refused to kowtow to their demands. - Example: Don't kowtow to pressure from others.
+
+# lugubrious - Pronunciation: /luːˈɡuː.bri.əs/ 🔊 - Meaning: 슬퍼하는 - Example: He gave a lugubrious account of his misfortunes. - Example: The lugubrious music set a somber mood.
+
+# malfeasance - Pronunciation: /mælˈfiː.zəns/ 🔊 - Meaning: 불법 행위 - Example: The official was accused of malfeasance in office. - Example: The company was investigated for financial malfeasance.
+
+# necromancy - Pronunciation: /ˈnek.rə.mæn.si/ 🔊 - Meaning: 강신술 - Example: The fantasy novel featured elements of necromancy. - Example: Necromancy was feared and forbidden in medieval times.
+
+# obsequious - Pronunciation: /əbˈsiː.kwi.əs/ 🔊 - Meaning: 아첨하는 - Example: He disliked the waiter's obsequious manner. - Example: Don't be obsequious; speak your mind.
+
+# panacea - Pronunciation: /ˌpæn.əˈsiː.ə/ 🔊 - Meaning: 만병통치약 - Example: There's no panacea for all our problems. - Example: Technology is not a panacea for educational issues.
+
+# quagmire - Pronunciation: /ˈkwæɡ.maɪər/ 🔊 - Meaning: 곤경 - Example: The project has become a legal quagmire. - Example: We're stuck in a quagmire of bureaucracy.
+
+# requiem - Pronunciation: /ˈrek.wi.əm/ 🔊 - Meaning: 진혼곡 - Example: The composer wrote a beautiful requiem. - Example: The memorial service ended with a requiem.
+
+# sycophant - Pronunciation: /ˈsɪk.ə.fənt/ 🔊 - Meaning: 아첨꾼 - Example: He's surrounded by sycophants who agree with everything he says. - Example: Don't be a sycophant; have your own opinions.
+
+# temerity - Pronunciation: /təˈmer.ə.ti/ 🔊 - Meaning: 무모함 - Example: He had the temerity to question the boss's decision. - Example: I admire your temerity in standing up to them.
+
+# ubiquitous - Pronunciation: /juːˈbɪk.wɪ.təs/ 🔊 - Meaning: 어디에나 있는 - Example: Smartphones have become ubiquitous. - Example: Coffee shops are ubiquitous in this city.
+
+# vacillate - Pronunciation: /ˈvæs.ɪ.leɪt/ 🔊 - Meaning: 망설이다 - Example: He vacillated between two job offers. - Example: Don't vacillate; make a decision.
+
+# weltanschauung - Pronunciation: /ˈvelt.ən.ʃaʊ.ʊŋ/ 🔊 - Meaning: 세계관 - Example: His weltanschauung was shaped by his experiences in the war. - Example: Their different weltanschauungen led to frequent disagreements.
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: We must combat xenophobia in our society. - Example: Xenophobia often stems from fear and ignorance.
+
+# yearn - Pronunciation: /jɜːn/ 🔊 - Meaning: 갈망하다 - Example: She yearned for her homeland. - Example: He yearns to travel the world.
+
+# zeitgeist - Pronunciation: /ˈzaɪt.ɡaɪst/ 🔊 - Meaning: 시대정신 - Example: The artist captured the zeitgeist of the 1960s. - Example: Social media reflects the current zeitgeist.
+
+# abdicate - Pronunciation: /ˈæb.dɪ.keɪt/ 🔊 - Meaning: 퇴위하다, 포기하다 - Example: The king abdicated the throne. - Example: He abdicated his responsibilities as a father.
+
+# bucolic - Pronunciation: /bjuːˈkɒl.ɪk/ 🔊 - Meaning: 전원의 - Example: He dreamed of living a bucolic life in the countryside. - Example: The painting depicted a bucolic scene of shepherds and sheep.
+
+# clandestine - Pronunciation: /klænˈdes.tɪn/ 🔊 - Meaning: 비밀의 - Example: They held clandestine meetings. - Example: The operation was carried out in a clandestine manner.
+
+# demagogue - Pronunciation: /ˈdem.ə.ɡɒɡ/ 🔊 - Meaning: 선동가 - Example: The politician was accused of being a demagogue. - Example: A demagogue often appeals to people's fears and prejudices.
+
+# effrontery - Pronunciation: /ɪˈfrʌn.tər.i/ 🔊 - Meaning: 뻔뻔스러움 - Example: He had the effrontery to demand a pay raise after his poor performance. - Example: I was shocked by her effrontery.
+
+# furtive - Pronunciation: /ˈfɜː.tɪv/ 🔊 - Meaning: 몰래하는 - Example: He cast a furtive glance around the room. - Example: Their furtive behavior aroused suspicion.
+
+# grandiloquent - Pronunciation: /ɡrænˈdɪl.ə.kwənt/ 🔊 - Meaning: 과장된 - Example: His grandiloquent speech failed to impress the audience. - Example: The writer's style was too grandiloquent for my taste.
+
+# hegemon - Pronunciation: /ˈhedʒ.ə.mɒn/ 🔊 - Meaning: 패권국 - Example: The country aspired to be the regional hegemon. - Example: The fall of the hegemon led to a power vacuum.
+
+# inculcate - Pronunciation: /ˈɪn.kʌl.keɪt/ 🔊 - Meaning: 주입시키다 - Example: Parents try to inculcate good values in their children. - Example: The school aims to inculcate a love of learning.
+
+# jaded - Pronunciation: /ˈdʒeɪ.dɪd/ 🔊 - Meaning: 지친, 싫증난 - Example: He had become jaded after years in the same job. - Example: Her jaded attitude was evident in her cynical comments.
+
+# kleptocracy - Pronunciation: /klepˈtɒk.rə.si/ 🔊 - Meaning: 도둑정치 - Example: The citizens revolted against the kleptocracy. - Example: The country suffered under a kleptocracy for decades.
+
+# loquacious - Pronunciation: /ləˈkweɪ.ʃəs/ 🔊 - Meaning: 수다스러운 - Example: The loquacious guest dominated the conversation. - Example: She's known for being loquacious at parties.
+
+# machiavellian - Pronunciation: /ˌmæk.i.əˈvel.i.ən/ 🔊 - Meaning: 교활한 - Example: His machiavellian tactics were effective but unethical. - Example: The CEO was known for his machiavellian approach to business.
+
+# nonchalant - Pronunciation: /ˌnɒn.ʃəˈlɑːnt/ 🔊 - Meaning: 무관심한 - Example: He remained nonchalant despite the pressure. - Example: She answered the difficult questions with a nonchalant air.
+
+# obloquy - Pronunciation: /ˈɒb.lə.kwi/ 🔊 - Meaning: 비난 - Example: He faced public obloquy for his actions. - Example: The politician's career was ruined by obloquy.
+
+# perfidious - Pronunciation: /pəˈfɪd.i.əs/ 🔊 - Meaning: 배신적인 - Example: His perfidious behavior destroyed their friendship. - Example: She was shocked by his perfidious actions.
+
+# quixotic - Pronunciation: /kwɪkˈsɒt.ɪk/ 🔊 - Meaning: 비현실적인 - Example: His plan seemed quixotic to most people. - Example: She had a quixotic vision of changing the world.
+
+# raconteur - Pronunciation: /ˌræk.ɒnˈtɜːr/ 🔊 - Meaning: 이야기꾼 - Example: He's known as a gifted raconteur at parties. - Example: The old man was a natural raconteur, captivating his grandchildren with stories.
+
+# sanguine - Pronunciation: /ˈsæŋ.ɡwɪn/ 🔊 - Meaning: 낙관적인 - Example: He remained sanguine about his chances of success. - Example: Despite the setbacks, she maintained a sanguine outlook.
+
+# tergiversate - Pronunciation: /ˈtɜː.dʒɪ.və.seɪt/ 🔊 - Meaning: 변절하다, 회피하다 - Example: The politician was accused of tergiversating on the issue. - Example: He tergiversated when asked direct questions about his involvement.
+
+# uxorious - Pronunciation: /ʌkˈsɔː.ri.əs/ 🔊 - Meaning: 아내를 지나치게 사랑하는 - Example: His uxorious behavior was the subject of much teasing. - Example: The king was known for his uxorious devotion to his queen.
+
+# vituperate - Pronunciation: /vɪˈtjuː.pər.eɪt/ 🔊 - Meaning: 욕설하다 - Example: He vituperated against his opponents in a scathing speech. - Example: She was known to vituperate anyone who disagreed with her.
+
+# wistful - Pronunciation: /ˈwɪst.fəl/ 🔊 - Meaning: 그리워하는 - Example: She gave a wistful smile as she remembered her childhood. - Example: He felt wistful thinking about the missed opportunity.
+
+# zealot - Pronunciation: /ˈzel.ət/ 🔊 - Meaning: 열성분자 - Example: He's a zealot when it comes to environmental issues. - Example: The party was taken over by zealots.
+
+# abjure - Pronunciation: /əbˈdʒʊər/ 🔊 - Meaning: 포기하다, 철회하다 - Example: He was forced to abjure his faith. - Example: The politician abjured his former beliefs.
+
+# burnish - Pronunciation: /ˈbɜː.nɪʃ/ 🔊 - Meaning: 닦다, 광을 내다 - Example: She burnished the silver until it shone. - Example: He tried to burnish his tarnished reputation.
+
+# calumny - Pronunciation: /ˈkæl.əm.ni/ 🔊 - Meaning: 비방, 중상 - Example: He was the victim of vicious calumny. - Example: The politician's career was ruined by calumny.
+
+# defunct - Pronunciation: /dɪˈfʌŋkt/ 🔊 - Meaning: 사멸한, 폐지된 - Example: The company is now defunct. - Example: They studied the language of a defunct civilization.
+
+# effulgent - Pronunciation: /ɪˈfʊl.dʒənt/ 🔊 - Meaning: 빛나는, 찬란한 - Example: The effulgent sun rose over the horizon. - Example: Her face was effulgent with joy.
+
+# fecund - Pronunciation: /ˈfiː.kənd/ 🔊 - Meaning: 다산의, 비옥한 - Example: The valley's fecund soil produces abundant crops. - Example: She has a fecund imagination, always full of new ideas.
+
+# gambit - Pronunciation: /ˈɡæm.bɪt/ 🔊 - Meaning: 책략, 수법 - Example: His opening gambit was to offer a compromise. - Example: The politician used a clever gambit to win votes.
+
+# harangue - Pronunciation: /həˈræŋ/ 🔊 - Meaning: 설교 - Example: The politician delivered a lengthy harangue. - Example: He harangued the team for their poor performance.
+
+# impecunious - Pronunciation: /ˌɪm.pɪˈkjuː.ni.əs/ 🔊 - Meaning: 가난한 - Example: The impecunious artist struggled to make ends meet. - Example: Despite being impecunious, he was always generous.
+
+# jocund - Pronunciation: /ˈdʒɒk.ənd/ 🔊 - Meaning: 유쾌한, 즐거운 - Example: The children were in a jocund mood at the party. - Example: His jocund laughter filled the room.
+
+# knavery - Pronunciation: /ˈneɪ.vər.i/ 🔊 - Meaning: 부정행위 - Example: His knavery was finally exposed. - Example: The politician was accused of knavery and corruption.
+
+# lurid - Pronunciation: /ˈljʊə.rɪd/ 🔊 - Meaning: 선정적인, 충격적인 - Example: The newspaper published lurid details of the crime. - Example: He told lurid tales of his adventures.
+
+# mendacious - Pronunciation: /menˈdeɪ.ʃəs/ 🔊 - Meaning: 거짓말하는 - Example: His mendacious testimony was quickly exposed. - Example: She had a reputation for being mendacious.
+
+# nugatory - Pronunciation: /ˈnjuː.ɡə.tər.i/ 🔊 - Meaning: 하찮은 - Example: His objections were nugatory and easily dismissed. - Example: The contract contained several nugatory clauses.
+
+# obdurate - Pronunciation: /ˈɒb.djʊ.rət/ 🔊 - Meaning: 완고한 - Example: He remained obdurate in his refusal. - Example: The obdurate criminal showed no remorse.
+
+# palliate - Pronunciation: /ˈpæl.i.eɪt/ 🔊 - Meaning: 완화하다 - Example: The medicine can palliate the symptoms but not cure the disease. - Example: Nothing could palliate his grief at the loss of his wife.
+
+# quiescent - Pronunciation: /kwɪˈes.ənt/ 🔊 - Meaning: 조용한, 활동하지 않는 - Example: The volcano has been quiescent for centuries. - Example: The economy remained quiescent despite attempts to stimulate it.
+
+# recondite - Pronunciation: /ˈrek.ən.daɪt/ 🔊 - Meaning: 난해한 - Example: His lectures on quantum physics were too recondite for most students. - Example: She has a vast knowledge of recondite subjects.
+
+# sagacious - Pronunciation: /səˈɡeɪ.ʃəs/ 🔊 - Meaning: 현명한 - Example: Her sagacious advice helped me make the right decision. - Example: The sagacious leader foresaw the economic crisis.
+
+# truculent - Pronunciation: /ˈtrʌk.jʊ.lənt/ 🔊 - Meaning: 호전적인 - Example: His truculent behavior is causing problems at work. - Example: The truculent child refused to cooperate with the teacher.
+
+# umbrage - Pronunciation: /ˈʌm.brɪdʒ/ 🔊 - Meaning: 분노, 불쾌감 - Example: He took umbrage at her criticism. - Example: She expressed umbrage at not being invited to the meeting.
+
+# vapid - Pronunciation: /ˈvæp.ɪd/ 🔊 - Meaning: 무미건조한 - Example: The movie was criticized for its vapid plot. - Example: His vapid conversation bored everyone at the party.
+
+# wanton - Pronunciation: /ˈwɒn.tən/ 🔊 - Meaning: 방탕한, 무분별한 - Example: The report criticized the wanton destruction of the forest. - Example: He was known for his wanton behavior in his youth.
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: We must combat xenophobia in our society. - Example: Xenophobia often stems from fear and ignorance.
+
+# yearn - Pronunciation: /jɜːn/ 🔊 - Meaning: 갈망하다 - Example: She yearned for her homeland. - Example: He yearns to travel the world.
+
+# zeal - Pronunciation: /ziːl/ 🔊 - Meaning: 열정 - Example: He approached the project with great zeal. - Example: Her zeal for her work is admirable.
+
+# alacrity - Pronunciation: /əˈlæk.rə.ti/ 🔊 - Meaning: 민첩, 열의 - Example: She accepted the job offer with alacrity. - Example: The team responded to the challenge with alacrity.
+
+# brusque - Pronunciation: /brʊsk/ 🔊 - Meaning: 무뚝뚝한 - Example: His brusque manner offended some people. - Example: She gave a brusque reply and walked away.
+
+# clamor - Pronunciation: /ˈklæm.ər/ 🔊 - Meaning: 喧嘩, 요구하다 - Example: The crowd clamored for the singer to do an encore. - Example: There was a clamor for political reform.
+
+# desiccate - Pronunciation: /ˈdes.ɪ.keɪt/ 🔊 - Meaning: 건조시키다 - Example: The heat will desiccate the grapes into raisins. - Example: The plants were completely desiccated by the drought.
+
+# ebullient - Pronunciation: /ɪˈbʊl.jənt/ 🔊 - Meaning: 들뜬, 열광적인 - Example: She was ebullient after hearing the good news. - Example: The team was in an ebullient mood after winning the championship.
+
+# filibuster - Pronunciation: /ˈfɪl.ɪ.bʌs.tər/ 🔊 - Meaning: 의사진행방해 - Example: The senator used a filibuster to block the bill. - Example: The opposition party threatened to filibuster the legislation.
+
+# garrulous - Pronunciation: /ˈɡær.ə.ləs/ 🔊 - Meaning: 수다스러운 - Example: The garrulous old man talked for hours. - Example: She's known for her garrulous nature.
+
+# hapless - Pronunciation: /ˈhæp.ləs/ 🔊 - Meaning: 불운한 - Example: The hapless victim was in the wrong place at the wrong time. - Example: He felt hapless in his attempts to find a job.
+
+# imbroglio - Pronunciation: /ɪmˈbrəʊ.li.əʊ/ 🔊 - Meaning: 복잡한 상황 - Example: The political imbroglio seemed impossible to resolve. - Example: He found himself in an imbroglio of legal complications.
+
+# jejune - Pronunciation: /dʒɪˈdʒuːn/ 🔊 - Meaning: 건조한, 지루한 - Example: The critic dismissed the work as jejune and unimaginative. - Example: His jejune remarks added nothing to the discussion.
+
+# knell - Pronunciation: /nel/ 🔊 - Meaning: 조종(鐘音), 종말의 조짐 - Example: The church bell's knell echoed through the valley. - Example: The announcement sounded the knell for the old system.
+
+# lassitude - Pronunciation: /ˈlæs.ɪ.tjuːd/ 🔊 - Meaning: 피로, 무기력 - Example: The heat of the day induced a feeling of lassitude. - Example: He was overcome with lassitude after the long journey.
+
+# mollify - Pronunciation: /ˈmɒl.ɪ.faɪ/ 🔊 - Meaning: 달래다 - Example: He tried to mollify the angry customer with a discount. - Example: Her kind words helped to mollify his anger.
+
+# nonplussed - Pronunciation: /ˌnɒnˈplʌst/ 🔊 - Meaning: 당황한 - Example: She was nonplussed by his sudden proposal. - Example: The unexpected question left him nonplussed.
+
+# obfuscate - Pronunciation: /ˈɒb.fʌs.keɪt/ 🔊 - Meaning: 혼란스럽게 하다 - Example: The politician tried to obfuscate the issue. - Example: Don't obfuscate the facts; speak clearly.
+
+# parsimonious - Pronunciation: /ˌpɑː.sɪˈməʊ.ni.əs/ 🔊 - Meaning: 극도로 절약하는 - Example: He's known for being parsimonious with his money. - Example: The company's parsimonious approach to spending helped it survive the recession.
+
+# quixotic - Pronunciation: /kwɪkˈsɒt.ɪk/ 🔊 - Meaning: 비현실적인 - Example: His quixotic quest for perfection was admirable but impractical. - Example: She had a quixotic vision of changing the world.
+
+# rebarbative - Pronunciation: /rɪˈbɑː.bə.tɪv/ 🔊 - Meaning: 불쾌한, 반발을 일으키는 - Example: His rebarbative manner made him unpopular with his colleagues. - Example: The critique was so rebarbative that it offended many readers.
+
+# sanguine - Pronunciation: /ˈsæŋ.ɡwɪn/ 🔊 - Meaning: 낙관적인 - Example: He remained sanguine about his chances of success. - Example: Despite the setbacks, she maintained a sanguine outlook.
+
+# temerity - Pronunciation: /təˈmer.ə.ti/ 🔊 - Meaning: 무모함 - Example: He had the temerity to question the boss's decision. - Example: I admire your temerity in standing up to them.
+
+# ubiquitous - Pronunciation: /juːˈbɪk.wɪ.təs/ 🔊 - Meaning: 어디에나 있는 - Example: Smartphones have become ubiquitous. - Example: Coffee shops are ubiquitous in this city.
+
+# verisimilitude - Pronunciation: /ˌver.ɪ.sɪˈmɪl.ɪ.tjuːd/ 🔊 - Meaning: 진실성 - Example: The novel has a strong sense of verisimilitude. - Example: The film's attention to detail gives it verisimilitude.
+
+# winnow - Pronunciation: /ˈwɪn.əʊ/ 🔊 - Meaning: 선별하다 - Example: We need to winnow the candidates down to a shortlist. - Example: The process will winnow out the weaker competitors.
+
+# yoke - Pronunciation: /jəʊk/ 🔊 - Meaning: 멍에, 속박 - Example: The oxen were fitted with a yoke. - Example: Many felt the yoke of oppression under the regime.
+
+# abrogate - Pronunciation: /ˈæb.rə.ɡeɪt/ 🔊 - Meaning: 폐지하다 - Example: The new law abrogates the old regulations. - Example: The government decided to abrogate the treaty.
+
+# banal - Pronunciation: /bəˈnɑːl/ 🔊 - Meaning: 진부한 - Example: His speech was full of banal platitudes. - Example: She found the movie plot banal and predictable.
+
+# cavil - Pronunciation: /ˈkæv.əl/ 🔊 - Meaning: 트집잡다 - Example: He's always ready to cavil at the smallest mistake. - Example: Don't cavil; focus on the main issues.
+
+# dearth - Pronunciation: /dɜːθ/ 🔊 - Meaning: 부족 - Example: There's a dearth of good jobs in this area. - Example: We're facing a dearth of resources.
+
+# equivocate - Pronunciation: /ɪˈkwɪv.ə.keɪt/ 🔊 - Meaning: 모호하게 말하다 - Example: The politician equivocated when asked about his plans. - Example: Don't equivocate; give me a straight answer.
+
+# feckless - Pronunciation: /ˈfek.ləs/ 🔊 - Meaning: 무책임한 - Example: His feckless attitude towards work cost him his job. - Example: She criticized the government's feckless approach to the crisis.
+
+# guerdon - Pronunciation: /ˈɡɜː.dən/ 🔊 - Meaning: 보상 - Example: His years of hard work finally brought him his guerdon. - Example: Fame was a poor guerdon for a lifetime of sacrifice.
+
+# hagiography - Pronunciation: /ˌhæɡ.iˈɒɡ.rə.fi/ 🔊 - Meaning: 성인전 - Example: The book was more hagiography than objective biography. - Example: Medieval literature includes many examples of hagiography.
+
+# ineluctable - Pronunciation: /ˌɪn.ɪˈlʌk.tə.bəl/ 🔊 - Meaning: 불가피한 - Example: Death is an ineluctable fate for all living beings. - Example: The ineluctable conclusion was that the project had failed.
+
+# jettison - Pronunciation: /ˈdʒet.ɪ.sən/ 🔊 - Meaning: 버리다 - Example: The airplane had to jettison fuel before making an emergency landing. - Example: The company decided to jettison the unprofitable division.
+
+# kibosh - Pronunciation: /ˈkaɪ.bɒʃ/ 🔊 - Meaning: 제지, 종지부 - Example: The bad weather put the kibosh on our picnic plans. - Example: The new regulations put the kibosh on the entire project.
+
+# limpid - Pronunciation: /ˈlɪm.pɪd/ 🔊 - Meaning: 맑은, 투명한 - Example: The limpid waters of the mountain stream were inviting. - Example: Her writing style is limpid and easy to understand.
+
+# maudlin - Pronunciation: /ˈmɔːd.lɪn/ 🔊 - Meaning: 감상적인 - Example: He became maudlin after a few drinks and started talking about his ex. - Example: The movie's ending was too maudlin for my taste.
+
+# nefarious - Pronunciation: /nɪˈfeə.ri.əs/ 🔊 - Meaning: 악랄한 - Example: They uncovered a nefarious plot to overthrow the government. - Example: He was involved in nefarious activities.
+
+# obsequious - Pronunciation: /əbˈsiː.kwi.əs/ 🔊 - Meaning: 아첨하는 - Example: He disliked the waiter's obsequious manner. - Example: Don't be obsequious; speak your mind.
+
+# palimpsest - Pronunciation: /ˈpæl.ɪmp.sest/ 🔊 - Meaning: 중복 원고 - Example: The old manuscript was a palimpsest, revealing layers of text. - Example: The city is a palimpsest of different historical periods.
+
+# quagmire - Pronunciation: /ˈkwæɡ.maɪər/ 🔊 - Meaning: 곤경 - Example: The project has become a legal quagmire. - Example: We're stuck in a quagmire of bureaucracy.
+
+# redolent - Pronunciation: /ˈred.əl.ənt/ 🔊 - Meaning: 향기로운, 연상시키는 - Example: The kitchen was redolent with the smell of freshly baked bread. - Example: His writing is redolent of Hemingway's style.
+
+# sartorial - Pronunciation: /sɑːˈtɔː.ri.əl/ 🔊 - Meaning: 재단의, 의복에 관한 - Example: He was known for his impeccable sartorial taste. - Example: The magazine featured the latest sartorial trends.
+
+# truculent - Pronunciation: /ˈtrʌk.jʊ.lənt/ 🔊 - Meaning: 호전적인 - Example: His truculent behavior is causing problems at work. - Example: The truculent child refused to cooperate with the teacher.
+
+# umbrage - Pronunciation: /ˈʌm.brɪdʒ/ 🔊 - Meaning: 분노, 불쾌감 - Example: He took umbrage at her criticism. - Example: She expressed umbrage at not being invited to the meeting.
+
+# vicissitude - Pronunciation: /vɪˈsɪs.ɪ.tjuːd/ 🔊 - Meaning: 변천, 부침 - Example: He has experienced many vicissitudes in his long career. - Example: The company has weathered the vicissitudes of the market.
+
+# wiliness - Pronunciation: /ˈwaɪ.li.nəs/ 🔊 - Meaning: 교활함 - Example: The fox is known for its wiliness. - Example: His wiliness in business dealings made people wary of him.
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: We must combat xenophobia in our society. - Example: Xenophobia often stems from fear and ignorance.
+
+# yammer - Pronunciation: /ˈjæm.ər/ 🔊 - Meaning: 불평하다 - Example: The children yammered for ice cream. - Example: He's always yammering about how things were better in the old days.
+
+# zeitgeist - Pronunciation: /ˈzaɪt.ɡaɪst/ 🔊 - Meaning: 시대정신 - Example: The artist captured the zeitgeist of the 1960s. - Example: Social media reflects the current zeitgeist.
+
+# aegis - Pronunciation: /ˈiː.dʒɪs/ 🔊 - Meaning: 보호, 후원 - Example: The project was carried out under the aegis of the United Nations. - Example: He felt safe under the aegis of his powerful mentor.
+
+# bellicose - Pronunciation: /ˈbel.ɪ.kəʊs/ 🔊 - Meaning: 호전적인 - Example: The country's bellicose attitude alarmed its neighbors. - Example: He's known for his bellicose rhetoric.
+
+# capricious - Pronunciation: /kəˈprɪʃ.əs/ 🔊 - Meaning: 변덕스러운 - Example: Her capricious nature made her difficult to work with. - Example: The weather has been capricious lately.
+
+# denouement - Pronunciation: /ˌdeɪ.nuːˈmɒ̃/ 🔊 - Meaning: 결말 - Example: The denouement of the play was unexpected. - Example: The novel's denouement tied up all the loose ends.
+
+# effrontery - Pronunciation: /ɪˈfrʌn.tər.i/ 🔊 - Meaning: 뻔뻔스러움 - Example: He had the effrontery to demand a pay raise after his poor performance. - Example: I was shocked by her effrontery.
+
+# filibuster - Pronunciation: /ˈfɪl.ɪ.bʌs.tər/ 🔊 - Meaning: 의사진행방해 - Example: The senator used a filibuster to block the bill. - Example: The opposition party threatened to filibuster the legislation.
+
+# gumption - Pronunciation: /ˈɡʌmp.ʃən/ 🔊 - Meaning: 진취성, 결단력 - Example: It takes gumption to start your own business. - Example: She admired his gumption in standing up to the bully.
+
+# hauteur - Pronunciation: /əʊˈtɜːr/ 🔊 - Meaning: 거만함 - Example: His hauteur alienated many of his colleagues. - Example: She regarded the newcomers with hauteur.
+
+# impecunious - Pronunciation: /ˌɪm.pɪˈkjuː.ni.əs/ 🔊 - Meaning: 가난한 - Example: The impecunious artist struggled to make ends meet. - Example: Despite being impecunious, he was always generous.
+
+# jocular - Pronunciation: /ˈdʒɒk.jʊ.lər/ 🔊 - Meaning: 농담을 좋아하는 - Example: His jocular manner put everyone at ease. - Example: She made a jocular remark to lighten the mood.
+
+# kudos - Pronunciation: /ˈkjuː.dɒs/ 🔊 - Meaning: 칭찬 - Example: Kudos to the team for their hard work. - Example: She's earned some kudos for her recent project.
+
+# loquacious - Pronunciation: /ləˈkweɪ.ʃəs/ 🔊 - Meaning: 수다스러운 - Example: The loquacious guest dominated the conversation. - Example: She's known for being loquacious at parties.
+
+# mellifluous - Pronunciation: /məˈlɪf.lu.əs/ 🔊 - Meaning: 달콤한, 부드러운 - Example: She has a mellifluous voice. - Example: His mellifluous words charmed the audience.
+
+# nonplussed - Pronunciation: /ˌnɒnˈplʌst/ 🔊 - Meaning: 당황한 - Example: She was nonplussed by his sudden proposal. - Example: The unexpected question left him nonplussed.
+
+# opprobrium - Pronunciation: /əˈprəʊ.bri.əm/ 🔊 - Meaning: 비난 - Example: His actions brought opprobrium upon the entire organization. - Example: She faced public opprobrium for her controversial statements.
+
+# perfidious - Pronunciation: /pəˈfɪd.i.əs/ 🔊 - Meaning: 배신적인 - Example: His perfidious behavior destroyed their friendship. - Example: She was shocked by his perfidious actions.
+
+# quotidian - Pronunciation: /kwɒˈtɪd.i.ən/ 🔊 - Meaning: 일상적인 - Example: He found beauty in quotidian objects. - Example: The book describes the quotidian lives of ordinary people.
+
+# recalcitrant - Pronunciation: /rɪˈkæl.sɪ.trənt/ 🔊 - Meaning: 반항적인 - Example: The recalcitrant student refused to follow the rules. - Example: He's known for his recalcitrant attitude towards authority.
+
+# sycophant - Pronunciation: /ˈsɪk.ə.fənt/ 🔊 - Meaning: 아첨꾼 - Example: He's surrounded by sycophants who agree with everything he says. - Example: Don't be a sycophant; have your own opinions.
+
+# temerity - Pronunciation: /təˈmer.ə.ti/ 🔊 - Meaning: 무모함 - Example: He had the temerity to question the boss's decision. - Example: I admire your temerity in standing up to them.
+
+# ubiquitous - Pronunciation: /juːˈbɪk.wɪ.təs/ 🔊 - Meaning: 어디에나 있는 - Example: Smartphones have become ubiquitous. - Example: Coffee shops are ubiquitous in this city.
+
+# verisimilitude - Pronunciation: /ˌver.ɪ.sɪˈmɪl.ɪ.tjuːd/ 🔊 - Meaning: 진실성 - Example: The novel has a strong sense of verisimilitude. - Example: The film's attention to detail gives it verisimilitude.
+
+# weltanschauung - Pronunciation: /ˈvelt.ən.ʃaʊ.ʊŋ/ 🔊 - Meaning: 세계관 - Example: His weltanschauung was shaped by his experiences in the war. - Example: Their different weltanschauungen led to frequent disagreements.
+
+# zephyr - Pronunciation: /ˈzef.ər/ 🔊 - Meaning: 서풍, 미풍 - Example: A gentle zephyr cooled the summer evening. - Example: The zephyr carried the scent of blooming flowers.
+
+# abrogate - Pronunciation: /ˈæb.rə.ɡeɪt/ 🔊 - Meaning: 폐지하다 - Example: The new law abrogates the old regulations. - Example: The government decided to abrogate the treaty.
+
+# banal - Pronunciation: /bəˈnɑːl/ 🔊 - Meaning: 진부한 - Example: His speech was full of banal platitudes. - Example: She found the movie plot banal and predictable.
+
+# cavil - Pronunciation: /ˈkæv.əl/ 🔊 - Meaning: 트집잡다 - Example: He's always ready to cavil at the smallest mistake. - Example: Don't cavil; focus on the main issues.
+
+# dearth - Pronunciation: /dɜːθ/ 🔊 - Meaning: 부족 - Example: There's a dearth of good jobs in this area. - Example: We're facing a dearth of resources.
+
+# equivocate - Pronunciation: /ɪˈkwɪv.ə.keɪt/ 🔊 - Meaning: 모호하게 말하다 - Example: The politician equivocated when asked about his plans. - Example: Don't equivocate; give me a straight answer.
+
+# feckless - Pronunciation: /ˈfek.ləs/ 🔊 - Meaning: 무책임한 - Example: His feckless attitude towards work cost him his job. - Example: She criticized the government's feckless approach to the crisis.
+
+# guerdon - Pronunciation: /ˈɡɜː.dən/ 🔊 - Meaning: 보상 - Example: His years of hard work finally brought him his guerdon. - Example: Fame was a poor guerdon for a lifetime of sacrifice.
+
+# hagiography - Pronunciation: /ˌhæɡ.iˈɒɡ.rə.fi/ 🔊 - Meaning: 성인전 - Example: The book was more hagiography than objective biography. - Example: Medieval literature includes many examples of hagiography.
+
+# ineluctable - Pronunciation: /ˌɪn.ɪˈlʌk.tə.bəl/ 🔊 - Meaning: 불가피한 - Example: Death is an ineluctable fate for all living beings. - Example: The ineluctable conclusion was that the project had failed.
+
+# jettison - Pronunciation: /ˈdʒet.ɪ.sən/ 🔊 - Meaning: 버리다 - Example: The airplane had to jettison fuel before making an emergency landing. - Example: The company decided to jettison the unprofitable division.
+
+# kibosh - Pronunciation: /ˈkaɪ.bɒʃ/ 🔊 - Meaning: 제지, 종지부 - Example: The bad weather put the kibosh on our picnic plans. - Example: The new regulations put the kibosh on the entire project.
+
+# limpid - Pronunciation: /ˈlɪm.pɪd/ 🔊 - Meaning: 맑은, 투명한 - Example: The limpid waters of the mountain stream were inviting. - Example: Her writing style is limpid and easy to understand.
+
+# maudlin - Pronunciation: /ˈmɔːd.lɪn/ 🔊 - Meaning: 감상적인 - Example: He became maudlin after a few drinks and started talking about his ex. - Example: The movie's ending was too maudlin for my taste.
+
+# nefarious - Pronunciation: /nɪˈfeə.ri.əs/ 🔊 - Meaning: 악랄한 - Example: They uncovered a nefarious plot to overthrow the government. - Example: He was involved in nefarious activities.
+
+# obsequious - Pronunciation: /əbˈsiː.kwi.əs/ 🔊 - Meaning: 아첨하는 - Example: He disliked the waiter's obsequious manner. - Example: Don't be obsequious; speak your mind.
+
+# palimpsest - Pronunciation: /ˈpæl.ɪmp.sest/ 🔊 - Meaning: 중복 원고 - Example: The old manuscript was a palimpsest, revealing layers of text. - Example: The city is a palimpsest of different historical periods.
+
+# quagmire - Pronunciation: /ˈkwæɡ.maɪər/ 🔊 - Meaning: 곤경 - Example: The project has become a legal quagmire. - Example: We're stuck in a quagmire of bureaucracy.
+
+# redolent - Pronunciation: /ˈred.əl.ənt/ 🔊 - Meaning: 향기로운, 연상시키는 - Example: The kitchen was redolent with the smell of freshly baked bread. - Example: His writing is redolent of Hemingway's style.
+
+# sartorial - Pronunciation: /sɑːˈtɔː.ri.əl/ 🔊 - Meaning: 재단의, 의복에 관한 - Example: He was known for his impeccable sartorial taste. - Example: The magazine featured the latest sartorial trends.
+
+# truculent - Pronunciation: /ˈtrʌk.jʊ.lənt/ 🔊 - Meaning: 호전적인 - Example: His truculent behavior is causing problems at work. - Example: The truculent child refused to cooperate with the teacher.
+
+# umbrage - Pronunciation: /ˈʌm.brɪdʒ/ 🔊 - Meaning: 분노, 불쾌감 - Example: He took umbrage at her criticism. - Example: She expressed umbrage at not being invited to the meeting.
+
+# vicissitude - Pronunciation: /vɪˈsɪs.ɪ.tjuːd/ 🔊 - Meaning: 변천, 부침 - Example: He has experienced many vicissitudes in his long career. - Example: The company has weathered the vicissitudes of the market.
+
+# wiliness - Pronunciation: /ˈwaɪ.li.nəs/ 🔊 - Meaning: 교활함 - Example: The fox is known for its wiliness. - Example: His wiliness in business dealings made people wary of him.
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: We must combat xenophobia in our society. - Example: Xenophobia often stems from fear and ignorance.
+
+# yammer - Pronunciation: /ˈjæm.ər/ 🔊 - Meaning: 불평하다 - Example: The children yammered for ice cream. - Example: He's always yammering about how things were better in the old days.
+
+# zeitgeist - Pronunciation: /ˈzaɪt.ɡaɪst/ 🔊 - Meaning: 시대정신 - Example: The artist captured the zeitgeist of the 1960s. - Example: Social media reflects the current zeitgeist.
+
+# aegis - Pronunciation: /ˈiː.dʒɪs/ 🔊 - Meaning: 보호, 후원 - Example: The project was carried out under the aegis of the United Nations. - Example: He felt safe under the aegis of his powerful mentor.
+
+# bellicose - Pronunciation: /ˈbel.ɪ.kəʊs/ 🔊 - Meaning: 호전적인 - Example: The country's bellicose attitude alarmed its neighbors. - Example: He's known for his bellicose rhetoric.
+
+# capricious - Pronunciation: /kəˈprɪʃ.əs/ 🔊 - Meaning: 변덕스러운 - Example: Her capricious nature made her difficult to work with. - Example: The weather has been capricious lately.
+
+# denouement - Pronunciation: /ˌdeɪ.nuːˈmɒ̃/ 🔊 - Meaning: 결말 - Example: The denouement of the play was unexpected. - Example: The novel's denouement tied up all the loose ends.
+
+# effrontery - Pronunciation: /ɪˈfrʌn.tər.i/ 🔊 - Meaning: 뻔뻔스러움 - Example: He had the effrontery to demand a pay raise after his poor performance. - Example: I was shocked by her effrontery.
+
+# filibuster - Pronunciation: /ˈfɪl.ɪ.bʌs.tər/ 🔊 - Meaning: 의사진행방해 - Example: The senator used a filibuster to block the bill. - Example: The opposition party threatened to filibuster the legislation.
+
+# gumption - Pronunciation: /ˈɡʌmp.ʃən/ 🔊 - Meaning: 진취성, 결단력 - Example: It takes gumption to start your own business. - Example: She admired his gumption in standing up to the bully.
+
+# hauteur - Pronunciation: /əʊˈtɜːr/ 🔊 - Meaning: 거만함 - Example: His hauteur alienated many of his colleagues. - Example: She regarded the newcomers with hauteur.
+
+# impecunious - Pronunciation: /ˌɪm.pɪˈkjuː.ni.əs/ 🔊 - Meaning: 가난한 - Example: The impecunious artist struggled to make ends meet. - Example: Despite being impecunious, he was always generous.
+
+# jocular - Pronunciation: /ˈdʒɒk.jʊ.lər/ 🔊 - Meaning: 농담을 좋아하는 - Example: His jocular manner put everyone at ease. - Example: She made a jocular remark to lighten the mood.
+
+# kudos - Pronunciation: /ˈkjuː.dɒs/ 🔊 - Meaning: 칭찬 - Example: Kudos to the team for their hard work. - Example: She's earned some kudos for her recent project.
+
+# loquacious - Pronunciation: /ləˈkweɪ.ʃəs/ 🔊 - Meaning: 수다스러운 - Example: The loquacious guest dominated the conversation. - Example: She's known for being loquacious at parties.
+
+# mellifluous - Pronunciation: /məˈlɪf.lu.əs/ 🔊 - Meaning: 달콤한, 부드러운 - Example: She has a mellifluous voice. - Example: His mellifluous words charmed the audience.
+
+# nonplussed - Pronunciation: /ˌnɒnˈplʌst/ 🔊 - Meaning: 당황한 - Example: She was nonplussed by his sudden proposal. - Example: The unexpected question left him nonplussed.
+
+# opprobrium - Pronunciation: /əˈprəʊ.bri.əm/ 🔊 - Meaning: 비난 - Example: His actions brought opprobrium upon the entire organization. - Example: She faced public opprobrium for her controversial statements.
+
+# perfidious - Pronunciation: /pəˈfɪd.i.əs/ 🔊 - Meaning: 배신적인 - Example: His perfidious behavior destroyed their friendship. - Example: She was shocked by his perfidious actions.
+
+# quotidian - Pronunciation: /kwɒˈtɪd.i.ən/ 🔊 - Meaning: 일상적인 - Example: He found beauty in quotidian objects. - Example: The book describes the quotidian lives of ordinary people.
+
+# recalcitrant - Pronunciation: /rɪˈkæl.sɪ.trənt/ 🔊 - Meaning: 반항적인 - Example: The recalcitrant student refused to follow the rules. - Example: He's known for his recalcitrant attitude towards authority.
+
+# sycophant - Pronunciation: /ˈsɪk.ə.fənt/ 🔊 - Meaning: 아첨꾼 - Example: He's surrounded by sycophants who agree with everything he says. - Example: Don't be a sycophant; have your own opinions.
+
+# temerity - Pronunciation: /təˈmer.ə.ti/ 🔊 - Meaning: 무모함 - Example: He had the temerity to question the boss's decision. - Example: I admire your temerity in standing up to them.
+
+# ubiquitous - Pronunciation: /juːˈbɪk.wɪ.təs/ 🔊 - Meaning: 어디에나 있는 - Example: Smartphones have become ubiquitous. - Example: Coffee shops are ubiquitous in this city.
+
+# verisimilitude - Pronunciation: /ˌver.ɪ.sɪˈmɪl.ɪ.tjuːd/ 🔊 - Meaning: 진실성 - Example: The novel has a strong sense of verisimilitude. - Example: The film's attention to detail gives it verisimilitude.
+
+# weltanschauung - Pronunciation: /ˈvelt.ən.ʃaʊ.ʊŋ/ 🔊 - Meaning: 세계관 - Example: His weltanschauung was shaped by his experiences in the war. - Example: Their different weltanschauungen led to frequent disagreements.
+
+# zephyr - Pronunciation: /ˈzef.ər/ 🔊 - Meaning: 서풍, 미풍 - Example: A gentle zephyr cooled the summer evening. - Example: The zephyr carried the scent of blooming flowers.
+
+# abeyance - Pronunciation: /əˈbeɪ.əns/ 🔊 - Meaning: 중지 상태 - Example: The project is in abeyance until further notice. - Example: The law has been held in abeyance for years.
+
+# bromide - Pronunciation: /ˈbrəʊ.maɪd/ 🔊 - Meaning: 진부한 말 - Example: He offered nothing but bromides in his speech. - Example: The article was full of bromides about hard work and success.
+
+# cadge - Pronunciation: /kædʒ/ 🔊 - Meaning: 구걸하다 - Example: He's always trying to cadge cigarettes from his colleagues. - Example: She cadged a ride to the airport from her neighbor.
+
+# demur - Pronunciation: /dɪˈmɜːr/ 🔊 - Meaning: 이의를 제기하다 - Example: She wanted to accept the offer, but her parents demurred. - Example: He demurred at the suggestion of working overtime.
+
+# effete - Pronunciation: /ɪˈfiːt/ 🔊 - Meaning: 무기력한, 퇴폐적인 - Example: The critic described the film as effete and pretentious. - Example: He considered the aristocracy to be effete and out of touch.
+
+# frenetic - Pronunciation: /frəˈnet.ɪk/ 🔊 - Meaning: 열광적인, 미친 듯한 - Example: The stock market saw frenetic trading activity. - Example: The frenetic pace of city life exhausted her.
+
+# gauche - Pronunciation: /ɡəʊʃ/ 🔊 - Meaning: 서투른, 어색한 - Example: His gauche remark embarrassed everyone at the party. - Example: She felt gauche and out of place among the sophisticated crowd.
+
+# halcyon - Pronunciation: /ˈhæl.si.ən/ 🔊 - Meaning: 평온한, 황금시대의 - Example: He looked back on his college days as a halcyon time. - Example: They enjoyed the halcyon days of early summer.
+
+# impugn - Pronunciation: /ɪmˈpjuːn/ 🔊 - Meaning: 비난하다, 의심하다 - Example: He impugned the integrity of his opponents. - Example: The lawyer tried to impugn the witness's credibility.
+
+# jocund - Pronunciation: /ˈdʒɒk.ənd/ 🔊 - Meaning: 유쾌한, 즐거운 - Example: The children were in a jocund mood at the party. - Example: His jocund laughter filled the room.
+
+# knavery - Pronunciation: /ˈneɪ.vər.i/ 🔊 - Meaning: 부정행위 - Example: His knavery was finally exposed. - Example: The politician was accused of knavery and corruption.
+
+# lachrymose - Pronunciation: /ˈlæk.rɪ.məʊs/ 🔊 - Meaning: 눈물이 많은, 슬픈 - Example: The movie had a lachrymose ending that left everyone in tears. - Example: She was in a lachrymose mood after receiving the bad news.
+
+# mellifluous - Pronunciation: /məˈlɪf.lu.əs/ 🔊 - Meaning: 달콤한, 부드러운 - Example: She has a mellifluous voice. - Example: His mellifluous words charmed the audience.
+
+# nugatory - Pronunciation: /ˈnjuː.ɡə.tər.i/ 🔊 - Meaning: 하찮은 - Example: His objections were nugatory and easily dismissed. - Example: The contract contained several nugatory clauses.
+
+# obstreperous - Pronunciation: /əbˈstrep.ər.əs/ 🔊 - Meaning: 시끄러운, 난폭한 - Example: The obstreperous child was asked to leave the classroom. - Example: He became obstreperous after drinking too much.
+
+# palaver - Pronunciation: /pəˈlɑː.vər/ 🔊 - Meaning: 군더더기 말, 공허한 말 - Example: After hours of palaver, they finally reached an agreement. - Example: He was tired of all the palaver and wanted to get to the point.
+
+# quixotic - Pronunciation: /kwɪkˈsɒt.ɪk/ 🔊 - Meaning: 비현실적인 - Example: His quixotic quest for perfection was admirable but impractical. - Example: She had a quixotic vision of changing the world.
+
+# recondite - Pronunciation: /ˈrek.ən.daɪt/ 🔊 - Meaning: 난해한 - Example: His lectures on quantum physics were too recondite for most students. - Example: She has a vast knowledge of recondite subjects.
+
+# sanguine - Pronunciation: /ˈsæŋ.ɡwɪn/ 🔊 - Meaning: 낙관적인 - Example: He remained sanguine about his chances of success. - Example: Despite the setbacks, she maintained a sanguine outlook.
+
+# truculent - Pronunciation: /ˈtrʌk.jʊ.lənt/ 🔊 - Meaning: 호전적인 - Example: His truculent behavior is causing problems at work. - Example: The truculent child refused to cooperate with the teacher.
+
+# umbrage - Pronunciation: /ˈʌm.brɪdʒ/ 🔊 - Meaning: 분노, 불쾌감 - Example: He took umbrage at her criticism. - Example: She expressed umbrage at not being invited to the meeting.
+
+# vacuous - Pronunciation: /ˈvæk.ju.əs/ 🔊 - Meaning: 공허한 - Example: His speech was full of vacuous promises. - Example: She gave a vacuous smile.
+
+# waggish - Pronunciation: /ˈwæɡ.ɪʃ/ 🔊 - Meaning: 익살스러운 - Example: His waggish comments lightened the mood. - Example: She has a waggish sense of humor.
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: We must combat xenophobia in our society. - Example: Xenophobia often stems from fear and ignorance.
+
+# yammer - Pronunciation: /ˈjæm.ər/ 🔊 - Meaning: 불평하다 - Example: The children yammered for ice cream. - Example: He's always yammering about how things were better in the old days.
+
+# zeitgeist - Pronunciation: /ˈzaɪt.ɡaɪst/ 🔊 - Meaning: 시대정신 - Example: The artist captured the zeitgeist of the 1960s. - Example: Social media reflects the current zeitgeist.
+
+# apotheosis - Pronunciation: /əˌpɒθ.iˈəʊ.sɪs/ 🔊 - Meaning: 신격화, 이상화 - Example: The movie star's fame reached its apotheosis with her Oscar win. - Example: For many, he represents the apotheosis of athletic achievement.
+
+# bloviate - Pronunciation: /ˈbləʊ.vi.eɪt/ 🔊 - Meaning: 과장되게 말하다 - Example: The politician tends to bloviate during interviews. - Example: He bloviated about his accomplishments for hours.
+
+# crepuscular - Pronunciation: /krɪˈpʌs.kjʊ.lər/ 🔊 - Meaning: 황혼의, 어스름한 - Example: Bats are crepuscular animals, active at twilight. - Example: The crepuscular light cast long shadows across the landscape.
+
+# denouement - Pronunciation: /ˌdeɪ.nuːˈmɒ̃/ 🔊 - Meaning: 결말 - Example: The denouement of the play was unexpected. - Example: The novel's denouement tied up all the loose ends.
+
+# ebullient - Pronunciation: /ɪˈbʊl.jənt/ 🔊 - Meaning: 들뜬, 열광적인 - Example: She was ebullient after hearing the good news. - Example: The team was in an ebullient mood after winning the championship.
+
+# feckless - Pronunciation: /ˈfek.ləs/ 🔊 - Meaning: 무책임한 - Example: His feckless attitude towards work cost him his job. - Example: She criticized the government's feckless approach to the crisis.
+
+# grandiloquent - Pronunciation: /ɡrænˈdɪl.ə.kwənt/ 🔊 - Meaning: 과장된 - Example: His grandiloquent speech failed to impress the audience. - Example: The writer's style was too grandiloquent for my taste.
+
+# harangue - Pronunciation: /həˈræŋ/ 🔊 - Meaning: 설교 - Example: The politician delivered a lengthy harangue. - Example: He harangued the team for their poor performance.
+
+# ineluctable - Pronunciation: /ˌɪn.ɪˈlʌk.tə.bəl/ 🔊 - Meaning: 불가피한 - Example: Death is an ineluctable fate for all living beings. - Example: The ineluctable conclusion was that the project had failed.
+
+# jejune - Pronunciation: /dʒɪˈdʒuːn/ 🔊 - Meaning: 건조한, 지루한 - Example: The critic dismissed the work as jejune and unimaginative. - Example: His jejune remarks added nothing to the discussion.
+
+# kowtow - Pronunciation: /ˌkaʊˈtaʊ/ 🔊 - Meaning: 굴복하다 - Example: He refused to kowtow to their demands. - Example: Don't kowtow to pressure from others.
+
+# lugubrious - Pronunciation: /luːˈɡuː.bri.əs/ 🔊 - Meaning: 슬퍼하는 - Example: He gave a lugubrious account of his misfortunes. - Example: The lugubrious music set a somber mood.
+
+# meretricious - Pronunciation: /ˌmer.ɪˈtrɪʃ.əs/ 🔊 - Meaning: 겉만 그럴듯한 - Example: The building's meretricious facade hid its structural problems. - Example: He was not fooled by her meretricious charm.
+
+# numinous - Pronunciation: /ˈnjuː.mɪ.nəs/ 🔊 - Meaning: 신성한, 초자연적인 - Example: The ancient temple had a numinous atmosphere. - Example: She felt a numinous presence in the old church.
+
+# obstreperous - Pronunciation: /əbˈstrep.ər.əs/ 🔊 - Meaning: 시끄러운, 난폭한 - Example: The obstreperous child was asked to leave the classroom. - Example: He became obstreperous after drinking too much.
+
+# palimpsest - Pronunciation: /ˈpæl.ɪmp.sest/ 🔊 - Meaning: 중복 원고 - Example: The old manuscript was a palimpsest, revealing layers of text. - Example: The city is a palimpsest of different historical periods.
+
+# quotidian - Pronunciation: /kwɒˈtɪd.i.ən/ 🔊 - Meaning: 일상적인 - Example: He found beauty in quotidian objects. - Example: The book describes the quotidian lives of ordinary people.
+
+# recalcitrant - Pronunciation: /rɪˈkæl.sɪ.trənt/ 🔊 - Meaning: 반항적인 - Example: The recalcitrant student refused to follow the rules. - Example: He's known for his recalcitrant attitude towards authority.
+
+# sanguine - Pronunciation: /ˈsæŋ.ɡwɪn/ 🔊 - Meaning: 낙관적인 - Example: He remained sanguine about his chances of success. - Example: Despite the setbacks, she maintained a sanguine outlook.
+
+# tergiversate - Pronunciation: /ˈtɜː.dʒɪ.və.seɪt/ 🔊 - Meaning: 변절하다, 회피하다 - Example: The politician was accused of tergiversating on the issue. - Example: He tergiversated when asked direct questions about his involvement.
+
+# uxorious - Pronunciation: /ʌkˈsɔː.ri.əs/ 🔊 - Meaning: 아내를 지나치게 사랑하는 - Example: His uxorious behavior was the subject of much teasing. - Example: The king was known for his uxorious devotion to his queen.
+
+# vituperate - Pronunciation: /vɪˈtjuː.pər.eɪt/ 🔊 - Meaning: 욕설하다 - Example: He vituperated against his opponents in a scathing speech. - Example: She was known to vituperate anyone who disagreed with her.
+
+# weltanschauung - Pronunciation: /ˈvelt.ən.ʃaʊ.ʊŋ/ 🔊 - Meaning: 세계관 - Example: His weltanschauung was shaped by his experiences in the war. - Example: Their different weltanschauungen led to frequent disagreements.
+
+# zealot - Pronunciation: /ˈzel.ət/ 🔊 - Meaning: 열성분자 - Example: He's a zealot when it comes to environmental issues. - Example: The party was taken over by zealots.
+
+# acerbic - Pronunciation: /əˈsɜː.bɪk/ 🔊 - Meaning: 신랄한, 혹독한 - Example: His acerbic comments often offended people. - Example: The critic was known for his acerbic wit.
+
+# bucolic - Pronunciation: /bjuːˈkɒl.ɪk/ 🔊 - Meaning: 전원의, 목가적인 - Example: He dreamed of living a bucolic life in the countryside. - Example: The painting depicted a bucolic scene of shepherds and sheep.
+
+# capricious - Pronunciation: /kəˈprɪʃ.əs/ 🔊 - Meaning: 변덕스러운 - Example: Her capricious nature made her difficult to work with. - Example: The weather has been capricious lately.
+
+# desiccate - Pronunciation: /ˈdes.ɪ.keɪt/ 🔊 - Meaning: 건조시키다 - Example: The heat will desiccate the grapes into raisins. - Example: The plants were completely desiccated by the drought.
+
+# effulgent - Pronunciation: /ɪˈfʊl.dʒənt/ 🔊 - Meaning: 빛나는, 찬란한 - Example: The effulgent sun rose over the horizon. - Example: Her face was effulgent with joy.
+
+# fecund - Pronunciation: /ˈfiː.kənd/ 🔊 - Meaning: 다산의, 비옥한 - Example: The valley's fecund soil produces abundant crops. - Example: She has a fecund imagination, always full of new ideas.
+
+# garrulous - Pronunciation: /ˈɡær.ə.ləs/ 🔊 - Meaning: 수다스러운 - Example: The garrulous old man talked for hours. - Example: She's known for her garrulous nature.
+
+# hegemony - Pronunciation: /hɪˈdʒem.ə.ni/ 🔊 - Meaning: 패권, 지배력 - Example: The country seeks to maintain its economic hegemony. - Example: They challenge the cultural hegemony of Hollywood.
+
+# ineffable - Pronunciation: /ɪnˈef.ə.bəl/ 🔊 - Meaning: 말로 표현할 수 없는 - Example: The beauty of the sunset was ineffable. - Example: He felt an ineffable joy at the birth of his child.
+
+# jeopardize - Pronunciation: /ˈdʒep.ə.daɪz/ 🔊 - Meaning: 위태롭게 하다 - Example: His actions could jeopardize the entire project. - Example: Don't jeopardize your future for short-term gains.
+
+# kitsch - Pronunciation: /kɪtʃ/ 🔊 - Meaning: 저속한 예술 - Example: The restaurant was decorated with kitsch memorabilia. - Example: Some consider his paintings to be kitsch, others see them as ironic.
+
+# limpid - Pronunciation: /ˈlɪm.pɪd/ 🔊 - Meaning: 맑은, 투명한 - Example: The limpid waters of the mountain stream were inviting. - Example: Her writing style is limpid and easy to understand.
+
+# mendacious - Pronunciation: /menˈdeɪ.ʃəs/ 🔊 - Meaning: 거짓말하는 - Example: His mendacious testimony was quickly exposed. - Example: She had a reputation for being mendacious.
+
+# nefarious - Pronunciation: /nɪˈfeə.ri.əs/ 🔊 - Meaning: 악랄한 - Example: They uncovered a nefarious plot to overthrow the government. - Example: He was involved in nefarious activities.
+
+# obfuscate - Pronunciation: /ˈɒb.fʌs.keɪt/ 🔊 - Meaning: 혼란스럽게 하다 - Example: The politician tried to obfuscate the issue. - Example: Don't obfuscate the facts; speak clearly.
+
+# parsimonious - Pronunciation: /ˌpɑː.sɪˈməʊ.ni.əs/ 🔊 - Meaning: 극도로 절약하는 - Example: He's known for being parsimonious with his money. - Example: The company's parsimonious approach to spending helped it survive the recession.
+
+# quixotic - Pronunciation: /kwɪkˈsɒt.ɪk/ 🔊 - Meaning: 비현실적인 - Example: His quixotic quest for perfection was admirable but impractical. - Example: She had a quixotic vision of changing the world.
+
+# recalcitrant - Pronunciation: /rɪˈkæl.sɪ.trənt/ 🔊 - Meaning: 반항적인 - Example: The recalcitrant student refused to follow the rules. - Example: He's known for his recalcitrant attitude towards authority.
+
+# sanguine - Pronunciation: /ˈsæŋ.ɡwɪn/ 🔊 - Meaning: 낙관적인 - Example: He remained sanguine about his chances of success. - Example: Despite the setbacks, she maintained a sanguine outlook.
+
+# taciturn - Pronunciation: /ˈtæs.ɪ.tɜːn/ 🔊 - Meaning: 과묵한 - Example: His taciturn nature made it difficult for others to get to know him. - Example: The taciturn cowboy rarely spoke more than a few words.
+
+# ubiquitous - Pronunciation: /juːˈbɪk.wɪ.təs/ 🔊 - Meaning: 어디에나 있는 - Example: Smartphones have become ubiquitous in modern society. - Example: Coffee shops are ubiquitous in this city.
+
+# vacillate - Pronunciation: /ˈvæs.ɪ.leɪt/ 🔊 - Meaning: 망설이다, 주저하다 - Example: He vacillated between two job offers. - Example: Don't vacillate; make a decision.
+
+# wanton - Pronunciation: /ˈwɒn.tən/ 🔊 - Meaning: 방탕한, 무분별한 - Example: The report criticized the wanton destruction of the forest. - Example: He was known for his wanton behavior in his youth.
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: We must combat xenophobia in our society. - Example: Xenophobia often stems from fear and ignorance.
+
+# yearn - Pronunciation: /jɜːn/ 🔊 - Meaning: 갈망하다, 그리워하다 - Example: She yearned for her homeland. - Example: He yearns to travel the world.
+
+# zeitgeist - Pronunciation: /ˈzaɪt.ɡaɪst/ 🔊 - Meaning: 시대정신 - Example: The artist captured the zeitgeist of the 1960s. - Example: Social media reflects the current zeitgeist.
+
+# abstruse - Pronunciation: /æbˈstruːs/ 🔊 - Meaning: 난해한 - Example: His writing is too abstruse for the average reader. - Example: The professor's lecture was filled with abstruse concepts.
+
+# bloviate - Pronunciation: /ˈbləʊ.vi.eɪt/ 🔊 - Meaning: 과장되게 말하다 - Example: The politician tends to bloviate during interviews. - Example: He bloviated about his accomplishments for hours.
+
+# cacophony - Pronunciation: /kəˈkɒf.ə.ni/ 🔊 - Meaning: 불협화음, 소음 - Example: The cacophony of the city was overwhelming. - Example: There was a cacophony of voices in the crowded room.
+
+# dilettante - Pronunciation: /ˌdɪl.əˈtænt/ 🔊 - Meaning: 아마추어, 딜레탕트 - Example: He's not a serious artist, just a dilettante. - Example: She was criticized for being a dilettante in politics.
+
+# ephemeral - Pronunciation: /ɪˈfem.ər.əl/ 🔊 - Meaning: 덧없는, 일시적인 - Example: Fame can be ephemeral. - Example: Social media trends are often ephemeral.
+
+# filibuster - Pronunciation: /ˈfɪl.ɪ.bʌs.tər/ 🔊 - Meaning: 의사진행방해 - Example: The senator used a filibuster to block the bill. - Example: The opposition party threatened to filibuster the legislation.
+
+# gainsay - Pronunciation: /ˌɡeɪnˈseɪ/ 🔊 - Meaning: 부인하다, 반박하다 - Example: No one could gainsay the importance of his discovery. - Example: I won't attempt to gainsay your expertise in this field.
+
+# harbinger - Pronunciation: /ˈhɑː.bɪn.dʒər/ 🔊 - Meaning: 전조, 선구자 - Example: The first robin of spring is often seen as a harbinger of warmer weather. - Example: His arrival was a harbinger of the changes to come.
+
+# iconoclast - Pronunciation: /aɪˈkɒn.ə.klæst/ 🔊 - Meaning: 우상 파괴자, 인습 타파자 - Example: He's known as an iconoclast in the art world. - Example: She's an iconoclast who challenges traditional thinking.
+
+# jejune - Pronunciation: /dʒɪˈdʒuːn/ 🔊 - Meaning: 건조한, 지루한 - Example: The critic dismissed the work as jejune and unimaginative. - Example: His jejune remarks added nothing to the discussion.
+
+# kismet - Pronunciation: /ˈkɪz.met/ 🔊 - Meaning: 운명, 숙명 - Example: She believed their meeting was kismet. - Example: He accepted his fate as kismet.
+
+# loquacious - Pronunciation: /ləˈkweɪ.ʃəs/ 🔊 - Meaning: 수다스러운 - Example: The loquacious guest dominated the conversation. - Example: She's known for being loquacious at parties.
+
+# mellifluous - Pronunciation: /məˈlɪf.lu.əs/ 🔊 - Meaning: 달콤한, 부드러운 - Example: She has a mellifluous voice. - Example: His mellifluous words charmed the audience.
+
+# nonplussed - Pronunciation: /ˌnɒnˈplʌst/ 🔊 - Meaning: 당황한 - Example: She was nonplussed by his sudden proposal. - Example: The unexpected question left him nonplussed.
+
+# opprobrium - Pronunciation: /əˈprəʊ.bri.əm/ 🔊 - Meaning: 비난, 치욕 - Example: His actions brought opprobrium upon the entire organization. - Example: She faced public opprobrium for her controversial statements.
+
+# panacea - Pronunciation: /ˌpæn.əˈsiː.ə/ 🔊 - Meaning: 만병통치약 - Example: There's no panacea for all our problems. - Example: Technology is not a panacea for educational issues.
+
+# quagmire - Pronunciation: /ˈkwæɡ.maɪər/ 🔊 - Meaning: 곤경, 수렁 - Example: The project has become a legal quagmire. - Example: We're stuck in a quagmire of bureaucracy.
+
+# reticent - Pronunciation: /ˈret.ɪ.sənt/ 🔊 - Meaning: 과묵한, 말수가 적은 - Example: He was reticent about his past. - Example: She's usually quite reticent in meetings.
+
+# sycophant - Pronunciation: /ˈsɪk.ə.fənt/ 🔊 - Meaning: 아첨꾼 - Example: He's surrounded by sycophants who agree with everything he says. - Example: Don't be a sycophant; have your own opinions.
+
+# temerity - Pronunciation: /təˈmer.ə.ti/ 🔊 - Meaning: 무모함, 뻔뻔스러움 - Example: He had the temerity to question the boss's decision. - Example: I admire your temerity in standing up to them.
+
+# unctuous - Pronunciation: /ˈʌŋk.tʃu.əs/ 🔊 - Meaning: 기름진, 아첨하는 - Example: The salesman's unctuous manner was off-putting. - Example: He gave an unctuous speech praising his boss.
+
+# vicissitude - Pronunciation: /vɪˈsɪs.ɪ.tjuːd/ 🔊 - Meaning: 변천, 부침 - Example: He has experienced many vicissitudes in his long career. - Example: The company has weathered the vicissitudes of the market.
+
+# weltanschauung - Pronunciation: /ˈvelt.ən.ʃaʊ.ʊŋ/ 🔊 - Meaning: 세계관 - Example: His weltanschauung was shaped by his experiences in the war. - Example: Their different weltanschauungen led to frequent disagreements.
+
+# zealot - Pronunciation: /ˈzel.ət/ 🔊 - Meaning: 열성분자 - Example: He's a zealot when it comes to environmental issues. - Example: The party was taken over by zealots.
+
+# aberration - Pronunciation: /ˌæb.əˈreɪ.ʃən/ 🔊 - Meaning: 일탈, 이상 - Example: His violent behavior was an aberration from his usually calm demeanor. - Example: The stock market crash was seen as an aberration in an otherwise stable economy.
+
+# blandishment - Pronunciation: /ˈblæn.dɪʃ.mənt/ 🔊 - Meaning: 감언이설, 아첨 - Example: He was immune to her blandishments. - Example: The salesman used blandishments to try to close the deal.
+
+# casuistry - Pronunciation: /ˈkæʒ.u.ɪ.stri/ 🔊 - Meaning: 궤변 - Example: His argument was full of casuistry and logical fallacies. - Example: She used casuistry to justify her unethical actions.
+
+# debacle - Pronunciation: /deɪˈbɑː.kəl/ 🔊 - Meaning: 대실패, 와해 - Example: The election result was a debacle for the ruling party. - Example: The company's expansion plan ended in a financial debacle.
+
+# encomium - Pronunciation: /ɪnˈkəʊ.mi.əm/ 🔊 - Meaning: 찬사, 칭찬 - Example: The retiring professor received an encomium from his colleagues. - Example: Her acceptance speech was an encomium to her mentors.
+
+# fulminate - Pronunciation: /ˈfʊl.mɪ.neɪt/ 🔊 - Meaning: 격렬히 비난하다 - Example: He fulminated against the new policy. - Example: The critic fulminated about the poor quality of the film.
+
+# gambit - Pronunciation: /ˈɡæm.bɪt/ 🔊 - Meaning: 책략, 수법 - Example: His opening gambit was to offer a compromise. - Example: The politician used a clever gambit to win votes.
+
+# hagiography - Pronunciation: /ˌhæɡ.iˈɒɡ.rə.fi/ 🔊 - Meaning: 성인전, 미화된 전기 - Example: The book was more hagiography than objective biography. - Example: Medieval literature includes many examples of hagiography.
+
+# ineluctable - Pronunciation: /ˌɪn.ɪˈlʌk.tə.bəl/ 🔊 - Meaning: 불가피한 - Example: Death is an ineluctable fate for all living beings. - Example: The ineluctable conclusion was that the project had failed.
+
+# jettison - Pronunciation: /ˈdʒet.ɪ.sən/ 🔊 - Meaning: 버리다, 포기하다 - Example: The airplane had to jettison fuel before making an emergency landing. - Example: The company decided to jettison the unprofitable division.
+
+# kismet - Pronunciation: /ˈkɪz.met/ 🔊 - Meaning: 운명, 숙명 - Example: She believed their meeting was kismet. - Example: He accepted his fate as kismet.
+
+# lassitude - Pronunciation: /ˈlæs.ɪ.tjuːd/ 🔊 - Meaning: 피로, 무기력 - Example: The heat of the day induced a feeling of lassitude. - Example: He was overcome with lassitude after the long journey.
+
+# mellifluous - Pronunciation: /məˈlɪf.lu.əs/ 🔊 - Meaning: 달콤한, 부드러운 - Example: She has a mellifluous voice. - Example: His mellifluous words charmed the audience.
+
+# nugatory - Pronunciation: /ˈnjuː.ɡə.tər.i/ 🔊 - Meaning: 하찮은, 무가치한 - Example: His objections were nugatory and easily dismissed. - Example: The contract contained several nugatory clauses.
+
+# obstreperous - Pronunciation: /əbˈstrep.ər.əs/ 🔊 - Meaning: 시끄러운, 난폭한 - Example: The obstreperous child was asked to leave the classroom. - Example: He became obstreperous after drinking too much.
+
+# panegyric - Pronunciation: /ˌpæn.ɪˈdʒɪr.ɪk/ 🔊 - Meaning: 찬사 - Example: The eulogy was a moving panegyric to the deceased. - Example: His speech was a panegyric to the achievements of the team.
+
+# quixotic - Pronunciation: /kwɪkˈsɒt.ɪk/ 🔊 - Meaning: 비현실적인 - Example: His quixotic quest for perfection was admirable but impractical. - Example: She had a quixotic vision of changing the world.
+
+# recondite - Pronunciation: /ˈrek.ən.daɪt/ 🔊 - Meaning: 난해한, 심오한 - Example: His lectures on quantum physics were too recondite for most students. - Example: She has a vast knowledge of recondite subjects.
+
+# sanguine - Pronunciation: /ˈsæŋ.ɡwɪn/ 🔊 - Meaning: 낙관적인 - Example: He remained sanguine about his chances of success. - Example: Despite the setbacks, she maintained a sanguine outlook.
+
+# tergiversate - Pronunciation: /ˈtɜː.dʒɪ.və.seɪt/ 🔊 - Meaning: 변절하다, 회피하다 - Example: The politician was accused of tergiversating on the issue. - Example: He tergiversated when asked direct questions about his involvement.
+
+# umbrage - Pronunciation: /ˈʌm.brɪdʒ/ 🔊 - Meaning: 분노, 불쾌감 - Example: He took umbrage at her criticism. - Example: She expressed umbrage at not being invited to the meeting.
+
+# verisimilitude - Pronunciation: /ˌver.ɪ.sɪˈmɪl.ɪ.tjuːd/ 🔊 - Meaning: 진실성, 있을 법함 - Example: The novel has a strong sense of verisimilitude. - Example: The film's attention to detail gives it verisimilitude.
+
+# weltanschauung - Pronunciation: /ˈvelt.ən.ʃaʊ.ʊŋ/ 🔊 - Meaning: 세계관 - Example: His weltanschauung was shaped by his experiences in the war. - Example: Their different weltanschauungen led to frequent disagreements.
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: We must combat xenophobia in our society. - Example: Xenophobia often stems from fear and ignorance.
+
+# yoke - Pronunciation: /jəʊk/ 🔊 - Meaning: 멍에, 속박 - Example: The oxen were fitted with a yoke. - Example: Many felt the yoke of oppression under the regime.
+
+# zeitgeist - Pronunciation: /ˈzaɪt.ɡaɪst/ 🔊 - Meaning: 시대정신 - Example: The artist captured the zeitgeist of the 1960s. - Example: Social media reflects the current zeitgeist.
+
+# apotheosis - Pronunciation: /əˌpɒθ.iˈəʊ.sɪs/ 🔊 - Meaning: 신격화, 이상화 - Example: The movie star's fame reached its apotheosis with her Oscar win. - Example: For many, he represents the apotheosis of athletic achievement.
+
+# bemused - Pronunciation: /bɪˈmjuːzd/ 🔊 - Meaning: 어리둥절한 - Example: He had a bemused expression on his face. - Example: She was bemused by his strange behavior.
+
+# cajole - Pronunciation: /kəˈdʒəʊl/ 🔊 - Meaning: 구슬리다, 달래다 - Example: She cajoled her father into buying her a new car. - Example: He tried to cajole his colleagues into supporting his proposal.
+
+# desiccate - Pronunciation: /ˈdes.ɪ.keɪt/ 🔊 - Meaning: 건조시키다 - Example: The heat will desiccate the grapes into raisins. - Example: The plants were completely desiccated by the drought.
+
+# effrontery - Pronunciation: /ɪˈfrʌn.tər.i/ 🔊 - Meaning: 뻔뻔스러움 - Example: He had the effrontery to demand a pay raise after his poor performance. - Example: I was shocked by her effrontery.
+
+# fecund - Pronunciation: /ˈfiː.kənd/ 🔊 - Meaning: 다산의, 비옥한 - Example: The valley's fecund soil produces abundant crops. - Example: She has a fecund imagination, always full of new ideas.
+
+# gossamer - Pronunciation: /ˈɡɒs.ə.mər/ 🔊 - Meaning: 거미줄, 극히 얇은 것 - Example: The bride wore a gossamer veil. - Example: His argument was as weak as gossamer.
+
+# histrionic - Pronunciation: /ˌhɪs.triˈɒn.ɪk/ 🔊 - Meaning: 연극적인, 과장된 - Example: Her histrionic outburst embarrassed everyone. - Example: The politician's histrionic speech failed to convince the audience.
+
+# ineffable - Pronunciation: /ɪnˈef.ə.bəl/ 🔊 - Meaning: 말로 표현할 수 없는 - Example: The beauty of the sunset was ineffable. - Example: He felt an ineffable joy at the birth of his child.
+
+# juxtapose - Pronunciation: /ˈdʒʌk.stə.pəʊz/ 🔊 - Meaning: 병치하다, 나란히 놓다 - Example: The artist juxtaposed images of war and peace. - Example: The essay juxtaposes different viewpoints on the issue.
+
+# knavery - Pronunciation: /ˈneɪ.vər.i/ 🔊 - Meaning: 부정행위 - Example: His knavery was finally exposed. - Example: The politician was accused of knavery and corruption.
+
+# lugubrious - Pronunciation: /luːˈɡuː.bri.əs/ 🔊 - Meaning: 슬퍼하는, 우울한 - Example: He gave a lugubrious account of his misfortunes. - Example: The lugubrious music set a somber mood.
+
+# meretricious - Pronunciation: /ˌmer.ɪˈtrɪʃ.əs/ 🔊 - Meaning: 겉만 그럴듯한 - Example: The building's meretricious facade hid its structural problems. - Example: He was not fooled by her meretricious charm.
+
+# numinous - Pronunciation: /ˈnjuː.mɪ.nəs/ 🔊 - Meaning: 신성한, 초자연적인 - Example: The ancient temple had a numinous atmosphere. - Example: She felt a numinous presence in the old church.
+
+# obsequious - Pronunciation: /əbˈsiː.kwi.əs/ 🔊 - Meaning: 아첨하는 - Example: He disliked the waiter's obsequious manner. - Example: Don't be obsequious; speak your mind.
+
+# palimpsest - Pronunciation: /ˈpæl.ɪmp.sest/ 🔊 - Meaning: 중복 원고 - Example: The old manuscript was a palimpsest, revealing layers of text. - Example: The city is a palimpsest of different historical periods.
+
+# quiescent - Pronunciation: /kwɪˈes.ənt/ 🔊 - Meaning: 조용한, 활동하지 않는 - Example: The volcano has been quiescent for centuries. - Example: The economy remained quiescent despite attempts to stimulate it.
+
+# redolent - Pronunciation: /ˈred.əl.ənt/ 🔊 - Meaning: 향기로운, 연상시키는 - Example: The kitchen was redolent with the smell of freshly baked bread. - Example: His writing is redolent of Hemingway's style.
+
+# solipsism - Pronunciation: /ˈsɒl.ɪp.sɪ.zəm/ 🔊 - Meaning: 유아론 - Example: His philosophy borders on solipsism. - Example: Solipsism is the extreme form of subjective idealism.
+
+# trenchant - Pronunciation: /ˈtren.tʃənt/ 🔊 - Meaning: 날카로운, 신랄한 - Example: Her trenchant criticism silenced the opposition. - Example: He is known for his trenchant wit.
+
+# uxorious - Pronunciation: /ʌkˈsɔː.ri.əs/ 🔊 - Meaning: 아내를 지나치게 사랑하는 - Example: His uxorious behavior was the subject of much teasing. - Example: The king was known for his uxorious devotion to his queen.
+
+# vituperate - Pronunciation: /vɪˈtjuː.pər.eɪt/ 🔊 - Meaning: 욕설하다, 맹비난하다 - Example: He vituperated against his opponents in a scathing speech. - Example: She was known to vituperate anyone who disagreed with her.
+
+# wistful - Pronunciation: /ˈwɪst.fəl/ 🔊 - Meaning: 그리워하는, 애수에 찬 - Example: She gave a wistful smile as she remembered her childhood. - Example: He felt wistful thinking about the missed opportunity.
+
+# yeoman - Pronunciation: /ˈjəʊ.mən/ 🔊 - Meaning: 자작농, 충실한 조수 - Example: He did yeoman's work in organizing the event. - Example: The yeoman farmers played a crucial role in medieval society.
+
+# abeyance - Pronunciation: /əˈbeɪ.əns/ 🔊 - Meaning: 중지 상태 - Example: The project is in abeyance until further notice. - Example: The law has been held in abeyance for years.
+
+# bifurcate - Pronunciation: /ˈbaɪ.fə.keɪt/ 🔊 - Meaning: 둘로 나누다 - Example: The road bifurcates at the old oak tree. - Example: The company decided to bifurcate its operations.
+
+# cacophony - Pronunciation: /kəˈkɒf.ə.ni/ 🔊 - Meaning: 불협화음, 소음 - Example: The cacophony of the city was overwhelming. - Example: There was a cacophony of voices in the crowded room.
+
+# diaphanous - Pronunciation: /daɪˈæf.ə.nəs/ 🔊 - Meaning: 얇고 투명한 - Example: She wore a diaphanous dress to the summer party. - Example: The diaphanous curtains barely blocked the sunlight.
+
+# evanescent - Pronunciation: /ˌev.əˈnes.ənt/ 🔊 - Meaning: 덧없는, 사라지기 쉬운 - Example: The evanescent beauty of cherry blossoms. - Example: Fame can be evanescent in the entertainment industry.
+
+# fecund - Pronunciation: /ˈfiː.kənd/ 🔊 - Meaning: 다산의, 비옥한 - Example: The valley's fecund soil produces abundant crops. - Example: She has a fecund imagination, always full of new ideas.
+
+# garrulous - Pronunciation: /ˈɡær.ə.ləs/ 🔊 - Meaning: 수다스러운 - Example: The garrulous old man talked for hours. - Example: She's known for her garrulous nature.
+
+# hegemony - Pronunciation: /hɪˈdʒem.ə.ni/ 🔊 - Meaning: 패권, 지배력 - Example: The country seeks to maintain its economic hegemony. - Example: They challenge the cultural hegemony of Hollywood.
+
+# ineffable - Pronunciation: /ɪnˈef.ə.bəl/ 🔊 - Meaning: 말로 표현할 수 없는 - Example: The beauty of the sunset was ineffable. - Example: He felt an ineffable joy at the birth of his child.
+
+# juxtapose - Pronunciation: /ˈdʒʌk.stə.pəʊz/ 🔊 - Meaning: 병치하다 - Example: The author juxtaposes two contrasting ideas. - Example: The exhibit juxtaposes ancient and modern art.
+
+# kindred - Pronunciation: /ˈkɪn.drəd/ 🔊 - Meaning: 동족의, 유사한 - Example: They are kindred spirits with similar interests. - Example: He felt a kindred connection with other artists.
+
+# loquacious - Pronunciation: /ləˈkweɪ.ʃəs/ 🔊 - Meaning: 수다스러운 - Example: The loquacious guest dominated the conversation. - Example: She's known for being loquacious at parties.
+
+# mellifluous - Pronunciation: /məˈlɪf.lu.əs/ 🔊 - Meaning: 달콤한, 부드러운 - Example: She has a mellifluous voice. - Example: His mellifluous words charmed the audience.
+
+# nefarious - Pronunciation: /nɪˈfeə.ri.əs/ 🔊 - Meaning: 악랄한 - Example: They uncovered a nefarious plot to overthrow the government. - Example: He was involved in nefarious activities.
+
+# obfuscate - Pronunciation: /ˈɒb.fʌs.keɪt/ 🔊 - Meaning: 혼란스럽게 하다 - Example: The politician tried to obfuscate the issue. - Example: Don't obfuscate the facts; speak clearly.
+
+# palimpsest - Pronunciation: /ˈpæl.ɪmp.sest/ 🔊 - Meaning: 중복 원고 - Example: The old manuscript was a palimpsest, revealing layers of text. - Example: The city is a palimpsest of different historical periods.
+
+# quixotic - Pronunciation: /kwɪkˈsɒt.ɪk/ 🔊 - Meaning: 비현실적인 - Example: His quixotic quest for perfection was admirable but impractical. - Example: She had a quixotic vision of changing the world.
+
+# recondite - Pronunciation: /ˈrek.ən.daɪt/ 🔊 - Meaning: 난해한 - Example: His lectures on quantum physics were too recondite for most students. - Example: She has a vast knowledge of recondite subjects.
+
+# sanguine - Pronunciation: /ˈsæŋ.ɡwɪn/ 🔊 - Meaning: 낙관적인 - Example: He remained sanguine about his chances of success. - Example: Despite the setbacks, she maintained a sanguine outlook.
+
+# tergiversate - Pronunciation: /ˈtɜː.dʒɪ.və.seɪt/ 🔊 - Meaning: 변절하다, 회피하다 - Example: The politician was accused of tergiversating on the issue. - Example: He tergiversated when asked direct questions about his involvement.
+
+# ubiquitous - Pronunciation: /juːˈbɪk.wɪ.təs/ 🔊 - Meaning: 어디에나 있는 - Example: Smartphones have become ubiquitous. - Example: Coffee shops are ubiquitous in this city.
+
+# verisimilitude - Pronunciation: /ˌver.ɪ.sɪˈmɪl.ɪ.tjuːd/ 🔊 - Meaning: 진실성 - Example: The novel has a strong sense of verisimilitude. - Example: The film's attention to detail gives it verisimilitude.
+
+# weltanschauung - Pronunciation: /ˈvelt.ən.ʃaʊ.ʊŋ/ 🔊 - Meaning: 세계관 - Example: His weltanschauung was shaped by his experiences in the war. - Example: Their different weltanschauungen led to frequent disagreements.
+
+# xenophobia - Pronunciation: /ˌzen.əˈfəʊ.bi.ə/ 🔊 - Meaning: 외국인 혐오 - Example: We must combat xenophobia in our society. - Example: Xenophobia often stems from fear and ignorance.
+
+# yearn - Pronunciation: /jɜːn/ 🔊 - Meaning: 갈망하다 - Example: She yearned for her homeland. - Example: He yearns to travel the world.
+
+# zeitgeist - Pronunciation: /ˈzaɪt.ɡaɪst/ 🔊 - Meaning: 시대정신 - Example: The artist captured the zeitgeist of the 1960s. - Example: Social media reflects the current zeitgeist.
+
+# anomaly - Pronunciation: /əˈnɒm.ə.li/ 🔊 - Meaning: 변칙, 이상 - Example: The data showed an anomaly that needed further investigation. - Example: His behavior was an anomaly in an otherwise consistent pattern.
+
+# bloviate - Pronunciation: /ˈbləʊ.vi.eɪt/ 🔊 - Meaning: 과장되게 말하다 - Example: The politician tends to bloviate during interviews. - Example: He bloviated about his accomplishments for hours.
+
+# catharsis - Pronunciation: /kəˈθɑː.sɪs/ 🔊 - Meaning: 카타르시스, 정화 - Example: Writing about her experiences provided a catharsis. - Example: The emotional scene in the movie offered catharsis to the audience.
+
+# denouement - Pronunciation: /ˌdeɪ.nuːˈmɒ̃/ 🔊 - Meaning: 결말 - Example: The denouement of the play was unexpected. - Example: The novel's denouement tied up all the loose ends.
+
+# ephemeral - Pronunciation: /ɪˈfem.ər.əl/ 🔊 - Meaning: 덧없는, 일시적인 - Example: Fame can be ephemeral. - Example: Social media trends are often ephemeral.
+
+# filibuster - Pronunciation: /ˈfɪl.ɪ.bʌs.tər/ 🔊 - Meaning: 의사진행방해 - Example: The senator used a filibuster to block the bill. - Example: The opposition party threatened to filibuster the legislation.
+
+# gregarious - Pronunciation: /ɡrɪˈɡeə.ri.əs/ 🔊 - Meaning: 사교적인 - Example: She has a gregarious personality. - Example: Dolphins are known to be gregarious animals.
+
+# harangue - Pronunciation: /həˈræŋ/ 🔊 - Meaning: 설교 - Example: The politician delivered a lengthy harangue. - Example: He harangued the team for their poor performance.
+
+# imbroglio - Pronunciation: /ɪmˈbrəʊ.li.əʊ/ 🔊 - Meaning: 복잡한 상황 - Example: The political imbroglio seemed impossible to resolve. - Example: He found himself in an imbroglio of legal complications.
+
+# jejune - Pronunciation: /dʒɪˈdʒuːn/ 🔊 - Meaning: 건조한, 지루한 - Example: The critic dismissed the work as jejune and unimaginative. - Example: His jejune remarks added nothing to the discussion.
+
+# kowtow - Pronunciation: /ˌkaʊˈtaʊ/ 🔊 - Meaning: 굴복하다 - Example: He refused to kowtow to their demands. - Example: Don't kowtow to pressure from others.
+
+# lassitude - Pronunciation: /ˈlæs.ɪ.tjuːd/ 🔊 - Meaning: 피로, 무기력 - Example: The heat of the day induced a feeling of lassitude. - Example: He was overcome with lassitude after the long journey.
+
+# maelstrom - Pronunciation: /ˈmeɪl.strəm/ 🔊 - Meaning: 소용돌이, 혼란 - Example: The city was caught in a maelstrom of political unrest. - Example: He found himself in a maelstrom of emotions.
+
+# nonplussed - Pronunciation: /ˌnɒnˈplʌst/ 🔊 - Meaning: 당황한 - Example: She was nonplussed by his sudden proposal. - Example: The unexpected question left him nonplussed.
+
+# obsequious - Pronunciation: /əbˈsiː.kwi.əs/ 🔊 - Meaning: 아첨하는 - Example: He disliked the waiter's obsequious manner. - Example: Don't be obsequious; speak your mind.
+
+# parsimonious - Pronunciation: /ˌpɑː.sɪˈməʊ.ni.əs/ 🔊 - Meaning: 극도로 절약하는 - Example: He's known for being parsimonious with his money. - Example: The company's parsimonious approach to spending helped it survive the recession.
+
+# quagmire - Pronunciation: /ˈkwæɡ.maɪər/ 🔊 - Meaning: 곤경 - Example: The project has become a legal quagmire. - Example: We're stuck in a quagmire of bureaucracy.
+
+# recalcitrant - Pronunciation: /rɪˈkæl.sɪ.trənt/ 🔊 - Meaning: 반항적인 - Example: The recalcitrant student refused to follow the rules. - Example: He's known for his recalcitrant attitude towards authority.
+
+# sycophant - Pronunciation: /ˈsɪk.ə.fənt/ 🔊 - Meaning: 아첨꾼 - Example: He's surrounded by sycophants who agree with everything he says. - Example: Don't be a sycophant; have your own opinions.
+
+# truculent - Pronunciation: /ˈtrʌk.jʊ.lənt/ 🔊 - Meaning: 호전적인 - Example: His truculent behavior is causing problems at work. - Example: The truculent child refused to cooperate with the teacher.
+
+# umbrage - Pronunciation: /ˈʌm.brɪdʒ/ 🔊 - Meaning: 분노, 불쾌감 - Example: He took umbrage at her criticism. - Example: She expressed umbrage at not being invited to the meeting.
+
+# vacillate - Pronunciation: /ˈvæs.ɪ.leɪt/ 🔊 - Meaning: 망설이다 - Example: He vacillated between two job offers. - Example: Don't vacillate; make a decision.
+
+# wanton - Pronunciation: /ˈwɒn.tən/ 🔊 - Meaning: 방탕한, 무분별한 - Example: The report criticized the wanton destruction of the forest. - Example: He was known for his wanton behavior in his youth.
+
+# zeal - Pronunciation: /ziːl/ 🔊 - Meaning: 열정 - Example: He approached the project with great zeal. - Example: Her zeal for her work is admirable.

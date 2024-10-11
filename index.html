@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>오늘의 단어 앱</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        #word-list {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+        .word-card {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            width: 250px;
+            text-align: center;
+        }
+        .word {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #007BFF; /* 파란색 */
+            cursor: pointer;
+        }
+        .pronunciation {
+            display: block;
+            font-size: 1.2em;
+            color: #555; /* 회색 */
+        }
+        .meaning {
+            font-size: 1em;
+            color: #333; /* 어두운 회색 */
+            margin: 10px 0;
+        }
+        .button {
+            background-color: #007BFF; /* 파란색 */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 15px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3; /* 어두운 파란색 */
+        }
+        #controls {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>오늘의 단어 앱</h1>
+    <div id="word-list"></div>
+    <div id="controls">
+        <button id="next-button" class="button">다음</button>
+    </div>
+
+    <script>
+        const wordsData = {{ words|tojson }}; // Jinja2를 사용하여 JSON 형식으로 변환
+
+        $(document).ready(function() {
+            let currentStart = 0; // 현재 시작 인덱스
+            const wordsPerPage = 5; // 한 번에 보여줄 단어 수
+
+            function loadWords() {
+                const wordsToShow = wordsData.slice(currentStart, currentStart + wordsPerPage); // 현재 인덱스에서 5개 단어 가져오기
+                if (wordsToShow.length === 0) {
+                    $('#next-button').prop('disabled', true).text('더 이상 단어가 없습니다.'); // 더 이상 단어가 없을 때 버튼 비활성화
+                    return;
+                }
+                wordsToShow.forEach(function(word) {
+                    $('#word-list').append(`
+                        <div class="word-card">
+                            <span class="word" onclick="showExamples(${JSON.stringify(word.examples)})">${word.word}</span>
+                            <span class="pronunciation">${word.pronunciation}</span>
+                            <span class="meaning">${word.meaning}</span>
+                            <button class="button" onclick="playSound('${word.word}')">🔊 발음 듣기</button>
+                        </div>
+                    `);
+                });
+                currentStart += wordsPerPage; // 다음 세트를 위해 인덱스 증가
+            }
+
+            loadWords(); // 초기 단어 로드
+
+            $('#next-button').click(function() {
+                loadWords(); // "다음" 버튼 클릭 시 단어 로드
+            });
+        });
+
+        function showExamples(examples) {
+            alert("예문: " + examples.join("\n")); // 예문 표시
+        }
+
+        function playSound(word) {
+            // 발음 재생 로직 (예: Audio 객체 사용)
+            console.log("Playing sound for: " + word);
+            const audio = new Audio(`sounds/${word}.mp3`); // 발음 파일 경로
+            audio.play();
+        }
+    </script>
+</body>
+</html>
